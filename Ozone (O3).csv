@@ -1,0 +1,1975 @@
+TimePeriod,GeoType,GeoID,GeoRank,Geography,10th percentile ppb,90th percentile ppb,Mean,Indicator,IndicatorID
+Summer 2022,CD,101,6,Financial District (CD1),29.1,31.7,30.3,O3,386
+Summer 2022,CD,102,6,Greenwich Village and Soho (CD2),29.2,31.2,30.2,O3,386
+Summer 2022,CD,103,6,Lower East Side and Chinatown (CD3),30,32.7,31.4,O3,386
+Summer 2022,CD,104,6,Clinton and Chelsea (CD4),27.6,31.5,29.5,O3,386
+Summer 2022,CD,105,6,Midtown (CD5),26.4,29.5,27.7,O3,386
+Summer 2022,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),27.7,32,29.7,O3,386
+Summer 2022,CD,107,6,Upper West Side (CD7),28.6,31,29.9,O3,386
+Summer 2022,CD,108,6,Upper East Side (CD8),29.2,32.6,30.7,O3,386
+Summer 2022,CD,109,6,Morningside Heights and Hamilton Heights (CD9),28.9,31.8,30.6,O3,386
+Summer 2022,CD,110,6,Central Harlem (CD10),30.2,32.1,31.2,O3,386
+Summer 2022,CD,111,6,East Harlem (CD11),30.4,32.5,31.5,O3,386
+Summer 2022,CD,112,6,Washington Heights and Inwood (CD12),26.6,32.1,29.6,O3,386
+Summer 2022,CD,201,6,Mott Haven and Melrose (CD1),30.4,33.1,31.9,O3,386
+Summer 2022,CD,202,6,Hunts Point and Longwood (CD2),31.6,34.1,32.8,O3,386
+Summer 2022,CD,203,6,Morrisania and Crotona (CD3),30.5,32.9,31.8,O3,386
+Summer 2022,CD,204,6,Highbridge and Concourse (CD4),29.3,32.6,31.3,O3,386
+Summer 2022,CD,205,6,Fordham and University Heights (CD5),29.6,32.3,31.2,O3,386
+Summer 2022,CD,206,6,Belmont and East Tremont (CD6),30.8,32.8,31.9,O3,386
+Summer 2022,CD,207,6,Kingsbridge Heights and Bedford (CD7),30.2,32.5,31.5,O3,386
+Summer 2022,CD,208,6,Riverdale and Fieldston (CD8),28.3,31.9,30.2,O3,386
+Summer 2022,CD,209,6,Parkchester and Soundview (CD9),31.3,34.3,32.9,O3,386
+Summer 2022,CD,210,6,Throgs Neck and Co-op City (CD10),31.7,35.6,33.6,O3,386
+Summer 2022,CD,211,6,Morris Park and Bronxdale (CD11),31.7,33.8,32.8,O3,386
+Summer 2022,CD,212,6,Williamsbridge and Baychester (CD12),30.2,32.9,31.8,O3,386
+Summer 2022,CD,301,6,Greenpoint and Williamsburg (CD1),31,33.8,32.5,O3,386
+Summer 2022,CD,302,6,Fort Greene and Brooklyn Heights (CD2),29.6,33.3,31.6,O3,386
+Summer 2022,CD,303,6,Bedford Stuyvesant (CD3),31.9,34.2,33.2,O3,386
+Summer 2022,CD,304,6,Bushwick (CD4),32.6,34.6,33.7,O3,386
+Summer 2022,CD,305,6,East New York and Starrett City (CD5),33.3,36,34.6,O3,386
+Summer 2022,CD,306,6,Park Slope and Carroll Gardens (CD6),31.3,34.4,32.9,O3,386
+Summer 2022,CD,307,6,Sunset Park (CD7),31.8,35.1,33.5,O3,386
+Summer 2022,CD,308,6,Crown Heights and Prospect Heights (CD8),32.3,34.4,33.4,O3,386
+Summer 2022,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),33.5,35.1,34.4,O3,386
+Summer 2022,CD,310,6,Bay Ridge and Dyker Heights (CD10),32.9,36.4,34.8,O3,386
+Summer 2022,CD,311,6,Bensonhurst (CD11),35.8,37.2,36.5,O3,386
+Summer 2022,CD,312,6,Borough Park (CD12),34.2,36,35.1,O3,386
+Summer 2022,CD,313,6,Coney Island (CD13),36.2,39.1,37.7,O3,386
+Summer 2022,CD,314,6,Flatbush and Midwood (CD14),33.7,35.9,34.9,O3,386
+Summer 2022,CD,315,6,Sheepshead Bay (CD15),35.7,38,36.8,O3,386
+Summer 2022,CD,316,6,Brownsville (CD16),33.3,35.1,34.2,O3,386
+Summer 2022,CD,317,6,East Flatbush (CD17),34.1,35.6,34.9,O3,386
+Summer 2022,CD,318,6,Flatlands and Canarsie (CD18),34.6,38.2,36.2,O3,386
+Summer 2022,CD,401,6,Long Island City and Astoria (CD1),31.8,36,33.6,O3,386
+Summer 2022,CD,402,6,Woodside and Sunnyside (CD2),31.5,34.1,32.8,O3,386
+Summer 2022,CD,403,6,Jackson Heights (CD3),33.1,35.2,34.2,O3,386
+Summer 2022,CD,404,6,Elmhurst and Corona (CD4),33.1,35,34.1,O3,386
+Summer 2022,CD,405,6,Ridgewood and Maspeth (CD5),32.3,35.4,34,O3,386
+Summer 2022,CD,406,6,Rego Park and Forest Hills (CD6),32.7,34.8,33.9,O3,386
+Summer 2022,CD,407,6,Flushing and Whitestone (CD7),33.2,35.5,34.4,O3,386
+Summer 2022,CD,408,6,Hillcrest and Fresh Meadows (CD8),32,35.2,33.9,O3,386
+Summer 2022,CD,409,6,Kew Gardens and Woodhaven (CD9),33.3,35.5,34.5,O3,386
+Summer 2022,CD,410,6,South Ozone Park and Howard Beach (CD10),34.3,36.8,35.5,O3,386
+Summer 2022,CD,411,6,Bayside and Little Neck (CD11),32,35.1,33.7,O3,386
+Summer 2022,CD,412,6,Jamaica and Hollis (CD12),33.7,35.4,34.6,O3,386
+Summer 2022,CD,413,6,Queens Village (CD13),33.4,35.7,34.7,O3,386
+Summer 2022,CD,414,6,Rockaway and Broad Channel (CD14),35.9,39.2,37.6,O3,386
+Summer 2022,CD,501,6,St. George and Stapleton (CD1),32.7,35.6,34.2,O3,386
+Summer 2022,CD,502,6,South Beach and Willowbrook (CD2),31.9,37.5,35.2,O3,386
+Summer 2022,CD,503,6,Tottenville and Great Kills (CD3),33.2,38.1,36,O3,386
+Summer 2022,UHF42,101,4,Kingsbridge - Riverdale,28.3,31.4,30,O3,386
+Summer 2022,UHF42,102,4,Northeast Bronx,30.9,33.3,32.2,O3,386
+Summer 2022,UHF42,103,4,Fordham - Bronx Pk,30.1,32.9,31.7,O3,386
+Summer 2022,UHF42,104,4,Pelham - Throgs Neck,31.6,34.9,33.3,O3,386
+Summer 2022,UHF42,105,4,Crotona -Tremont,29.8,32.7,31.4,O3,386
+Summer 2022,UHF42,106,4,High Bridge - Morrisania,30.1,32.7,31.5,O3,386
+Summer 2022,UHF42,107,4,Hunts Point - Mott Haven,31.2,35.9,32.9,O3,386
+Summer 2022,UHF42,201,4,Greenpoint,30.8,34,32.4,O3,386
+Summer 2022,UHF42,202,4,Downtown - Heights - Slope,30.5,34,32.3,O3,386
+Summer 2022,UHF42,203,4,Bedford Stuyvesant - Crown Heights,32.4,34.9,33.7,O3,386
+Summer 2022,UHF42,204,4,East New York,33.1,35.5,34.4,O3,386
+Summer 2022,UHF42,205,4,Sunset Park,31.7,35.5,33.7,O3,386
+Summer 2022,UHF42,206,4,Borough Park,34,36.3,35.2,O3,386
+Summer 2022,UHF42,207,4,East Flatbush - Flatbush,34,35.7,34.9,O3,386
+Summer 2022,UHF42,208,4,Canarsie - Flatlands,34.4,38.1,36.1,O3,386
+Summer 2022,UHF42,209,4,Bensonhurst - Bay Ridge,34,37.3,35.8,O3,386
+Summer 2022,UHF42,210,4,Coney Island - Sheepshead Bay,35.8,38.5,37.1,O3,386
+Summer 2022,UHF42,211,4,Williamsburg - Bushwick,32,34.2,33.2,O3,386
+Summer 2022,UHF42,301,4,Washington Heights,26.8,32,29.9,O3,386
+Summer 2022,UHF42,302,4,Central Harlem - Morningside Heights,29.5,32,30.9,O3,386
+Summer 2022,UHF42,303,4,East Harlem,30.6,32.6,31.6,O3,386
+Summer 2022,UHF42,304,4,Upper West Side,28.4,31,29.9,O3,386
+Summer 2022,UHF42,305,4,Upper East Side,29.3,32.6,30.8,O3,386
+Summer 2022,UHF42,306,4,Chelsea - Clinton,27,31,28.8,O3,386
+Summer 2022,UHF42,307,4,Gramercy Park - Murray Hill,26.7,31.1,28.9,O3,386
+Summer 2022,UHF42,308,4,Greenwich Village - SoHo,29.2,31.3,30.3,O3,386
+Summer 2022,UHF42,309,4,Union Square - Lower East Side,29.8,32.7,31.2,O3,386
+Summer 2022,UHF42,310,4,Lower Manhattan,28.9,31.7,30.3,O3,386
+Summer 2022,UHF42,401,4,Long Island City - Astoria,31.5,34.2,32.9,O3,386
+Summer 2022,UHF42,402,4,West Queens,31.9,34.9,33.6,O3,386
+Summer 2022,UHF42,403,4,Flushing - Clearview,33.2,35.5,34.5,O3,386
+Summer 2022,UHF42,404,4,Bayside - Little Neck,31.3,35,33.4,O3,386
+Summer 2022,UHF42,405,4,Ridgewood - Forest Hills,32.9,35.3,34.2,O3,386
+Summer 2022,UHF42,406,4,Fresh Meadows,32.9,35.3,34.2,O3,386
+Summer 2022,UHF42,407,4,Southwest Queens,33.8,36.4,35.2,O3,386
+Summer 2022,UHF42,408,4,Jamaica,33.2,35.4,34.4,O3,386
+Summer 2022,UHF42,409,4,Southeast Queens,33.5,35.7,34.7,O3,386
+Summer 2022,UHF42,410,4,Rockaways,35.9,39.1,37.5,O3,386
+Summer 2022,UHF42,501,4,Port Richmond,32.9,35.5,34.2,O3,386
+Summer 2022,UHF42,502,4,Stapleton - St. George,32.6,36.7,34.8,O3,386
+Summer 2022,UHF42,503,4,Willowbrook,31.6,37.3,34.8,O3,386
+Summer 2022,UHF42,504,4,South Beach - Tottenville,33.2,38.1,36,O3,386
+Summer 2022,UHF34,101,3,Kingsbridge - Riverdale,28.3,31.4,30,O3,386
+Summer 2022,UHF34,102,3,Northeast Bronx,30.9,33.3,32.2,O3,386
+Summer 2022,UHF34,103,3,Fordham - Bronx Pk,30.1,32.9,31.7,O3,386
+Summer 2022,UHF34,104,3,Pelham - Throgs Neck,31.6,34.9,33.3,O3,386
+Summer 2022,UHF34,201,3,Greenpoint,30.8,34,32.4,O3,386
+Summer 2022,UHF34,202,3,Downtown - Heights - Slope,30.5,34,32.3,O3,386
+Summer 2022,UHF34,203,3,Bedford Stuyvesant - Crown Heights,32.4,34.9,33.7,O3,386
+Summer 2022,UHF34,204,3,East New York,33.1,35.5,34.4,O3,386
+Summer 2022,UHF34,205,3,Sunset Park,31.7,35.5,33.7,O3,386
+Summer 2022,UHF34,206,3,Borough Park,34,36.3,35.2,O3,386
+Summer 2022,UHF34,207,3,East Flatbush - Flatbush,34,35.7,34.9,O3,386
+Summer 2022,UHF34,208,3,Canarsie - Flatlands,34.4,38.1,36.1,O3,386
+Summer 2022,UHF34,209,3,Bensonhurst - Bay Ridge,34,37.3,35.8,O3,386
+Summer 2022,UHF34,210,3,Coney Island - Sheepshead Bay,35.8,38.5,37.1,O3,386
+Summer 2022,UHF34,211,3,Williamsburg - Bushwick,32,34.2,33.2,O3,386
+Summer 2022,UHF34,301,3,Washington Heights,26.8,32,29.9,O3,386
+Summer 2022,UHF34,302,3,Central Harlem - Morningside Heights,29.5,32,30.9,O3,386
+Summer 2022,UHF34,303,3,East Harlem,30.6,32.6,31.6,O3,386
+Summer 2022,UHF34,304,3,Upper West Side,28.4,31,29.9,O3,386
+Summer 2022,UHF34,401,3,Long Island City - Astoria,31.5,34.2,32.9,O3,386
+Summer 2022,UHF34,402,3,West Queens,31.9,34.9,33.6,O3,386
+Summer 2022,UHF34,403,3,Flushing - Clearview,33.3,35.5,34.5,O3,386
+Summer 2022,UHF34,405,3,Ridgewood - Forest Hills,32.9,35.3,34.2,O3,386
+Summer 2022,UHF34,407,3,Southwest Queens,33.8,36.4,35.2,O3,386
+Summer 2022,UHF34,408,3,Jamaica,33.2,35.4,34.4,O3,386
+Summer 2022,UHF34,409,3,Southeast Queens,33.5,35.7,34.7,O3,386
+Summer 2022,UHF34,410,3,Rockaways,35.9,39.1,37.5,O3,386
+Summer 2022,UHF34,305307,3,Upper East Side-Gramercy,27.5,32.1,29.9,O3,386
+Summer 2022,UHF34,306308,3,Chelsea-Village  ,27.2,31.1,29.3,O3,386
+Summer 2022,UHF34,309310,3,Union Square-Lower Manhattan,29.5,32.5,30.9,O3,386
+Summer 2022,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,31.9,35.2,33.7,O3,386
+Summer 2022,UHF34,501502,3,Northern SI,32.7,36.5,34.6,O3,386
+Summer 2022,UHF34,503504,3,Southern SI,32.6,37.8,35.6,O3,386
+Summer 2022,UHF34,105106107,3,South Bronx,30.4,33.5,32.1,O3,386
+Summer 2022,Borough,1,1,Bronx,30.2,34.1,32.2,O3,386
+Summer 2022,Borough,2,1,Brooklyn,32.2,37,34.7,O3,386
+Summer 2022,Borough,3,1,Manhattan,27.7,32.1,30.2,O3,386
+Summer 2022,Borough,4,1,Queens,32.6,36.1,34.5,O3,386
+Summer 2022,Borough,5,1,Staten Island,32.6,37.5,35.3,O3,386
+Summer 2022,Citywide,1,0,New York City,31.1,36.8,34.1,O3,386
+Summer 2021,CD,101,6,Financial District (CD1),26.8,29.3,28,O3,386
+Summer 2021,CD,102,6,Greenwich Village and Soho (CD2),26.7,28.9,27.9,O3,386
+Summer 2021,CD,103,6,Lower East Side and Chinatown (CD3),27.1,29.7,28.4,O3,386
+Summer 2021,CD,104,6,Clinton and Chelsea (CD4),25.9,28.6,27.3,O3,386
+Summer 2021,CD,105,6,Midtown (CD5),25.8,27.9,26.9,O3,386
+Summer 2021,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),25.8,29.3,27.2,O3,386
+Summer 2021,CD,107,6,Upper West Side (CD7),26.5,28.9,27.8,O3,386
+Summer 2021,CD,108,6,Upper East Side (CD8),26.6,29.6,27.8,O3,386
+Summer 2021,CD,109,6,Morningside Heights and Hamilton Heights (CD9),27,29.9,28.6,O3,386
+Summer 2021,CD,110,6,Central Harlem (CD10),27.6,29.4,28.6,O3,386
+Summer 2021,CD,111,6,East Harlem (CD11),27.2,29.4,28.3,O3,386
+Summer 2021,CD,112,6,Washington Heights and Inwood (CD12),24.8,30.3,27.6,O3,386
+Summer 2021,CD,201,6,Mott Haven and Melrose (CD1),27.4,30.1,28.8,O3,386
+Summer 2021,CD,202,6,Hunts Point and Longwood (CD2),27.2,30.9,29.1,O3,386
+Summer 2021,CD,203,6,Morrisania and Crotona (CD3),28.2,30.5,29.4,O3,386
+Summer 2021,CD,204,6,Highbridge and Concourse (CD4),27.2,30.2,28.9,O3,386
+Summer 2021,CD,205,6,Fordham and University Heights (CD5),27.3,30.2,28.9,O3,386
+Summer 2021,CD,206,6,Belmont and East Tremont (CD6),28.5,30.4,29.5,O3,386
+Summer 2021,CD,207,6,Kingsbridge Heights and Bedford (CD7),28.6,30.9,29.8,O3,386
+Summer 2021,CD,208,6,Riverdale and Fieldston (CD8),27.6,30.7,29.1,O3,386
+Summer 2021,CD,209,6,Parkchester and Soundview (CD9),28.3,31.2,29.7,O3,386
+Summer 2021,CD,210,6,Throgs Neck and Co-op City (CD10),29.2,32.7,30.7,O3,386
+Summer 2021,CD,211,6,Morris Park and Bronxdale (CD11),29.2,31.4,30.3,O3,386
+Summer 2021,CD,212,6,Williamsbridge and Baychester (CD12),29.1,31.3,30.3,O3,386
+Summer 2021,CD,301,6,Greenpoint and Williamsburg (CD1),25.8,29.6,27.8,O3,386
+Summer 2021,CD,302,6,Fort Greene and Brooklyn Heights (CD2),27,30.2,28.6,O3,386
+Summer 2021,CD,303,6,Bedford Stuyvesant (CD3),27.8,31,29.6,O3,386
+Summer 2021,CD,304,6,Bushwick (CD4),28.7,31.5,30.4,O3,386
+Summer 2021,CD,305,6,East New York and Starrett City (CD5),29.9,32.9,31.3,O3,386
+Summer 2021,CD,306,6,Park Slope and Carroll Gardens (CD6),27.6,30.4,28.9,O3,386
+Summer 2021,CD,307,6,Sunset Park (CD7),27.1,30.4,28.9,O3,386
+Summer 2021,CD,308,6,Crown Heights and Prospect Heights (CD8),28.7,31,29.9,O3,386
+Summer 2021,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),29.7,31.5,30.6,O3,386
+Summer 2021,CD,310,6,Bay Ridge and Dyker Heights (CD10),28.3,31.1,29.7,O3,386
+Summer 2021,CD,311,6,Bensonhurst (CD11),30.5,31.8,31.2,O3,386
+Summer 2021,CD,312,6,Borough Park (CD12),29.5,31.3,30.4,O3,386
+Summer 2021,CD,313,6,Coney Island (CD13),31,34,32.4,O3,386
+Summer 2021,CD,314,6,Flatbush and Midwood (CD14),29.3,31.3,30.4,O3,386
+Summer 2021,CD,315,6,Sheepshead Bay (CD15),30.7,33.3,31.8,O3,386
+Summer 2021,CD,316,6,Brownsville (CD16),29.7,31.7,30.8,O3,386
+Summer 2021,CD,317,6,East Flatbush (CD17),30.1,31.9,31,O3,386
+Summer 2021,CD,318,6,Flatlands and Canarsie (CD18),30.4,34.8,32.2,O3,386
+Summer 2021,CD,401,6,Long Island City and Astoria (CD1),29,32.6,30.4,O3,386
+Summer 2021,CD,402,6,Woodside and Sunnyside (CD2),25.3,30.5,28,O3,386
+Summer 2021,CD,403,6,Jackson Heights (CD3),29.5,31.3,30.4,O3,386
+Summer 2021,CD,404,6,Elmhurst and Corona (CD4),29.4,31.2,30.3,O3,386
+Summer 2021,CD,405,6,Ridgewood and Maspeth (CD5),26.5,32.1,29.7,O3,386
+Summer 2021,CD,406,6,Rego Park and Forest Hills (CD6),29,31.3,30.2,O3,386
+Summer 2021,CD,407,6,Flushing and Whitestone (CD7),29.5,31.8,30.8,O3,386
+Summer 2021,CD,408,6,Hillcrest and Fresh Meadows (CD8),28.7,31.6,30.3,O3,386
+Summer 2021,CD,409,6,Kew Gardens and Woodhaven (CD9),29.9,32.1,31.1,O3,386
+Summer 2021,CD,410,6,South Ozone Park and Howard Beach (CD10),31.1,33.7,32.4,O3,386
+Summer 2021,CD,411,6,Bayside and Little Neck (CD11),29,31.6,30.3,O3,386
+Summer 2021,CD,412,6,Jamaica and Hollis (CD12),30.3,32.4,31.4,O3,386
+Summer 2021,CD,413,6,Queens Village (CD13),29.6,32.8,31.3,O3,386
+Summer 2021,CD,414,6,Rockaway and Broad Channel (CD14),33.4,36.7,34.9,O3,386
+Summer 2021,CD,501,6,St. George and Stapleton (CD1),27.2,29.9,28.6,O3,386
+Summer 2021,CD,502,6,South Beach and Willowbrook (CD2),26,32.1,29.4,O3,386
+Summer 2021,CD,503,6,Tottenville and Great Kills (CD3),27.5,32.5,30.2,O3,386
+Summer 2021,UHF42,101,4,Kingsbridge - Riverdale,27.6,30.3,29,O3,386
+Summer 2021,UHF42,102,4,Northeast Bronx,29.2,31.3,30.4,O3,386
+Summer 2021,UHF42,103,4,Fordham - Bronx Pk,28.9,31.1,30,O3,386
+Summer 2021,UHF42,104,4,Pelham - Throgs Neck,28.8,31.9,30.3,O3,386
+Summer 2021,UHF42,105,4,Crotona -Tremont,27.6,30.1,29,O3,386
+Summer 2021,UHF42,106,4,High Bridge - Morrisania,27.7,30.4,29.2,O3,386
+Summer 2021,UHF42,107,4,Hunts Point - Mott Haven,27.4,32.5,29.5,O3,386
+Summer 2021,UHF42,201,4,Greenpoint,26.1,29.5,27.8,O3,386
+Summer 2021,UHF42,202,4,Downtown - Heights - Slope,27.3,30.2,28.7,O3,386
+Summer 2021,UHF42,203,4,Bedford Stuyvesant - Crown Heights,29,31.5,30.3,O3,386
+Summer 2021,UHF42,204,4,East New York,29.8,32.3,31.1,O3,386
+Summer 2021,UHF42,205,4,Sunset Park,27.1,30.8,29,O3,386
+Summer 2021,UHF42,206,4,Borough Park,29.4,31.4,30.5,O3,386
+Summer 2021,UHF42,207,4,East Flatbush - Flatbush,29.9,31.7,30.9,O3,386
+Summer 2021,UHF42,208,4,Canarsie - Flatlands,30.2,34.7,32.3,O3,386
+Summer 2021,UHF42,209,4,Bensonhurst - Bay Ridge,28.8,31.9,30.4,O3,386
+Summer 2021,UHF42,210,4,Coney Island - Sheepshead Bay,30.8,33.5,32,O3,386
+Summer 2021,UHF42,211,4,Williamsburg - Bushwick,26.7,31,29.3,O3,386
+Summer 2021,UHF42,301,4,Washington Heights,25.2,30.3,27.9,O3,386
+Summer 2021,UHF42,302,4,Central Harlem - Morningside Heights,27.2,29.6,28.5,O3,386
+Summer 2021,UHF42,303,4,East Harlem,27.3,29.3,28.4,O3,386
+Summer 2021,UHF42,304,4,Upper West Side,26.5,28.9,27.8,O3,386
+Summer 2021,UHF42,305,4,Upper East Side,26.6,29.6,27.8,O3,386
+Summer 2021,UHF42,306,4,Chelsea - Clinton,25.8,28.3,27.1,O3,386
+Summer 2021,UHF42,307,4,Gramercy Park - Murray Hill,25.8,28.4,26.9,O3,386
+Summer 2021,UHF42,308,4,Greenwich Village - SoHo,26.8,28.9,28,O3,386
+Summer 2021,UHF42,309,4,Union Square - Lower East Side,27,29.7,28.3,O3,386
+Summer 2021,UHF42,310,4,Lower Manhattan,26.6,29.3,28,O3,386
+Summer 2021,UHF42,401,4,Long Island City - Astoria,26.7,30.7,29.2,O3,386
+Summer 2021,UHF42,402,4,West Queens,25.9,31.1,29.2,O3,386
+Summer 2021,UHF42,403,4,Flushing - Clearview,29.6,31.8,30.8,O3,386
+Summer 2021,UHF42,404,4,Bayside - Little Neck,28.4,31.5,30.1,O3,386
+Summer 2021,UHF42,405,4,Ridgewood - Forest Hills,29,32,30.5,O3,386
+Summer 2021,UHF42,406,4,Fresh Meadows,29.3,31.7,30.5,O3,386
+Summer 2021,UHF42,407,4,Southwest Queens,30.4,33.2,31.9,O3,386
+Summer 2021,UHF42,408,4,Jamaica,29.5,32.3,31,O3,386
+Summer 2021,UHF42,409,4,Southeast Queens,30,32.8,31.5,O3,386
+Summer 2021,UHF42,410,4,Rockaways,33.4,36.6,34.8,O3,386
+Summer 2021,UHF42,501,4,Port Richmond,27.3,29.8,28.6,O3,386
+Summer 2021,UHF42,502,4,Stapleton - St. George,27.1,31.1,29.1,O3,386
+Summer 2021,UHF42,503,4,Willowbrook,25.6,32,29.1,O3,386
+Summer 2021,UHF42,504,4,South Beach - Tottenville,27.4,32.5,30.2,O3,386
+Summer 2021,UHF34,101,3,Kingsbridge - Riverdale,27.6,30.3,29,O3,386
+Summer 2021,UHF34,102,3,Northeast Bronx,29.2,31.3,30.4,O3,386
+Summer 2021,UHF34,103,3,Fordham - Bronx Pk,28.9,31.1,30,O3,386
+Summer 2021,UHF34,104,3,Pelham - Throgs Neck,28.8,31.9,30.3,O3,386
+Summer 2021,UHF34,201,3,Greenpoint,26.1,29.5,27.8,O3,386
+Summer 2021,UHF34,202,3,Downtown - Heights - Slope,27.3,30.2,28.7,O3,386
+Summer 2021,UHF34,203,3,Bedford Stuyvesant - Crown Heights,29,31.5,30.3,O3,386
+Summer 2021,UHF34,204,3,East New York,29.8,32.3,31.1,O3,386
+Summer 2021,UHF34,205,3,Sunset Park,27.1,30.8,29,O3,386
+Summer 2021,UHF34,206,3,Borough Park,29.4,31.4,30.5,O3,386
+Summer 2021,UHF34,207,3,East Flatbush - Flatbush,29.9,31.7,30.9,O3,386
+Summer 2021,UHF34,208,3,Canarsie - Flatlands,30.2,34.7,32.3,O3,386
+Summer 2021,UHF34,209,3,Bensonhurst - Bay Ridge,28.8,31.9,30.4,O3,386
+Summer 2021,UHF34,210,3,Coney Island - Sheepshead Bay,30.8,33.5,32,O3,386
+Summer 2021,UHF34,211,3,Williamsburg - Bushwick,26.7,31,29.3,O3,386
+Summer 2021,UHF34,301,3,Washington Heights,25.2,30.3,27.9,O3,386
+Summer 2021,UHF34,302,3,Central Harlem - Morningside Heights,27.2,29.6,28.5,O3,386
+Summer 2021,UHF34,303,3,East Harlem,27.3,29.3,28.4,O3,386
+Summer 2021,UHF34,304,3,Upper West Side,26.5,28.9,27.8,O3,386
+Summer 2021,UHF34,401,3,Long Island City - Astoria,26.7,30.7,29.2,O3,386
+Summer 2021,UHF34,402,3,West Queens,25.9,31.1,29.2,O3,386
+Summer 2021,UHF34,403,3,Flushing - Clearview,29.6,31.8,30.8,O3,386
+Summer 2021,UHF34,405,3,Ridgewood - Forest Hills,29,32,30.5,O3,386
+Summer 2021,UHF34,407,3,Southwest Queens,30.4,33.2,31.9,O3,386
+Summer 2021,UHF34,408,3,Jamaica,29.5,32.3,31,O3,386
+Summer 2021,UHF34,409,3,Southeast Queens,30,32.8,31.5,O3,386
+Summer 2021,UHF34,410,3,Rockaways,33.4,36.6,34.8,O3,386
+Summer 2021,UHF34,305307,3,Upper East Side-Gramercy,26.1,29.2,27.4,O3,386
+Summer 2021,UHF34,306308,3,Chelsea-Village  ,26.1,28.6,27.4,O3,386
+Summer 2021,UHF34,309310,3,Union Square-Lower Manhattan,26.8,29.5,28.2,O3,386
+Summer 2021,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,28.8,31.6,30.3,O3,386
+Summer 2021,UHF34,501502,3,Northern SI,27.2,30.8,28.9,O3,386
+Summer 2021,UHF34,503504,3,Southern SI,26.7,32.3,29.8,O3,386
+Summer 2021,UHF34,105106107,3,South Bronx,27.5,30.7,29.2,O3,386
+Summer 2021,Borough,1,1,Bronx,28.1,31.4,29.8,O3,386
+Summer 2021,Borough,2,1,Brooklyn,28.1,32.4,30.5,O3,386
+Summer 2021,Borough,3,1,Manhattan,26.2,29.5,27.9,O3,386
+Summer 2021,Borough,4,1,Queens,29,33,30.9,O3,386
+Summer 2021,Borough,5,1,Staten Island,26.9,31.9,29.5,O3,386
+Summer 2021,Citywide,1,0,New York City,27.6,32.4,30.2,O3,386
+Summer 2020,CD,101,6,Financial District (CD1),26.6,28.9,27.9,O3,386
+Summer 2020,CD,102,6,Greenwich Village and Soho (CD2),27.5,29.4,28.5,O3,386
+Summer 2020,CD,103,6,Lower East Side and Chinatown (CD3),27.7,30.3,29,O3,386
+Summer 2020,CD,104,6,Clinton and Chelsea (CD4),26.8,30,28.4,O3,386
+Summer 2020,CD,105,6,Midtown (CD5),25.8,28.1,26.9,O3,386
+Summer 2020,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),26.8,30.1,28.1,O3,386
+Summer 2020,CD,107,6,Upper West Side (CD7),27.9,29.9,29,O3,386
+Summer 2020,CD,108,6,Upper East Side (CD8),28,31,29.3,O3,386
+Summer 2020,CD,109,6,Morningside Heights and Hamilton Heights (CD9),28,30.6,29.4,O3,386
+Summer 2020,CD,110,6,Central Harlem (CD10),28.9,30.3,29.6,O3,386
+Summer 2020,CD,111,6,East Harlem (CD11),29.1,31,30.1,O3,386
+Summer 2020,CD,112,6,Washington Heights and Inwood (CD12),26.3,30.4,28.7,O3,386
+Summer 2020,CD,201,6,Mott Haven and Melrose (CD1),29.4,31.7,30.6,O3,386
+Summer 2020,CD,202,6,Hunts Point and Longwood (CD2),30.1,33.2,31.5,O3,386
+Summer 2020,CD,203,6,Morrisania and Crotona (CD3),29.5,31.5,30.6,O3,386
+Summer 2020,CD,204,6,Highbridge and Concourse (CD4),28.4,30.9,29.9,O3,386
+Summer 2020,CD,205,6,Fordham and University Heights (CD5),28.1,30.5,29.7,O3,386
+Summer 2020,CD,206,6,Belmont and East Tremont (CD6),29.4,31.3,30.4,O3,386
+Summer 2020,CD,207,6,Kingsbridge Heights and Bedford (CD7),28.5,30.7,29.8,O3,386
+Summer 2020,CD,208,6,Riverdale and Fieldston (CD8),27.1,30.3,28.7,O3,386
+Summer 2020,CD,209,6,Parkchester and Soundview (CD9),30.4,33,31.7,O3,386
+Summer 2020,CD,210,6,Throgs Neck and Co-op City (CD10),30.9,34.3,32.4,O3,386
+Summer 2020,CD,211,6,Morris Park and Bronxdale (CD11),30.3,32.3,31.3,O3,386
+Summer 2020,CD,212,6,Williamsbridge and Baychester (CD12),29.3,31.4,30.5,O3,386
+Summer 2020,CD,301,6,Greenpoint and Williamsburg (CD1),28.4,30.7,29.6,O3,386
+Summer 2020,CD,302,6,Fort Greene and Brooklyn Heights (CD2),27.5,31,28.9,O3,386
+Summer 2020,CD,303,6,Bedford Stuyvesant (CD3),28.5,30,29.3,O3,386
+Summer 2020,CD,304,6,Bushwick (CD4),28.9,30.4,29.6,O3,386
+Summer 2020,CD,305,6,East New York and Starrett City (CD5),28.5,30.7,29.6,O3,386
+Summer 2020,CD,306,6,Park Slope and Carroll Gardens (CD6),27.5,30.2,28.7,O3,386
+Summer 2020,CD,307,6,Sunset Park (CD7),27.6,30.1,28.9,O3,386
+Summer 2020,CD,308,6,Crown Heights and Prospect Heights (CD8),28.1,29.9,29.1,O3,386
+Summer 2020,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),28.5,30,29.3,O3,386
+Summer 2020,CD,310,6,Bay Ridge and Dyker Heights (CD10),27.9,30.6,29.2,O3,386
+Summer 2020,CD,311,6,Bensonhurst (CD11),29.6,30.8,30.2,O3,386
+Summer 2020,CD,312,6,Borough Park (CD12),28.5,30.2,29.3,O3,386
+Summer 2020,CD,313,6,Coney Island (CD13),30.2,33.2,31.6,O3,386
+Summer 2020,CD,314,6,Flatbush and Midwood (CD14),28.3,30,29.2,O3,386
+Summer 2020,CD,315,6,Sheepshead Bay (CD15),29.5,31.8,30.6,O3,386
+Summer 2020,CD,316,6,Brownsville (CD16),28.3,30,29.2,O3,386
+Summer 2020,CD,317,6,East Flatbush (CD17),28.9,30.1,29.5,O3,386
+Summer 2020,CD,318,6,Flatlands and Canarsie (CD18),28.8,32.8,30.4,O3,386
+Summer 2020,CD,401,6,Long Island City and Astoria (CD1),30.5,33.8,31.8,O3,386
+Summer 2020,CD,402,6,Woodside and Sunnyside (CD2),29.3,31.9,30.6,O3,386
+Summer 2020,CD,403,6,Jackson Heights (CD3),30.7,32.5,31.6,O3,386
+Summer 2020,CD,404,6,Elmhurst and Corona (CD4),30.2,31.7,31,O3,386
+Summer 2020,CD,405,6,Ridgewood and Maspeth (CD5),28.6,31.5,30.2,O3,386
+Summer 2020,CD,406,6,Rego Park and Forest Hills (CD6),28.8,30.8,30,O3,386
+Summer 2020,CD,407,6,Flushing and Whitestone (CD7),30.1,32.8,31.6,O3,386
+Summer 2020,CD,408,6,Hillcrest and Fresh Meadows (CD8),28.4,31.1,29.9,O3,386
+Summer 2020,CD,409,6,Kew Gardens and Woodhaven (CD9),28.8,30.2,29.6,O3,386
+Summer 2020,CD,410,6,South Ozone Park and Howard Beach (CD10),28.8,30.8,29.8,O3,386
+Summer 2020,CD,411,6,Bayside and Little Neck (CD11),29,31.9,30.7,O3,386
+Summer 2020,CD,412,6,Jamaica and Hollis (CD12),28.6,30.2,29.4,O3,386
+Summer 2020,CD,413,6,Queens Village (CD13),28.8,31.1,30,O3,386
+Summer 2020,CD,414,6,Rockaway and Broad Channel (CD14),29.7,33.6,31.6,O3,386
+Summer 2020,CD,501,6,St. George and Stapleton (CD1),26,28.9,27.4,O3,386
+Summer 2020,CD,502,6,South Beach and Willowbrook (CD2),25.1,30.8,28.3,O3,386
+Summer 2020,CD,503,6,Tottenville and Great Kills (CD3),27.1,32,29.7,O3,386
+Summer 2020,UHF42,101,4,Kingsbridge - Riverdale,27,29.8,28.5,O3,386
+Summer 2020,UHF42,102,4,Northeast Bronx,29.8,31.8,30.8,O3,386
+Summer 2020,UHF42,103,4,Fordham - Bronx Pk,29.1,31.2,30.2,O3,386
+Summer 2020,UHF42,104,4,Pelham - Throgs Neck,30.7,33.4,32,O3,386
+Summer 2020,UHF42,105,4,Crotona -Tremont,28.6,31.4,30.1,O3,386
+Summer 2020,UHF42,106,4,High Bridge - Morrisania,29.1,31,30.1,O3,386
+Summer 2020,UHF42,107,4,Hunts Point - Mott Haven,29.9,33.8,31.5,O3,386
+Summer 2020,UHF42,201,4,Greenpoint,28.4,31,29.7,O3,386
+Summer 2020,UHF42,202,4,Downtown - Heights - Slope,27.5,30.4,28.8,O3,386
+Summer 2020,UHF42,203,4,Bedford Stuyvesant - Crown Heights,28.3,29.9,29.2,O3,386
+Summer 2020,UHF42,204,4,East New York,28.4,30.4,29.5,O3,386
+Summer 2020,UHF42,205,4,Sunset Park,27.5,30.3,28.9,O3,386
+Summer 2020,UHF42,206,4,Borough Park,28.4,30.2,29.4,O3,386
+Summer 2020,UHF42,207,4,East Flatbush - Flatbush,28.7,30.1,29.5,O3,386
+Summer 2020,UHF42,208,4,Canarsie - Flatlands,28.8,32.7,30.4,O3,386
+Summer 2020,UHF42,209,4,Bensonhurst - Bay Ridge,28.4,31.2,29.8,O3,386
+Summer 2020,UHF42,210,4,Coney Island - Sheepshead Bay,29.7,32.2,30.9,O3,386
+Summer 2020,UHF42,211,4,Williamsburg - Bushwick,28.5,30.2,29.4,O3,386
+Summer 2020,UHF42,301,4,Washington Heights,26.6,30.4,28.8,O3,386
+Summer 2020,UHF42,302,4,Central Harlem - Morningside Heights,28.4,30.5,29.5,O3,386
+Summer 2020,UHF42,303,4,East Harlem,29.3,31,30.2,O3,386
+Summer 2020,UHF42,304,4,Upper West Side,27.9,29.9,29,O3,386
+Summer 2020,UHF42,305,4,Upper East Side,28.1,31,29.3,O3,386
+Summer 2020,UHF42,306,4,Chelsea - Clinton,26.3,29.6,27.8,O3,386
+Summer 2020,UHF42,307,4,Gramercy Park - Murray Hill,26.2,29.2,27.6,O3,386
+Summer 2020,UHF42,308,4,Greenwich Village - SoHo,27.6,29.3,28.5,O3,386
+Summer 2020,UHF42,309,4,Union Square - Lower East Side,27.7,30.3,28.9,O3,386
+Summer 2020,UHF42,310,4,Lower Manhattan,26.4,29,27.7,O3,386
+Summer 2020,UHF42,401,4,Long Island City - Astoria,29.5,32.1,31,O3,386
+Summer 2020,UHF42,402,4,West Queens,29.4,32.1,30.9,O3,386
+Summer 2020,UHF42,403,4,Flushing - Clearview,30.3,32.7,31.6,O3,386
+Summer 2020,UHF42,404,4,Bayside - Little Neck,28.4,31.8,30.4,O3,386
+Summer 2020,UHF42,405,4,Ridgewood - Forest Hills,29,31.3,30.2,O3,386
+Summer 2020,UHF42,406,4,Fresh Meadows,29.4,31.7,30.5,O3,386
+Summer 2020,UHF42,407,4,Southwest Queens,28.8,30.6,29.7,O3,386
+Summer 2020,UHF42,408,4,Jamaica,28.6,30.3,29.5,O3,386
+Summer 2020,UHF42,409,4,Southeast Queens,28.8,31,30,O3,386
+Summer 2020,UHF42,410,4,Rockaways,29.7,33.5,31.5,O3,386
+Summer 2020,UHF42,501,4,Port Richmond,25.6,28.1,27,O3,386
+Summer 2020,UHF42,502,4,Stapleton - St. George,26.4,30.2,28.3,O3,386
+Summer 2020,UHF42,503,4,Willowbrook,24.7,30.1,27.7,O3,386
+Summer 2020,UHF42,504,4,South Beach - Tottenville,27,32,29.6,O3,386
+Summer 2020,UHF34,101,3,Kingsbridge - Riverdale,27,29.8,28.5,O3,386
+Summer 2020,UHF34,102,3,Northeast Bronx,29.8,31.8,30.8,O3,386
+Summer 2020,UHF34,103,3,Fordham - Bronx Pk,29.1,31.2,30.2,O3,386
+Summer 2020,UHF34,104,3,Pelham - Throgs Neck,30.7,33.4,32,O3,386
+Summer 2020,UHF34,201,3,Greenpoint,28.4,31,29.7,O3,386
+Summer 2020,UHF34,202,3,Downtown - Heights - Slope,27.5,30.4,28.8,O3,386
+Summer 2020,UHF34,203,3,Bedford Stuyvesant - Crown Heights,28.3,29.9,29.2,O3,386
+Summer 2020,UHF34,204,3,East New York,28.4,30.4,29.5,O3,386
+Summer 2020,UHF34,205,3,Sunset Park,27.5,30.3,28.9,O3,386
+Summer 2020,UHF34,206,3,Borough Park,28.4,30.2,29.4,O3,386
+Summer 2020,UHF34,207,3,East Flatbush - Flatbush,28.7,30.1,29.5,O3,386
+Summer 2020,UHF34,208,3,Canarsie - Flatlands,28.8,32.7,30.4,O3,386
+Summer 2020,UHF34,209,3,Bensonhurst - Bay Ridge,28.4,31.2,29.8,O3,386
+Summer 2020,UHF34,210,3,Coney Island - Sheepshead Bay,29.7,32.2,30.9,O3,386
+Summer 2020,UHF34,211,3,Williamsburg - Bushwick,28.5,30.2,29.4,O3,386
+Summer 2020,UHF34,301,3,Washington Heights,26.6,30.4,28.8,O3,386
+Summer 2020,UHF34,302,3,Central Harlem - Morningside Heights,28.4,30.5,29.5,O3,386
+Summer 2020,UHF34,303,3,East Harlem,29.3,31,30.2,O3,386
+Summer 2020,UHF34,304,3,Upper West Side,27.9,29.9,29,O3,386
+Summer 2020,UHF34,401,3,Long Island City - Astoria,29.5,32.1,31,O3,386
+Summer 2020,UHF34,402,3,West Queens,29.4,32.1,30.9,O3,386
+Summer 2020,UHF34,403,3,Flushing - Clearview,30.3,32.7,31.6,O3,386
+Summer 2020,UHF34,405,3,Ridgewood - Forest Hills,29,31.3,30.2,O3,386
+Summer 2020,UHF34,407,3,Southwest Queens,28.8,30.6,29.7,O3,386
+Summer 2020,UHF34,408,3,Jamaica,28.6,30.3,29.5,O3,386
+Summer 2020,UHF34,409,3,Southeast Queens,28.8,31,30,O3,386
+Summer 2020,UHF34,410,3,Rockaways,29.7,33.5,31.5,O3,386
+Summer 2020,UHF34,305307,3,Upper East Side-Gramercy,26.8,30.3,28.5,O3,386
+Summer 2020,UHF34,306308,3,Chelsea-Village  ,26.6,29.6,28.1,O3,386
+Summer 2020,UHF34,309310,3,Union Square-Lower Manhattan,27.1,30,28.5,O3,386
+Summer 2020,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,28.9,31.8,30.5,O3,386
+Summer 2020,UHF34,501502,3,Northern SI,26,29.9,27.8,O3,386
+Summer 2020,UHF34,503504,3,Southern SI,25.9,31.6,28.9,O3,386
+Summer 2020,UHF34,105106107,3,South Bronx,29.2,32.4,30.7,O3,386
+Summer 2020,Borough,1,1,Bronx,29,32.7,30.8,O3,386
+Summer 2020,Borough,2,1,Brooklyn,28.3,31.2,29.7,O3,386
+Summer 2020,Borough,3,1,Manhattan,27,30.4,28.8,O3,386
+Summer 2020,Borough,4,1,Queens,29,32.2,30.5,O3,386
+Summer 2020,Borough,5,1,Staten Island,26,31.2,28.6,O3,386
+Summer 2020,Citywide,1,0,New York City,27.7,31.9,29.8,O3,386
+Summer 2019,CD,101,6,Financial District (CD1),23.5,26.1,24.8,O3,386
+Summer 2019,CD,102,6,Greenwich Village and Soho (CD2),23.9,25.9,24.9,O3,386
+Summer 2019,CD,103,6,Lower East Side and Chinatown (CD3),24.5,27.1,25.9,O3,386
+Summer 2019,CD,104,6,Clinton and Chelsea (CD4),22.6,26,24.4,O3,386
+Summer 2019,CD,105,6,Midtown (CD5),21.8,24.3,23,O3,386
+Summer 2019,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),23,26.6,24.6,O3,386
+Summer 2019,CD,107,6,Upper West Side (CD7),24.3,26.6,25.6,O3,386
+Summer 2019,CD,108,6,Upper East Side (CD8),24.3,27.8,25.8,O3,386
+Summer 2019,CD,109,6,Morningside Heights and Hamilton Heights (CD9),25.3,28.4,27,O3,386
+Summer 2019,CD,110,6,Central Harlem (CD10),26.4,28.2,27.3,O3,386
+Summer 2019,CD,111,6,East Harlem (CD11),26.2,28.5,27.5,O3,386
+Summer 2019,CD,112,6,Washington Heights and Inwood (CD12),25.6,29.7,27.8,O3,386
+Summer 2019,CD,201,6,Mott Haven and Melrose (CD1),27.1,29.6,28.5,O3,386
+Summer 2019,CD,202,6,Hunts Point and Longwood (CD2),28.1,31.6,29.7,O3,386
+Summer 2019,CD,203,6,Morrisania and Crotona (CD3),28.2,30.1,29.2,O3,386
+Summer 2019,CD,204,6,Highbridge and Concourse (CD4),27.2,29.5,28.5,O3,386
+Summer 2019,CD,205,6,Fordham and University Heights (CD5),27.4,29.6,28.7,O3,386
+Summer 2019,CD,206,6,Belmont and East Tremont (CD6),28.5,30.3,29.5,O3,386
+Summer 2019,CD,207,6,Kingsbridge Heights and Bedford (CD7),28,30.3,29.2,O3,386
+Summer 2019,CD,208,6,Riverdale and Fieldston (CD8),26.9,30.4,28.6,O3,386
+Summer 2019,CD,209,6,Parkchester and Soundview (CD9),28.9,31.8,30.3,O3,386
+Summer 2019,CD,210,6,Throgs Neck and Co-op City (CD10),29.9,33.5,31.4,O3,386
+Summer 2019,CD,211,6,Morris Park and Bronxdale (CD11),29.3,31.2,30.3,O3,386
+Summer 2019,CD,212,6,Williamsbridge and Baychester (CD12),29.1,31,30.2,O3,386
+Summer 2019,CD,301,6,Greenpoint and Williamsburg (CD1),26.8,28.9,27.9,O3,386
+Summer 2019,CD,302,6,Fort Greene and Brooklyn Heights (CD2),26,29.3,27.5,O3,386
+Summer 2019,CD,303,6,Bedford Stuyvesant (CD3),28.3,30.9,29.6,O3,386
+Summer 2019,CD,304,6,Bushwick (CD4),29,31.8,30.5,O3,386
+Summer 2019,CD,305,6,East New York and Starrett City (CD5),31.7,35,33,O3,386
+Summer 2019,CD,306,6,Park Slope and Carroll Gardens (CD6),26.1,28.9,27.6,O3,386
+Summer 2019,CD,307,6,Sunset Park (CD7),27.2,30.3,28.8,O3,386
+Summer 2019,CD,308,6,Crown Heights and Prospect Heights (CD8),28.3,31.3,29.7,O3,386
+Summer 2019,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),29.6,31.6,30.6,O3,386
+Summer 2019,CD,310,6,Bay Ridge and Dyker Heights (CD10),28.2,31.6,29.7,O3,386
+Summer 2019,CD,311,6,Bensonhurst (CD11),30.8,32.4,31.6,O3,386
+Summer 2019,CD,312,6,Borough Park (CD12),29.3,31.9,30.4,O3,386
+Summer 2019,CD,313,6,Coney Island (CD13),32.1,35.7,33.6,O3,386
+Summer 2019,CD,314,6,Flatbush and Midwood (CD14),29.9,32.2,31.1,O3,386
+Summer 2019,CD,315,6,Sheepshead Bay (CD15),32.1,35.1,33.3,O3,386
+Summer 2019,CD,316,6,Brownsville (CD16),30.8,32.4,31.6,O3,386
+Summer 2019,CD,317,6,East Flatbush (CD17),31,32.5,31.8,O3,386
+Summer 2019,CD,318,6,Flatlands and Canarsie (CD18),32,37.1,34,O3,386
+Summer 2019,CD,401,6,Long Island City and Astoria (CD1),27.7,31.8,29.4,O3,386
+Summer 2019,CD,402,6,Woodside and Sunnyside (CD2),26.7,30.4,28.6,O3,386
+Summer 2019,CD,403,6,Jackson Heights (CD3),29.2,31.3,30.3,O3,386
+Summer 2019,CD,404,6,Elmhurst and Corona (CD4),29.8,31.4,30.6,O3,386
+Summer 2019,CD,405,6,Ridgewood and Maspeth (CD5),28.6,32.8,30.9,O3,386
+Summer 2019,CD,406,6,Rego Park and Forest Hills (CD6),30,32,31,O3,386
+Summer 2019,CD,407,6,Flushing and Whitestone (CD7),29.8,32.6,31.3,O3,386
+Summer 2019,CD,408,6,Hillcrest and Fresh Meadows (CD8),30.2,32.8,31.6,O3,386
+Summer 2019,CD,409,6,Kew Gardens and Woodhaven (CD9),31.3,33.3,32.4,O3,386
+Summer 2019,CD,410,6,South Ozone Park and Howard Beach (CD10),32.7,35.4,33.9,O3,386
+Summer 2019,CD,411,6,Bayside and Little Neck (CD11),30.4,32.9,31.8,O3,386
+Summer 2019,CD,412,6,Jamaica and Hollis (CD12),32.1,34,33.1,O3,386
+Summer 2019,CD,413,6,Queens Village (CD13),32.2,34.8,33.6,O3,386
+Summer 2019,CD,414,6,Rockaway and Broad Channel (CD14),36,39.6,37.5,O3,386
+Summer 2019,CD,501,6,St. George and Stapleton (CD1),26.2,29.5,27.8,O3,386
+Summer 2019,CD,502,6,South Beach and Willowbrook (CD2),26,32.2,29.5,O3,386
+Summer 2019,CD,503,6,Tottenville and Great Kills (CD3),26.8,32.3,30,O3,386
+Summer 2019,UHF42,101,4,Kingsbridge - Riverdale,26.8,30,28.4,O3,386
+Summer 2019,UHF42,102,4,Northeast Bronx,29.4,31.2,30.3,O3,386
+Summer 2019,UHF42,103,4,Fordham - Bronx Pk,28.5,30.7,29.6,O3,386
+Summer 2019,UHF42,104,4,Pelham - Throgs Neck,29.4,32.6,30.9,O3,386
+Summer 2019,UHF42,105,4,Crotona -Tremont,27.7,30.2,29.1,O3,386
+Summer 2019,UHF42,106,4,High Bridge - Morrisania,27.5,29.6,28.6,O3,386
+Summer 2019,UHF42,107,4,Hunts Point - Mott Haven,27.8,32,29.6,O3,386
+Summer 2019,UHF42,201,4,Greenpoint,26.7,28.8,27.8,O3,386
+Summer 2019,UHF42,202,4,Downtown - Heights - Slope,26.1,29.2,27.6,O3,386
+Summer 2019,UHF42,203,4,Bedford Stuyvesant - Crown Heights,28.7,32,30.5,O3,386
+Summer 2019,UHF42,204,4,East New York,31.3,34,32.6,O3,386
+Summer 2019,UHF42,205,4,Sunset Park,27.2,30.5,28.8,O3,386
+Summer 2019,UHF42,206,4,Borough Park,29.4,32,30.6,O3,386
+Summer 2019,UHF42,207,4,East Flatbush - Flatbush,30.1,32.5,31.4,O3,386
+Summer 2019,UHF42,208,4,Canarsie - Flatlands,32,37.1,34,O3,386
+Summer 2019,UHF42,209,4,Bensonhurst - Bay Ridge,28.8,32.8,30.8,O3,386
+Summer 2019,UHF42,210,4,Coney Island - Sheepshead Bay,32,35.2,33.3,O3,386
+Summer 2019,UHF42,211,4,Williamsburg - Bushwick,27.7,30.8,29.3,O3,386
+Summer 2019,UHF42,301,4,Washington Heights,25.7,29.5,27.7,O3,386
+Summer 2019,UHF42,302,4,Central Harlem - Morningside Heights,25.8,28.2,27.1,O3,386
+Summer 2019,UHF42,303,4,East Harlem,26.3,28.5,27.5,O3,386
+Summer 2019,UHF42,304,4,Upper West Side,24.3,26.7,25.6,O3,386
+Summer 2019,UHF42,305,4,Upper East Side,24.4,27.8,25.9,O3,386
+Summer 2019,UHF42,306,4,Chelsea - Clinton,22.2,25.6,23.8,O3,386
+Summer 2019,UHF42,307,4,Gramercy Park - Murray Hill,22.4,25.8,24,O3,386
+Summer 2019,UHF42,308,4,Greenwich Village - SoHo,24,25.9,25,O3,386
+Summer 2019,UHF42,309,4,Union Square - Lower East Side,24.4,27.1,25.7,O3,386
+Summer 2019,UHF42,310,4,Lower Manhattan,23.3,26.1,24.7,O3,386
+Summer 2019,UHF42,401,4,Long Island City - Astoria,26.7,29.7,28.4,O3,386
+Summer 2019,UHF42,402,4,West Queens,28.2,31.3,30,O3,386
+Summer 2019,UHF42,403,4,Flushing - Clearview,29.9,32.5,31.3,O3,386
+Summer 2019,UHF42,404,4,Bayside - Little Neck,30,33,31.7,O3,386
+Summer 2019,UHF42,405,4,Ridgewood - Forest Hills,29.9,32.7,31.3,O3,386
+Summer 2019,UHF42,406,4,Fresh Meadows,30.6,32.9,31.8,O3,386
+Summer 2019,UHF42,407,4,Southwest Queens,31.9,34.8,33.3,O3,386
+Summer 2019,UHF42,408,4,Jamaica,31.6,34,32.8,O3,386
+Summer 2019,UHF42,409,4,Southeast Queens,32,34.8,33.4,O3,386
+Summer 2019,UHF42,410,4,Rockaways,36,39.5,37.4,O3,386
+Summer 2019,UHF42,501,4,Port Richmond,26.1,28.4,27.3,O3,386
+Summer 2019,UHF42,502,4,Stapleton - St. George,26.4,31.7,29.1,O3,386
+Summer 2019,UHF42,503,4,Willowbrook,25.6,31.2,28.8,O3,386
+Summer 2019,UHF42,504,4,South Beach - Tottenville,26.9,32.5,30.1,O3,386
+Summer 2019,UHF34,101,3,Kingsbridge - Riverdale,26.8,30,28.4,O3,386
+Summer 2019,UHF34,102,3,Northeast Bronx,29.4,31.2,30.3,O3,386
+Summer 2019,UHF34,103,3,Fordham - Bronx Pk,28.5,30.7,29.6,O3,386
+Summer 2019,UHF34,104,3,Pelham - Throgs Neck,29.4,32.6,30.9,O3,386
+Summer 2019,UHF34,201,3,Greenpoint,26.7,28.8,27.8,O3,386
+Summer 2019,UHF34,202,3,Downtown - Heights - Slope,26.1,29.2,27.6,O3,386
+Summer 2019,UHF34,203,3,Bedford Stuyvesant - Crown Heights,28.7,32,30.5,O3,386
+Summer 2019,UHF34,204,3,East New York,31.3,34,32.6,O3,386
+Summer 2019,UHF34,205,3,Sunset Park,27.2,30.5,28.8,O3,386
+Summer 2019,UHF34,206,3,Borough Park,29.4,32,30.6,O3,386
+Summer 2019,UHF34,207,3,East Flatbush - Flatbush,30.1,32.5,31.4,O3,386
+Summer 2019,UHF34,208,3,Canarsie - Flatlands,32,37.1,34,O3,386
+Summer 2019,UHF34,209,3,Bensonhurst - Bay Ridge,28.8,32.8,30.8,O3,386
+Summer 2019,UHF34,210,3,Coney Island - Sheepshead Bay,32,35.2,33.3,O3,386
+Summer 2019,UHF34,211,3,Williamsburg - Bushwick,27.7,30.8,29.3,O3,386
+Summer 2019,UHF34,301,3,Washington Heights,25.7,29.5,27.7,O3,386
+Summer 2019,UHF34,302,3,Central Harlem - Morningside Heights,25.8,28.2,27.1,O3,386
+Summer 2019,UHF34,303,3,East Harlem,26.3,28.5,27.5,O3,386
+Summer 2019,UHF34,304,3,Upper West Side,24.3,26.7,25.6,O3,386
+Summer 2019,UHF34,401,3,Long Island City - Astoria,26.7,29.7,28.4,O3,386
+Summer 2019,UHF34,402,3,West Queens,28.2,31.3,30,O3,386
+Summer 2019,UHF34,403,3,Flushing - Clearview,29.9,32.5,31.3,O3,386
+Summer 2019,UHF34,405,3,Ridgewood - Forest Hills,29.9,32.7,31.3,O3,386
+Summer 2019,UHF34,407,3,Southwest Queens,31.9,34.8,33.3,O3,386
+Summer 2019,UHF34,408,3,Jamaica,31.6,34,32.8,O3,386
+Summer 2019,UHF34,409,3,Southeast Queens,32,34.8,33.4,O3,386
+Summer 2019,UHF34,410,3,Rockaways,36,39.5,37.4,O3,386
+Summer 2019,UHF34,305307,3,Upper East Side-Gramercy,23,27,25,O3,386
+Summer 2019,UHF34,306308,3,Chelsea-Village  ,22.4,25.8,24.2,O3,386
+Summer 2019,UHF34,309310,3,Union Square-Lower Manhattan,23.9,26.9,25.4,O3,386
+Summer 2019,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,30.3,33,31.7,O3,386
+Summer 2019,UHF34,501502,3,Northern SI,26.3,31.2,28.5,O3,386
+Summer 2019,UHF34,503504,3,Southern SI,26.4,32.1,29.6,O3,386
+Summer 2019,UHF34,105106107,3,South Bronx,27.7,30.7,29.2,O3,386
+Summer 2019,Borough,1,1,Bronx,28.1,31.6,29.9,O3,386
+Summer 2019,Borough,2,1,Brooklyn,27.7,33.9,31.1,O3,386
+Summer 2019,Borough,3,1,Manhattan,23.4,28.3,25.8,O3,386
+Summer 2019,Borough,4,1,Queens,29.3,34.9,32.2,O3,386
+Summer 2019,Borough,5,1,Staten Island,26.3,31.9,29.3,O3,386
+Summer 2019,Citywide,1,0,New York City,26.9,33.7,30.6,O3,386
+Summer 2018,CD,101,6,Financial District (CD1),24.6,27.4,26,O3,386
+Summer 2018,CD,102,6,Greenwich Village and Soho (CD2),25.1,27.4,26.2,O3,386
+Summer 2018,CD,103,6,Lower East Side and Chinatown (CD3),25.4,28.6,27.1,O3,386
+Summer 2018,CD,104,6,Clinton and Chelsea (CD4),23.6,27.9,25.9,O3,386
+Summer 2018,CD,105,6,Midtown (CD5),21.3,24.5,22.9,O3,386
+Summer 2018,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),22.9,27.4,24.9,O3,386
+Summer 2018,CD,107,6,Upper West Side (CD7),26,28.2,27.2,O3,386
+Summer 2018,CD,108,6,Upper East Side (CD8),24.6,29.6,26.9,O3,386
+Summer 2018,CD,109,6,Morningside Heights and Hamilton Heights (CD9),26.7,29.7,28.3,O3,386
+Summer 2018,CD,110,6,Central Harlem (CD10),27.6,29.7,28.6,O3,386
+Summer 2018,CD,111,6,East Harlem (CD11),27.6,30,28.8,O3,386
+Summer 2018,CD,112,6,Washington Heights and Inwood (CD12),26.9,31,29,O3,386
+Summer 2018,CD,201,6,Mott Haven and Melrose (CD1),28.4,30.9,29.7,O3,386
+Summer 2018,CD,202,6,Hunts Point and Longwood (CD2),29.2,32.6,30.7,O3,386
+Summer 2018,CD,203,6,Morrisania and Crotona (CD3),29.2,31,30.1,O3,386
+Summer 2018,CD,204,6,Highbridge and Concourse (CD4),28.2,30.5,29.5,O3,386
+Summer 2018,CD,205,6,Fordham and University Heights (CD5),28.3,30.5,29.7,O3,386
+Summer 2018,CD,206,6,Belmont and East Tremont (CD6),29.2,31.2,30.3,O3,386
+Summer 2018,CD,207,6,Kingsbridge Heights and Bedford (CD7),29,31.2,30.2,O3,386
+Summer 2018,CD,208,6,Riverdale and Fieldston (CD8),28.3,31.8,30,O3,386
+Summer 2018,CD,209,6,Parkchester and Soundview (CD9),29.6,32.7,31.1,O3,386
+Summer 2018,CD,210,6,Throgs Neck and Co-op City (CD10),30.4,34.1,32,O3,386
+Summer 2018,CD,211,6,Morris Park and Bronxdale (CD11),30.1,31.9,31.1,O3,386
+Summer 2018,CD,212,6,Williamsbridge and Baychester (CD12),30.1,32,31.1,O3,386
+Summer 2018,CD,301,6,Greenpoint and Williamsburg (CD1),27.7,30.1,28.9,O3,386
+Summer 2018,CD,302,6,Fort Greene and Brooklyn Heights (CD2),27,30.5,28.5,O3,386
+Summer 2018,CD,303,6,Bedford Stuyvesant (CD3),28.7,30.7,29.7,O3,386
+Summer 2018,CD,304,6,Bushwick (CD4),29.5,31.7,30.6,O3,386
+Summer 2018,CD,305,6,East New York and Starrett City (CD5),30.7,33.9,32,O3,386
+Summer 2018,CD,306,6,Park Slope and Carroll Gardens (CD6),27.2,30.3,28.6,O3,386
+Summer 2018,CD,307,6,Sunset Park (CD7),27.8,31,29.4,O3,386
+Summer 2018,CD,308,6,Crown Heights and Prospect Heights (CD8),28.5,30.9,29.7,O3,386
+Summer 2018,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),29.5,31.2,30.3,O3,386
+Summer 2018,CD,310,6,Bay Ridge and Dyker Heights (CD10),28.6,32,30.1,O3,386
+Summer 2018,CD,311,6,Bensonhurst (CD11),30.6,32,31.3,O3,386
+Summer 2018,CD,312,6,Borough Park (CD12),29.3,31.4,30.3,O3,386
+Summer 2018,CD,313,6,Coney Island (CD13),31.5,35.2,33,O3,386
+Summer 2018,CD,314,6,Flatbush and Midwood (CD14),29.7,31.6,30.7,O3,386
+Summer 2018,CD,315,6,Sheepshead Bay (CD15),31.3,34,32.4,O3,386
+Summer 2018,CD,316,6,Brownsville (CD16),30.1,31.7,31,O3,386
+Summer 2018,CD,317,6,East Flatbush (CD17),30.4,31.9,31.2,O3,386
+Summer 2018,CD,318,6,Flatlands and Canarsie (CD18),31.1,36,32.9,O3,386
+Summer 2018,CD,401,6,Long Island City and Astoria (CD1),28.9,32.8,30.5,O3,386
+Summer 2018,CD,402,6,Woodside and Sunnyside (CD2),28.1,31.4,29.7,O3,386
+Summer 2018,CD,403,6,Jackson Heights (CD3),29.6,31.6,30.6,O3,386
+Summer 2018,CD,404,6,Elmhurst and Corona (CD4),29.6,31.2,30.5,O3,386
+Summer 2018,CD,405,6,Ridgewood and Maspeth (CD5),29.3,32.6,30.9,O3,386
+Summer 2018,CD,406,6,Rego Park and Forest Hills (CD6),29.4,31.3,30.4,O3,386
+Summer 2018,CD,407,6,Flushing and Whitestone (CD7),30.1,32.5,31.3,O3,386
+Summer 2018,CD,408,6,Hillcrest and Fresh Meadows (CD8),29.3,31.8,30.7,O3,386
+Summer 2018,CD,409,6,Kew Gardens and Woodhaven (CD9),30.2,32,31.2,O3,386
+Summer 2018,CD,410,6,South Ozone Park and Howard Beach (CD10),31.2,33.8,32.4,O3,386
+Summer 2018,CD,411,6,Bayside and Little Neck (CD11),29.6,32.2,31.1,O3,386
+Summer 2018,CD,412,6,Jamaica and Hollis (CD12),30.6,32.2,31.5,O3,386
+Summer 2018,CD,413,6,Queens Village (CD13),30.8,33,31.9,O3,386
+Summer 2018,CD,414,6,Rockaway and Broad Channel (CD14),33.5,37.5,35.3,O3,386
+Summer 2018,CD,501,6,St. George and Stapleton (CD1),27.4,30.4,28.8,O3,386
+Summer 2018,CD,502,6,South Beach and Willowbrook (CD2),26.6,32.6,30,O3,386
+Summer 2018,CD,503,6,Tottenville and Great Kills (CD3),27.3,32.5,30.2,O3,386
+Summer 2018,UHF42,101,4,Kingsbridge - Riverdale,28.2,31.4,29.8,O3,386
+Summer 2018,UHF42,102,4,Northeast Bronx,30.2,32.1,31.2,O3,386
+Summer 2018,UHF42,103,4,Fordham - Bronx Pk,29.4,31.7,30.6,O3,386
+Summer 2018,UHF42,104,4,Pelham - Throgs Neck,30,33.3,31.5,O3,386
+Summer 2018,UHF42,105,4,Crotona -Tremont,28.5,31.1,30,O3,386
+Summer 2018,UHF42,106,4,High Bridge - Morrisania,28.6,30.6,29.7,O3,386
+Summer 2018,UHF42,107,4,Hunts Point - Mott Haven,28.9,32.9,30.6,O3,386
+Summer 2018,UHF42,201,4,Greenpoint,27.7,30.3,29,O3,386
+Summer 2018,UHF42,202,4,Downtown - Heights - Slope,27.1,30.2,28.5,O3,386
+Summer 2018,UHF42,203,4,Bedford Stuyvesant - Crown Heights,28.9,31.4,30.2,O3,386
+Summer 2018,UHF42,204,4,East New York,30.6,33,31.7,O3,386
+Summer 2018,UHF42,205,4,Sunset Park,27.7,31.3,29.5,O3,386
+Summer 2018,UHF42,206,4,Borough Park,29.4,31.5,30.4,O3,386
+Summer 2018,UHF42,207,4,East Flatbush - Flatbush,30,31.8,31,O3,386
+Summer 2018,UHF42,208,4,Canarsie - Flatlands,31,36,33,O3,386
+Summer 2018,UHF42,209,4,Bensonhurst - Bay Ridge,29.3,32.7,30.9,O3,386
+Summer 2018,UHF42,210,4,Coney Island - Sheepshead Bay,31.3,34.2,32.5,O3,386
+Summer 2018,UHF42,211,4,Williamsburg - Bushwick,28.4,30.8,29.6,O3,386
+Summer 2018,UHF42,301,4,Washington Heights,27.1,30.8,29,O3,386
+Summer 2018,UHF42,302,4,Central Harlem - Morningside Heights,27.1,29.7,28.4,O3,386
+Summer 2018,UHF42,303,4,East Harlem,27.6,29.8,28.8,O3,386
+Summer 2018,UHF42,304,4,Upper West Side,26,28.3,27.2,O3,386
+Summer 2018,UHF42,305,4,Upper East Side,24.8,29.6,27,O3,386
+Summer 2018,UHF42,306,4,Chelsea - Clinton,22.2,27.6,24.8,O3,386
+Summer 2018,UHF42,307,4,Gramercy Park - Murray Hill,21.9,26.5,24,O3,386
+Summer 2018,UHF42,308,4,Greenwich Village - SoHo,25.3,27.4,26.4,O3,386
+Summer 2018,UHF42,309,4,Union Square - Lower East Side,24.9,28.5,26.8,O3,386
+Summer 2018,UHF42,310,4,Lower Manhattan,24.3,27.4,25.9,O3,386
+Summer 2018,UHF42,401,4,Long Island City - Astoria,28.2,30.9,29.7,O3,386
+Summer 2018,UHF42,402,4,West Queens,29,31.5,30.3,O3,386
+Summer 2018,UHF42,403,4,Flushing - Clearview,30.1,32.4,31.3,O3,386
+Summer 2018,UHF42,404,4,Bayside - Little Neck,29.2,32.3,31,O3,386
+Summer 2018,UHF42,405,4,Ridgewood - Forest Hills,29.7,32.4,31,O3,386
+Summer 2018,UHF42,406,4,Fresh Meadows,29.8,32.2,31,O3,386
+Summer 2018,UHF42,407,4,Southwest Queens,30.6,33.2,31.9,O3,386
+Summer 2018,UHF42,408,4,Jamaica,30.3,32.3,31.3,O3,386
+Summer 2018,UHF42,409,4,Southeast Queens,30.6,32.9,31.8,O3,386
+Summer 2018,UHF42,410,4,Rockaways,33.5,37.3,35.2,O3,386
+Summer 2018,UHF42,501,4,Port Richmond,27.3,29.6,28.5,O3,386
+Summer 2018,UHF42,502,4,Stapleton - St. George,27.6,32.1,29.9,O3,386
+Summer 2018,UHF42,503,4,Willowbrook,26.2,31.8,29.4,O3,386
+Summer 2018,UHF42,504,4,South Beach - Tottenville,27.4,32.7,30.3,O3,386
+Summer 2018,UHF34,101,3,Kingsbridge - Riverdale,28.2,31.4,29.8,O3,386
+Summer 2018,UHF34,102,3,Northeast Bronx,30.2,32.1,31.2,O3,386
+Summer 2018,UHF34,103,3,Fordham - Bronx Pk,29.4,31.7,30.6,O3,386
+Summer 2018,UHF34,104,3,Pelham - Throgs Neck,30,33.3,31.5,O3,386
+Summer 2018,UHF34,201,3,Greenpoint,27.7,30.3,29,O3,386
+Summer 2018,UHF34,202,3,Downtown - Heights - Slope,27.1,30.2,28.5,O3,386
+Summer 2018,UHF34,203,3,Bedford Stuyvesant - Crown Heights,28.9,31.4,30.2,O3,386
+Summer 2018,UHF34,204,3,East New York,30.6,33,31.7,O3,386
+Summer 2018,UHF34,205,3,Sunset Park,27.7,31.3,29.5,O3,386
+Summer 2018,UHF34,206,3,Borough Park,29.4,31.5,30.4,O3,386
+Summer 2018,UHF34,207,3,East Flatbush - Flatbush,30,31.8,31,O3,386
+Summer 2018,UHF34,208,3,Canarsie - Flatlands,31,36,33,O3,386
+Summer 2018,UHF34,209,3,Bensonhurst - Bay Ridge,29.3,32.7,30.9,O3,386
+Summer 2018,UHF34,210,3,Coney Island - Sheepshead Bay,31.3,34.2,32.5,O3,386
+Summer 2018,UHF34,211,3,Williamsburg - Bushwick,28.4,30.8,29.6,O3,386
+Summer 2018,UHF34,301,3,Washington Heights,27.1,30.8,29,O3,386
+Summer 2018,UHF34,302,3,Central Harlem - Morningside Heights,27.1,29.7,28.4,O3,386
+Summer 2018,UHF34,303,3,East Harlem,27.6,29.8,28.8,O3,386
+Summer 2018,UHF34,304,3,Upper West Side,26,28.3,27.2,O3,386
+Summer 2018,UHF34,401,3,Long Island City - Astoria,28.2,30.9,29.7,O3,386
+Summer 2018,UHF34,402,3,West Queens,29,31.5,30.3,O3,386
+Summer 2018,UHF34,403,3,Flushing - Clearview,30.1,32.4,31.3,O3,386
+Summer 2018,UHF34,405,3,Ridgewood - Forest Hills,29.7,32.4,31,O3,386
+Summer 2018,UHF34,407,3,Southwest Queens,30.6,33.2,31.9,O3,386
+Summer 2018,UHF34,408,3,Jamaica,30.3,32.3,31.3,O3,386
+Summer 2018,UHF34,409,3,Southeast Queens,30.6,32.9,31.8,O3,386
+Summer 2018,UHF34,410,3,Rockaways,33.5,37.3,35.2,O3,386
+Summer 2018,UHF34,305307,3,Upper East Side-Gramercy,22.7,28.3,25.6,O3,386
+Summer 2018,UHF34,306308,3,Chelsea-Village  ,22.7,27.5,25.3,O3,386
+Summer 2018,UHF34,309310,3,Union Square-Lower Manhattan,24.6,28.3,26.5,O3,386
+Summer 2018,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,29.4,32.2,31,O3,386
+Summer 2018,UHF34,501502,3,Northern SI,27.5,31.7,29.4,O3,386
+Summer 2018,UHF34,503504,3,Southern SI,26.9,32.4,30,O3,386
+Summer 2018,UHF34,105106107,3,South Bronx,28.7,31.8,30.2,O3,386
+Summer 2018,Borough,1,1,Bronx,29.1,32.3,30.8,O3,386
+Summer 2018,Borough,2,1,Brooklyn,28.5,33,30.9,O3,386
+Summer 2018,Borough,3,1,Manhattan,23.8,29.6,27,O3,386
+Summer 2018,Borough,4,1,Queens,29.7,33.5,31.5,O3,386
+Summer 2018,Borough,5,1,Staten Island,27.1,32.2,29.8,O3,386
+Summer 2018,Citywide,1,0,New York City,27.9,32.8,30.6,O3,386
+Summer 2017,CD,101,6,Financial District (CD1),23.1,26.5,24.8,O3,386
+Summer 2017,CD,102,6,Greenwich Village and Soho (CD2),23.7,26.4,25.1,O3,386
+Summer 2017,CD,103,6,Lower East Side and Chinatown (CD3),23.9,27.6,25.9,O3,386
+Summer 2017,CD,104,6,Clinton and Chelsea (CD4),22,27,24.6,O3,386
+Summer 2017,CD,105,6,Midtown (CD5),19.4,23.2,21.3,O3,386
+Summer 2017,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),20.6,26.3,23.1,O3,386
+Summer 2017,CD,107,6,Upper West Side (CD7),24.4,26.7,25.6,O3,386
+Summer 2017,CD,108,6,Upper East Side (CD8),22.7,28.5,25.2,O3,386
+Summer 2017,CD,109,6,Morningside Heights and Hamilton Heights (CD9),25,27.7,26.4,O3,386
+Summer 2017,CD,110,6,Central Harlem (CD10),25.6,27.7,26.6,O3,386
+Summer 2017,CD,111,6,East Harlem (CD11),25.5,28.3,26.9,O3,386
+Summer 2017,CD,112,6,Washington Heights and Inwood (CD12),25.2,28.8,27,O3,386
+Summer 2017,CD,201,6,Mott Haven and Melrose (CD1),27,30,28.4,O3,386
+Summer 2017,CD,202,6,Hunts Point and Longwood (CD2),27.7,31.7,29.7,O3,386
+Summer 2017,CD,203,6,Morrisania and Crotona (CD3),27.3,29.2,28.3,O3,386
+Summer 2017,CD,204,6,Highbridge and Concourse (CD4),26.2,28.5,27.5,O3,386
+Summer 2017,CD,205,6,Fordham and University Heights (CD5),25.6,28.3,27.2,O3,386
+Summer 2017,CD,206,6,Belmont and East Tremont (CD6),26.8,29.1,28.1,O3,386
+Summer 2017,CD,207,6,Kingsbridge Heights and Bedford (CD7),26.6,28.8,27.7,O3,386
+Summer 2017,CD,208,6,Riverdale and Fieldston (CD8),26.2,29.5,27.7,O3,386
+Summer 2017,CD,209,6,Parkchester and Soundview (CD9),27.5,31.3,29.3,O3,386
+Summer 2017,CD,210,6,Throgs Neck and Co-op City (CD10),28.2,32.8,30.2,O3,386
+Summer 2017,CD,211,6,Morris Park and Bronxdale (CD11),28.2,30.2,29.2,O3,386
+Summer 2017,CD,212,6,Williamsbridge and Baychester (CD12),27.9,29.9,28.9,O3,386
+Summer 2017,CD,301,6,Greenpoint and Williamsburg (CD1),27.6,30.7,29.1,O3,386
+Summer 2017,CD,302,6,Fort Greene and Brooklyn Heights (CD2),25.9,29.9,27.6,O3,386
+Summer 2017,CD,303,6,Bedford Stuyvesant (CD3),27.9,29.8,28.9,O3,386
+Summer 2017,CD,304,6,Bushwick (CD4),29.1,30.9,29.9,O3,386
+Summer 2017,CD,305,6,East New York and Starrett City (CD5),29.7,33.5,31.2,O3,386
+Summer 2017,CD,306,6,Park Slope and Carroll Gardens (CD6),26.5,30.1,28.3,O3,386
+Summer 2017,CD,307,6,Sunset Park (CD7),27.4,31,29.2,O3,386
+Summer 2017,CD,308,6,Crown Heights and Prospect Heights (CD8),27.7,30,28.9,O3,386
+Summer 2017,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),28.5,30.3,29.4,O3,386
+Summer 2017,CD,310,6,Bay Ridge and Dyker Heights (CD10),27.6,31.4,29.2,O3,386
+Summer 2017,CD,311,6,Bensonhurst (CD11),29.8,31.2,30.5,O3,386
+Summer 2017,CD,312,6,Borough Park (CD12),28.7,30.8,29.6,O3,386
+Summer 2017,CD,313,6,Coney Island (CD13),30.9,34.8,32.4,O3,386
+Summer 2017,CD,314,6,Flatbush and Midwood (CD14),28.9,30.9,29.9,O3,386
+Summer 2017,CD,315,6,Sheepshead Bay (CD15),30.5,33.4,31.7,O3,386
+Summer 2017,CD,316,6,Brownsville (CD16),29.3,31.2,30.3,O3,386
+Summer 2017,CD,317,6,East Flatbush (CD17),29.4,31.3,30.4,O3,386
+Summer 2017,CD,318,6,Flatlands and Canarsie (CD18),30.5,35.7,32.4,O3,386
+Summer 2017,CD,401,6,Long Island City and Astoria (CD1),28.1,31.3,29.5,O3,386
+Summer 2017,CD,402,6,Woodside and Sunnyside (CD2),27.8,31.3,29.5,O3,386
+Summer 2017,CD,403,6,Jackson Heights (CD3),28.3,30.3,29.3,O3,386
+Summer 2017,CD,404,6,Elmhurst and Corona (CD4),28,30.1,29.2,O3,386
+Summer 2017,CD,405,6,Ridgewood and Maspeth (CD5),29,32,30.3,O3,386
+Summer 2017,CD,406,6,Rego Park and Forest Hills (CD6),28,30.3,29.2,O3,386
+Summer 2017,CD,407,6,Flushing and Whitestone (CD7),29,31.7,30.3,O3,386
+Summer 2017,CD,408,6,Hillcrest and Fresh Meadows (CD8),28.5,31.1,30,O3,386
+Summer 2017,CD,409,6,Kew Gardens and Woodhaven (CD9),29.2,31.3,30.4,O3,386
+Summer 2017,CD,410,6,South Ozone Park and Howard Beach (CD10),30.4,33.2,31.7,O3,386
+Summer 2017,CD,411,6,Bayside and Little Neck (CD11),28.5,31.6,30.3,O3,386
+Summer 2017,CD,412,6,Jamaica and Hollis (CD12),30.1,32,31.1,O3,386
+Summer 2017,CD,413,6,Queens Village (CD13),30.6,33.1,31.8,O3,386
+Summer 2017,CD,414,6,Rockaway and Broad Channel (CD14),33.7,37.7,35.3,O3,386
+Summer 2017,CD,501,6,St. George and Stapleton (CD1),26.1,29.3,27.5,O3,386
+Summer 2017,CD,502,6,South Beach and Willowbrook (CD2),25.6,31.2,28.7,O3,386
+Summer 2017,CD,503,6,Tottenville and Great Kills (CD3),26.2,30.9,28.8,O3,386
+Summer 2017,UHF42,101,4,Kingsbridge - Riverdale,26.1,29.1,27.5,O3,386
+Summer 2017,UHF42,102,4,Northeast Bronx,27.9,30.1,29,O3,386
+Summer 2017,UHF42,103,4,Fordham - Bronx Pk,27,29.6,28.3,O3,386
+Summer 2017,UHF42,104,4,Pelham - Throgs Neck,28,31.9,29.8,O3,386
+Summer 2017,UHF42,105,4,Crotona -Tremont,26.1,29.1,27.8,O3,386
+Summer 2017,UHF42,106,4,High Bridge - Morrisania,26.6,28.7,27.7,O3,386
+Summer 2017,UHF42,107,4,Hunts Point - Mott Haven,27.4,31.5,29.4,O3,386
+Summer 2017,UHF42,201,4,Greenpoint,27.3,30.7,29,O3,386
+Summer 2017,UHF42,202,4,Downtown - Heights - Slope,26.2,29.8,27.9,O3,386
+Summer 2017,UHF42,203,4,Bedford Stuyvesant - Crown Heights,28.1,30.7,29.4,O3,386
+Summer 2017,UHF42,204,4,East New York,29.6,32.4,30.9,O3,386
+Summer 2017,UHF42,205,4,Sunset Park,27.5,31.2,29.3,O3,386
+Summer 2017,UHF42,206,4,Borough Park,28.7,30.7,29.7,O3,386
+Summer 2017,UHF42,207,4,East Flatbush - Flatbush,29,31.2,30.1,O3,386
+Summer 2017,UHF42,208,4,Canarsie - Flatlands,30.5,35.6,32.4,O3,386
+Summer 2017,UHF42,209,4,Bensonhurst - Bay Ridge,28.3,32.1,30,O3,386
+Summer 2017,UHF42,210,4,Coney Island - Sheepshead Bay,30.6,33.6,31.9,O3,386
+Summer 2017,UHF42,211,4,Williamsburg - Bushwick,28.3,30.3,29.3,O3,386
+Summer 2017,UHF42,301,4,Washington Heights,25.3,28.5,26.9,O3,386
+Summer 2017,UHF42,302,4,Central Harlem - Morningside Heights,25.2,27.8,26.5,O3,386
+Summer 2017,UHF42,303,4,East Harlem,25.6,28.2,26.9,O3,386
+Summer 2017,UHF42,304,4,Upper West Side,24.4,26.7,25.6,O3,386
+Summer 2017,UHF42,305,4,Upper East Side,22.9,28.5,25.2,O3,386
+Summer 2017,UHF42,306,4,Chelsea - Clinton,20.6,26.6,23.4,O3,386
+Summer 2017,UHF42,307,4,Gramercy Park - Murray Hill,19.8,25,22.1,O3,386
+Summer 2017,UHF42,308,4,Greenwich Village - SoHo,23.9,26.5,25.2,O3,386
+Summer 2017,UHF42,309,4,Union Square - Lower East Side,23.1,27.6,25.6,O3,386
+Summer 2017,UHF42,310,4,Lower Manhattan,22.8,26.5,24.7,O3,386
+Summer 2017,UHF42,401,4,Long Island City - Astoria,27.9,30.2,29.1,O3,386
+Summer 2017,UHF42,402,4,West Queens,28.1,30.7,29.4,O3,386
+Summer 2017,UHF42,403,4,Flushing - Clearview,29,31.5,30.3,O3,386
+Summer 2017,UHF42,404,4,Bayside - Little Neck,28.2,31.7,30.3,O3,386
+Summer 2017,UHF42,405,4,Ridgewood - Forest Hills,28.7,31.8,30.1,O3,386
+Summer 2017,UHF42,406,4,Fresh Meadows,28.6,31.3,30.1,O3,386
+Summer 2017,UHF42,407,4,Southwest Queens,29.7,32.5,31.2,O3,386
+Summer 2017,UHF42,408,4,Jamaica,29.7,32,30.9,O3,386
+Summer 2017,UHF42,409,4,Southeast Queens,30.4,33,31.7,O3,386
+Summer 2017,UHF42,410,4,Rockaways,33.7,37.4,35.2,O3,386
+Summer 2017,UHF42,501,4,Port Richmond,25.9,28.2,27,O3,386
+Summer 2017,UHF42,502,4,Stapleton - St. George,26.6,31.1,28.8,O3,386
+Summer 2017,UHF42,503,4,Willowbrook,25.2,30.3,28,O3,386
+Summer 2017,UHF42,504,4,South Beach - Tottenville,26.4,31.3,29,O3,386
+Summer 2017,UHF34,101,3,Kingsbridge - Riverdale,26.1,29.1,27.5,O3,386
+Summer 2017,UHF34,102,3,Northeast Bronx,27.9,30.1,29,O3,386
+Summer 2017,UHF34,103,3,Fordham - Bronx Pk,27,29.6,28.3,O3,386
+Summer 2017,UHF34,104,3,Pelham - Throgs Neck,28,31.9,29.8,O3,386
+Summer 2017,UHF34,201,3,Greenpoint,27.3,30.7,29,O3,386
+Summer 2017,UHF34,202,3,Downtown - Heights - Slope,26.2,29.8,27.9,O3,386
+Summer 2017,UHF34,203,3,Bedford Stuyvesant - Crown Heights,28.1,30.7,29.4,O3,386
+Summer 2017,UHF34,204,3,East New York,29.6,32.4,30.9,O3,386
+Summer 2017,UHF34,205,3,Sunset Park,27.5,31.2,29.3,O3,386
+Summer 2017,UHF34,206,3,Borough Park,28.7,30.7,29.7,O3,386
+Summer 2017,UHF34,207,3,East Flatbush - Flatbush,29,31.2,30.1,O3,386
+Summer 2017,UHF34,208,3,Canarsie - Flatlands,30.5,35.6,32.4,O3,386
+Summer 2017,UHF34,209,3,Bensonhurst - Bay Ridge,28.3,32.1,30,O3,386
+Summer 2017,UHF34,210,3,Coney Island - Sheepshead Bay,30.6,33.6,31.9,O3,386
+Summer 2017,UHF34,211,3,Williamsburg - Bushwick,28.3,30.3,29.3,O3,386
+Summer 2017,UHF34,301,3,Washington Heights,25.3,28.5,26.9,O3,386
+Summer 2017,UHF34,302,3,Central Harlem - Morningside Heights,25.2,27.8,26.5,O3,386
+Summer 2017,UHF34,303,3,East Harlem,25.6,28.2,26.9,O3,386
+Summer 2017,UHF34,304,3,Upper West Side,24.4,26.7,25.6,O3,386
+Summer 2017,UHF34,401,3,Long Island City - Astoria,27.9,30.2,29.1,O3,386
+Summer 2017,UHF34,402,3,West Queens,28.1,30.7,29.4,O3,386
+Summer 2017,UHF34,403,3,Flushing - Clearview,29,31.5,30.3,O3,386
+Summer 2017,UHF34,405,3,Ridgewood - Forest Hills,28.7,31.8,30.1,O3,386
+Summer 2017,UHF34,407,3,Southwest Queens,29.7,32.5,31.2,O3,386
+Summer 2017,UHF34,408,3,Jamaica,29.7,32,30.9,O3,386
+Summer 2017,UHF34,409,3,Southeast Queens,30.4,33,31.7,O3,386
+Summer 2017,UHF34,410,3,Rockaways,33.7,37.4,35.2,O3,386
+Summer 2017,UHF34,305307,3,Upper East Side-Gramercy,20.6,27,23.8,O3,386
+Summer 2017,UHF34,306308,3,Chelsea-Village  ,21.1,26.6,24,O3,386
+Summer 2017,UHF34,309310,3,Union Square-Lower Manhattan,23.1,27.4,25.3,O3,386
+Summer 2017,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,28.3,31.6,30.2,O3,386
+Summer 2017,UHF34,501502,3,Northern SI,26.2,30.5,28.2,O3,386
+Summer 2017,UHF34,503504,3,Southern SI,25.8,30.9,28.6,O3,386
+Summer 2017,UHF34,105106107,3,South Bronx,26.8,30.6,28.4,O3,386
+Summer 2017,Borough,1,1,Bronx,27,30.8,28.8,O3,386
+Summer 2017,Borough,2,1,Brooklyn,28,32.4,30.3,O3,386
+Summer 2017,Borough,3,1,Manhattan,22.2,27.7,25.3,O3,386
+Summer 2017,Borough,4,1,Queens,28.8,33.1,30.8,O3,386
+Summer 2017,Borough,5,1,Staten Island,26,30.8,28.5,O3,386
+Summer 2017,Citywide,1,0,New York City,26.5,32.1,29.5,O3,386
+Summer 2016,CD,101,6,Financial District (CD1),29,30.8,29.8,O3,386
+Summer 2016,CD,102,6,Greenwich Village and Soho (CD2),29,31.2,29.9,O3,386
+Summer 2016,CD,103,6,Lower East Side and Chinatown (CD3),29.1,31.6,30.4,O3,386
+Summer 2016,CD,104,6,Clinton and Chelsea (CD4),28,31.9,29.8,O3,386
+Summer 2016,CD,105,6,Midtown (CD5),25.7,28.2,26.9,O3,386
+Summer 2016,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),26.6,30.2,28.2,O3,386
+Summer 2016,CD,107,6,Upper West Side (CD7),30.1,31.1,30.6,O3,386
+Summer 2016,CD,108,6,Upper East Side (CD8),28,32.7,30.1,O3,386
+Summer 2016,CD,109,6,Morningside Heights and Hamilton Heights (CD9),30.6,32.1,31.3,O3,386
+Summer 2016,CD,110,6,Central Harlem (CD10),30.8,32.3,31.4,O3,386
+Summer 2016,CD,111,6,East Harlem (CD11),30.9,32.8,31.7,O3,386
+Summer 2016,CD,112,6,Washington Heights and Inwood (CD12),31.1,33.2,32,O3,386
+Summer 2016,CD,201,6,Mott Haven and Melrose (CD1),32.2,33.8,32.8,O3,386
+Summer 2016,CD,202,6,Hunts Point and Longwood (CD2),32.4,35.2,33.7,O3,386
+Summer 2016,CD,203,6,Morrisania and Crotona (CD3),32.3,33,32.6,O3,386
+Summer 2016,CD,204,6,Highbridge and Concourse (CD4),31.7,32.7,32.2,O3,386
+Summer 2016,CD,205,6,Fordham and University Heights (CD5),31.5,32.5,32.1,O3,386
+Summer 2016,CD,206,6,Belmont and East Tremont (CD6),32.1,32.9,32.5,O3,386
+Summer 2016,CD,207,6,Kingsbridge Heights and Bedford (CD7),32,33,32.5,O3,386
+Summer 2016,CD,208,6,Riverdale and Fieldston (CD8),31.8,33.5,32.5,O3,386
+Summer 2016,CD,209,6,Parkchester and Soundview (CD9),32.2,34.9,33.2,O3,386
+Summer 2016,CD,210,6,Throgs Neck and Co-op City (CD10),32.6,36,34,O3,386
+Summer 2016,CD,211,6,Morris Park and Bronxdale (CD11),32.7,33.8,33.2,O3,386
+Summer 2016,CD,212,6,Williamsbridge and Baychester (CD12),32.6,33.8,33.2,O3,386
+Summer 2016,CD,301,6,Greenpoint and Williamsburg (CD1),31.8,34.2,33,O3,386
+Summer 2016,CD,302,6,Fort Greene and Brooklyn Heights (CD2),30.6,33.1,31.6,O3,386
+Summer 2016,CD,303,6,Bedford Stuyvesant (CD3),32.2,33.1,32.5,O3,386
+Summer 2016,CD,304,6,Bushwick (CD4),33,34.2,33.5,O3,386
+Summer 2016,CD,305,6,East New York and Starrett City (CD5),33.5,36.7,34.6,O3,386
+Summer 2016,CD,306,6,Park Slope and Carroll Gardens (CD6),31.1,33.9,32.3,O3,386
+Summer 2016,CD,307,6,Sunset Park (CD7),32.2,34.4,33.2,O3,386
+Summer 2016,CD,308,6,Crown Heights and Prospect Heights (CD8),32,33.3,32.5,O3,386
+Summer 2016,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),32.5,33.6,33,O3,386
+Summer 2016,CD,310,6,Bay Ridge and Dyker Heights (CD10),32.3,35.2,33.5,O3,386
+Summer 2016,CD,311,6,Bensonhurst (CD11),34,35,34.5,O3,386
+Summer 2016,CD,312,6,Borough Park (CD12),32.9,34.3,33.4,O3,386
+Summer 2016,CD,313,6,Coney Island (CD13),35.1,37.7,36.3,O3,386
+Summer 2016,CD,314,6,Flatbush and Midwood (CD14),32.9,34.2,33.6,O3,386
+Summer 2016,CD,315,6,Sheepshead Bay (CD15),34.4,37,35.4,O3,386
+Summer 2016,CD,316,6,Brownsville (CD16),33.4,34.1,33.7,O3,386
+Summer 2016,CD,317,6,East Flatbush (CD17),33.2,34.4,33.9,O3,386
+Summer 2016,CD,318,6,Flatlands and Canarsie (CD18),34.2,38.4,35.7,O3,386
+Summer 2016,CD,401,6,Long Island City and Astoria (CD1),32.5,35.1,33.4,O3,386
+Summer 2016,CD,402,6,Woodside and Sunnyside (CD2),32.5,34.5,33.4,O3,386
+Summer 2016,CD,403,6,Jackson Heights (CD3),32.4,33.6,33,O3,386
+Summer 2016,CD,404,6,Elmhurst and Corona (CD4),32.2,33.2,32.8,O3,386
+Summer 2016,CD,405,6,Ridgewood and Maspeth (CD5),32.9,34.8,33.8,O3,386
+Summer 2016,CD,406,6,Rego Park and Forest Hills (CD6),32.1,33.2,32.7,O3,386
+Summer 2016,CD,407,6,Flushing and Whitestone (CD7),32.8,34.4,33.5,O3,386
+Summer 2016,CD,408,6,Hillcrest and Fresh Meadows (CD8),32.3,33.5,33,O3,386
+Summer 2016,CD,409,6,Kew Gardens and Woodhaven (CD9),32.8,34.1,33.6,O3,386
+Summer 2016,CD,410,6,South Ozone Park and Howard Beach (CD10),33.9,36.3,34.9,O3,386
+Summer 2016,CD,411,6,Bayside and Little Neck (CD11),32.1,34,33.1,O3,386
+Summer 2016,CD,412,6,Jamaica and Hollis (CD12),33.4,34.6,34,O3,386
+Summer 2016,CD,413,6,Queens Village (CD13),33.4,35.4,34.4,O3,386
+Summer 2016,CD,414,6,Rockaway and Broad Channel (CD14),36.6,39.8,38.3,O3,386
+Summer 2016,CD,501,6,St. George and Stapleton (CD1),32.5,34.4,33.4,O3,386
+Summer 2016,CD,502,6,South Beach and Willowbrook (CD2),32.8,37.3,35.1,O3,386
+Summer 2016,CD,503,6,Tottenville and Great Kills (CD3),34.8,37.6,36.2,O3,386
+Summer 2016,UHF42,101,4,Kingsbridge - Riverdale,31.8,33.3,32.5,O3,386
+Summer 2016,UHF42,102,4,Northeast Bronx,32.6,33.8,33.2,O3,386
+Summer 2016,UHF42,103,4,Fordham - Bronx Pk,32.1,33.6,32.8,O3,386
+Summer 2016,UHF42,104,4,Pelham - Throgs Neck,32.4,35.3,33.6,O3,386
+Summer 2016,UHF42,105,4,Crotona -Tremont,31.7,32.9,32.3,O3,386
+Summer 2016,UHF42,106,4,High Bridge - Morrisania,31.9,32.8,32.3,O3,386
+Summer 2016,UHF42,107,4,Hunts Point - Mott Haven,32.4,35.3,33.6,O3,386
+Summer 2016,UHF42,201,4,Greenpoint,31.7,34.3,33,O3,386
+Summer 2016,UHF42,202,4,Downtown - Heights - Slope,30.9,33.4,32,O3,386
+Summer 2016,UHF42,203,4,Bedford Stuyvesant - Crown Heights,32.1,33.9,33,O3,386
+Summer 2016,UHF42,204,4,East New York,33.4,35.3,34.3,O3,386
+Summer 2016,UHF42,205,4,Sunset Park,32.2,34.6,33.3,O3,386
+Summer 2016,UHF42,206,4,Borough Park,32.8,34.3,33.5,O3,386
+Summer 2016,UHF42,207,4,East Flatbush - Flatbush,32.8,34.3,33.7,O3,386
+Summer 2016,UHF42,208,4,Canarsie - Flatlands,34.2,38.4,35.8,O3,386
+Summer 2016,UHF42,209,4,Bensonhurst - Bay Ridge,32.8,35.9,34.2,O3,386
+Summer 2016,UHF42,210,4,Coney Island - Sheepshead Bay,34.5,37.2,35.6,O3,386
+Summer 2016,UHF42,211,4,Williamsburg - Bushwick,32.4,33.7,33,O3,386
+Summer 2016,UHF42,301,4,Washington Heights,31.1,33,31.9,O3,386
+Summer 2016,UHF42,302,4,Central Harlem - Morningside Heights,30.7,32.3,31.4,O3,386
+Summer 2016,UHF42,303,4,East Harlem,30.9,32.7,31.6,O3,386
+Summer 2016,UHF42,304,4,Upper West Side,30.1,31.1,30.5,O3,386
+Summer 2016,UHF42,305,4,Upper East Side,28.1,32.8,30.2,O3,386
+Summer 2016,UHF42,306,4,Chelsea - Clinton,26.5,31.4,28.8,O3,386
+Summer 2016,UHF42,307,4,Gramercy Park - Murray Hill,26,29.4,27.5,O3,386
+Summer 2016,UHF42,308,4,Greenwich Village - SoHo,29.3,31.2,30,O3,386
+Summer 2016,UHF42,309,4,Union Square - Lower East Side,28.5,31.6,30.1,O3,386
+Summer 2016,UHF42,310,4,Lower Manhattan,28.9,30.8,29.7,O3,386
+Summer 2016,UHF42,401,4,Long Island City - Astoria,32.5,34,33.1,O3,386
+Summer 2016,UHF42,402,4,West Queens,32.4,34,33.1,O3,386
+Summer 2016,UHF42,403,4,Flushing - Clearview,32.8,34.4,33.4,O3,386
+Summer 2016,UHF42,404,4,Bayside - Little Neck,31.9,34.1,33,O3,386
+Summer 2016,UHF42,405,4,Ridgewood - Forest Hills,32.5,34.7,33.5,O3,386
+Summer 2016,UHF42,406,4,Fresh Meadows,32.5,33.9,33.2,O3,386
+Summer 2016,UHF42,407,4,Southwest Queens,33.2,35.6,34.3,O3,386
+Summer 2016,UHF42,408,4,Jamaica,33,34.7,33.9,O3,386
+Summer 2016,UHF42,409,4,Southeast Queens,33.2,35.3,34.3,O3,386
+Summer 2016,UHF42,410,4,Rockaways,36.6,39.6,38.2,O3,386
+Summer 2016,UHF42,501,4,Port Richmond,32.7,34.6,33.4,O3,386
+Summer 2016,UHF42,502,4,Stapleton - St. George,32.5,36.2,34.2,O3,386
+Summer 2016,UHF42,503,4,Willowbrook,32.6,36.9,34.7,O3,386
+Summer 2016,UHF42,504,4,South Beach - Tottenville,34.7,37.7,36.2,O3,386
+Summer 2016,UHF34,101,3,Kingsbridge - Riverdale,31.8,33.3,32.5,O3,386
+Summer 2016,UHF34,102,3,Northeast Bronx,32.6,33.8,33.2,O3,386
+Summer 2016,UHF34,103,3,Fordham - Bronx Pk,32.1,33.6,32.8,O3,386
+Summer 2016,UHF34,104,3,Pelham - Throgs Neck,32.4,35.3,33.6,O3,386
+Summer 2016,UHF34,201,3,Greenpoint,31.7,34.3,33,O3,386
+Summer 2016,UHF34,202,3,Downtown - Heights - Slope,30.9,33.4,32,O3,386
+Summer 2016,UHF34,203,3,Bedford Stuyvesant - Crown Heights,32.1,33.9,33,O3,386
+Summer 2016,UHF34,204,3,East New York,33.4,35.3,34.3,O3,386
+Summer 2016,UHF34,205,3,Sunset Park,32.2,34.6,33.3,O3,386
+Summer 2016,UHF34,206,3,Borough Park,32.8,34.3,33.5,O3,386
+Summer 2016,UHF34,207,3,East Flatbush - Flatbush,32.8,34.3,33.7,O3,386
+Summer 2016,UHF34,208,3,Canarsie - Flatlands,34.2,38.4,35.8,O3,386
+Summer 2016,UHF34,209,3,Bensonhurst - Bay Ridge,32.8,35.9,34.2,O3,386
+Summer 2016,UHF34,210,3,Coney Island - Sheepshead Bay,34.5,37.2,35.6,O3,386
+Summer 2016,UHF34,211,3,Williamsburg - Bushwick,32.4,33.7,33,O3,386
+Summer 2016,UHF34,301,3,Washington Heights,31.1,33,31.9,O3,386
+Summer 2016,UHF34,302,3,Central Harlem - Morningside Heights,30.7,32.3,31.4,O3,386
+Summer 2016,UHF34,303,3,East Harlem,30.9,32.7,31.6,O3,386
+Summer 2016,UHF34,304,3,Upper West Side,30.1,31.1,30.5,O3,386
+Summer 2016,UHF34,401,3,Long Island City - Astoria,32.5,34,33.1,O3,386
+Summer 2016,UHF34,402,3,West Queens,32.4,34,33.1,O3,386
+Summer 2016,UHF34,403,3,Flushing - Clearview,32.8,34.4,33.4,O3,386
+Summer 2016,UHF34,405,3,Ridgewood - Forest Hills,32.5,34.7,33.5,O3,386
+Summer 2016,UHF34,407,3,Southwest Queens,33.2,35.6,34.3,O3,386
+Summer 2016,UHF34,408,3,Jamaica,33,34.7,33.9,O3,386
+Summer 2016,UHF34,409,3,Southeast Queens,33.2,35.3,34.3,O3,386
+Summer 2016,UHF34,410,3,Rockaways,36.6,39.6,38.2,O3,386
+Summer 2016,UHF34,305307,3,Upper East Side-Gramercy,26.5,31.4,28.9,O3,386
+Summer 2016,UHF34,306308,3,Chelsea-Village  ,26.9,31.3,29.2,O3,386
+Summer 2016,UHF34,309310,3,Union Square-Lower Manhattan,28.7,31.4,30,O3,386
+Summer 2016,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,32.1,34,33,O3,386
+Summer 2016,UHF34,501502,3,Northern SI,32.6,35.7,33.9,O3,386
+Summer 2016,UHF34,503504,3,Southern SI,33.4,37.5,35.6,O3,386
+Summer 2016,UHF34,105106107,3,South Bronx,32,34.6,32.8,O3,386
+Summer 2016,Borough,1,1,Bronx,32.1,34.4,33.1,O3,386
+Summer 2016,Borough,2,1,Brooklyn,32.2,36.1,34,O3,386
+Summer 2016,Borough,3,1,Manhattan,27.7,32.2,30.3,O3,386
+Summer 2016,Borough,4,1,Queens,32.6,35.6,34,O3,386
+Summer 2016,Borough,5,1,Staten Island,32.9,37.2,35.1,O3,386
+Summer 2016,Citywide,1,0,New York City,32,36.4,33.8,O3,386
+Summer 2015,CD,101,6,Financial District (CD1),26.2,28.1,27.1,O3,386
+Summer 2015,CD,102,6,Greenwich Village and Soho (CD2),26.4,28.4,27.2,O3,386
+Summer 2015,CD,103,6,Lower East Side and Chinatown (CD3),26.6,29.3,28,O3,386
+Summer 2015,CD,104,6,Clinton and Chelsea (CD4),25.3,29.2,27.1,O3,386
+Summer 2015,CD,105,6,Midtown (CD5),23.1,25.5,24.3,O3,386
+Summer 2015,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),24.1,27.9,25.8,O3,386
+Summer 2015,CD,107,6,Upper West Side (CD7),27.7,28.7,28.1,O3,386
+Summer 2015,CD,108,6,Upper East Side (CD8),25.7,30.8,28,O3,386
+Summer 2015,CD,109,6,Morningside Heights and Hamilton Heights (CD9),28.2,29.5,28.8,O3,386
+Summer 2015,CD,110,6,Central Harlem (CD10),28.5,29.9,29.1,O3,386
+Summer 2015,CD,111,6,East Harlem (CD11),28.8,30.8,29.6,O3,386
+Summer 2015,CD,112,6,Washington Heights and Inwood (CD12),28.1,29.9,29,O3,386
+Summer 2015,CD,201,6,Mott Haven and Melrose (CD1),30.1,31.9,30.8,O3,386
+Summer 2015,CD,202,6,Hunts Point and Longwood (CD2),30.4,33.5,31.8,O3,386
+Summer 2015,CD,203,6,Morrisania and Crotona (CD3),29.9,30.7,30.2,O3,386
+Summer 2015,CD,204,6,Highbridge and Concourse (CD4),29,30.3,29.7,O3,386
+Summer 2015,CD,205,6,Fordham and University Heights (CD5),28.7,29.6,29.1,O3,386
+Summer 2015,CD,206,6,Belmont and East Tremont (CD6),29.4,30.2,29.8,O3,386
+Summer 2015,CD,207,6,Kingsbridge Heights and Bedford (CD7),28.8,29.7,29.2,O3,386
+Summer 2015,CD,208,6,Riverdale and Fieldston (CD8),28,29.7,28.8,O3,386
+Summer 2015,CD,209,6,Parkchester and Soundview (CD9),30,33,31.2,O3,386
+Summer 2015,CD,210,6,Throgs Neck and Co-op City (CD10),30,34,31.7,O3,386
+Summer 2015,CD,211,6,Morris Park and Bronxdale (CD11),29.9,31.3,30.5,O3,386
+Summer 2015,CD,212,6,Williamsbridge and Baychester (CD12),29.2,30.2,29.8,O3,386
+Summer 2015,CD,301,6,Greenpoint and Williamsburg (CD1),29.8,32.4,31,O3,386
+Summer 2015,CD,302,6,Fort Greene and Brooklyn Heights (CD2),28.3,30.8,29.4,O3,386
+Summer 2015,CD,303,6,Bedford Stuyvesant (CD3),30.2,31.2,30.6,O3,386
+Summer 2015,CD,304,6,Bushwick (CD4),31.2,32.5,31.7,O3,386
+Summer 2015,CD,305,6,East New York and Starrett City (CD5),31.9,35.2,32.9,O3,386
+Summer 2015,CD,306,6,Park Slope and Carroll Gardens (CD6),28.9,31.5,30,O3,386
+Summer 2015,CD,307,6,Sunset Park (CD7),30.1,32.4,31.2,O3,386
+Summer 2015,CD,308,6,Crown Heights and Prospect Heights (CD8),29.9,31.5,30.7,O3,386
+Summer 2015,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),30.7,31.9,31.2,O3,386
+Summer 2015,CD,310,6,Bay Ridge and Dyker Heights (CD10),30.4,33.7,31.8,O3,386
+Summer 2015,CD,311,6,Bensonhurst (CD11),32.6,34.1,33.4,O3,386
+Summer 2015,CD,312,6,Borough Park (CD12),31.2,33.2,32,O3,386
+Summer 2015,CD,313,6,Coney Island (CD13),34.5,37.2,35.8,O3,386
+Summer 2015,CD,314,6,Flatbush and Midwood (CD14),31.4,33.1,32.3,O3,386
+Summer 2015,CD,315,6,Sheepshead Bay (CD15),33.6,36.6,34.8,O3,386
+Summer 2015,CD,316,6,Brownsville (CD16),31.7,32.5,32.1,O3,386
+Summer 2015,CD,317,6,East Flatbush (CD17),31.6,33.1,32.4,O3,386
+Summer 2015,CD,318,6,Flatlands and Canarsie (CD18),33,37.8,34.7,O3,386
+Summer 2015,CD,401,6,Long Island City and Astoria (CD1),30.9,33.6,31.8,O3,386
+Summer 2015,CD,402,6,Woodside and Sunnyside (CD2),30.9,32.8,31.6,O3,386
+Summer 2015,CD,403,6,Jackson Heights (CD3),30.9,32.1,31.5,O3,386
+Summer 2015,CD,404,6,Elmhurst and Corona (CD4),30.6,31.8,31.2,O3,386
+Summer 2015,CD,405,6,Ridgewood and Maspeth (CD5),31.2,33.1,32.1,O3,386
+Summer 2015,CD,406,6,Rego Park and Forest Hills (CD6),30.5,31.6,31.1,O3,386
+Summer 2015,CD,407,6,Flushing and Whitestone (CD7),31.2,32.8,31.9,O3,386
+Summer 2015,CD,408,6,Hillcrest and Fresh Meadows (CD8),30.6,31.8,31.3,O3,386
+Summer 2015,CD,409,6,Kew Gardens and Woodhaven (CD9),31.1,32.3,31.8,O3,386
+Summer 2015,CD,410,6,South Ozone Park and Howard Beach (CD10),32.1,34.7,33.1,O3,386
+Summer 2015,CD,411,6,Bayside and Little Neck (CD11),30.4,32.3,31.4,O3,386
+Summer 2015,CD,412,6,Jamaica and Hollis (CD12),31.5,32.7,32.2,O3,386
+Summer 2015,CD,413,6,Queens Village (CD13),31.6,33.6,32.6,O3,386
+Summer 2015,CD,414,6,Rockaway and Broad Channel (CD14),35.6,39.2,37.5,O3,386
+Summer 2015,CD,501,6,St. George and Stapleton (CD1),29.5,31.7,30.4,O3,386
+Summer 2015,CD,502,6,South Beach and Willowbrook (CD2),30.1,34.9,32.5,O3,386
+Summer 2015,CD,503,6,Tottenville and Great Kills (CD3),32.6,35.5,34.1,O3,386
+Summer 2015,UHF42,101,4,Kingsbridge - Riverdale,28,29.6,28.7,O3,386
+Summer 2015,UHF42,102,4,Northeast Bronx,29.3,30.5,29.9,O3,386
+Summer 2015,UHF42,103,4,Fordham - Bronx Pk,28.9,30.1,29.5,O3,386
+Summer 2015,UHF42,104,4,Pelham - Throgs Neck,30.1,33.4,31.4,O3,386
+Summer 2015,UHF42,105,4,Crotona -Tremont,29,30.3,29.6,O3,386
+Summer 2015,UHF42,106,4,High Bridge - Morrisania,29.4,30.5,29.9,O3,386
+Summer 2015,UHF42,107,4,Hunts Point - Mott Haven,30.3,33.6,31.7,O3,386
+Summer 2015,UHF42,201,4,Greenpoint,29.6,32.4,31,O3,386
+Summer 2015,UHF42,202,4,Downtown - Heights - Slope,28.6,31.1,29.8,O3,386
+Summer 2015,UHF42,203,4,Bedford Stuyvesant - Crown Heights,30.1,32.2,31.2,O3,386
+Summer 2015,UHF42,204,4,East New York,31.7,33.6,32.6,O3,386
+Summer 2015,UHF42,205,4,Sunset Park,30.2,32.5,31.3,O3,386
+Summer 2015,UHF42,206,4,Borough Park,31.2,33.2,32.1,O3,386
+Summer 2015,UHF42,207,4,East Flatbush - Flatbush,31,33.1,32.2,O3,386
+Summer 2015,UHF42,208,4,Canarsie - Flatlands,32.9,37.7,34.7,O3,386
+Summer 2015,UHF42,209,4,Bensonhurst - Bay Ridge,30.9,34.7,32.8,O3,386
+Summer 2015,UHF42,210,4,Coney Island - Sheepshead Bay,33.7,36.7,35,O3,386
+Summer 2015,UHF42,211,4,Williamsburg - Bushwick,30.4,31.9,31.1,O3,386
+Summer 2015,UHF42,301,4,Washington Heights,28.2,29.8,29,O3,386
+Summer 2015,UHF42,302,4,Central Harlem - Morningside Heights,28.3,29.9,29,O3,386
+Summer 2015,UHF42,303,4,East Harlem,28.9,30.8,29.6,O3,386
+Summer 2015,UHF42,304,4,Upper West Side,27.7,28.6,28.1,O3,386
+Summer 2015,UHF42,305,4,Upper East Side,25.9,30.8,28.1,O3,386
+Summer 2015,UHF42,306,4,Chelsea - Clinton,23.8,28.8,26.1,O3,386
+Summer 2015,UHF42,307,4,Gramercy Park - Murray Hill,23.5,27.1,25.1,O3,386
+Summer 2015,UHF42,308,4,Greenwich Village - SoHo,26.6,28.5,27.4,O3,386
+Summer 2015,UHF42,309,4,Union Square - Lower East Side,26,29.3,27.7,O3,386
+Summer 2015,UHF42,310,4,Lower Manhattan,26.2,28,27,O3,386
+Summer 2015,UHF42,401,4,Long Island City - Astoria,30.8,32.2,31.4,O3,386
+Summer 2015,UHF42,402,4,West Queens,30.9,32.4,31.6,O3,386
+Summer 2015,UHF42,403,4,Flushing - Clearview,31.2,32.8,31.9,O3,386
+Summer 2015,UHF42,404,4,Bayside - Little Neck,30.2,32.4,31.3,O3,386
+Summer 2015,UHF42,405,4,Ridgewood - Forest Hills,30.9,33,31.8,O3,386
+Summer 2015,UHF42,406,4,Fresh Meadows,30.8,32.3,31.5,O3,386
+Summer 2015,UHF42,407,4,Southwest Queens,31.5,34,32.6,O3,386
+Summer 2015,UHF42,408,4,Jamaica,31.2,32.9,32,O3,386
+Summer 2015,UHF42,409,4,Southeast Queens,31.4,33.5,32.5,O3,386
+Summer 2015,UHF42,410,4,Rockaways,35.6,39.1,37.4,O3,386
+Summer 2015,UHF42,501,4,Port Richmond,29.5,30.8,30,O3,386
+Summer 2015,UHF42,502,4,Stapleton - St. George,29.8,34.2,31.8,O3,386
+Summer 2015,UHF42,503,4,Willowbrook,29.8,33.7,31.7,O3,386
+Summer 2015,UHF42,504,4,South Beach - Tottenville,32.5,35.6,34.1,O3,386
+Summer 2015,UHF34,101,3,Kingsbridge - Riverdale,28,29.6,28.7,O3,386
+Summer 2015,UHF34,102,3,Northeast Bronx,29.3,30.5,29.9,O3,386
+Summer 2015,UHF34,103,3,Fordham - Bronx Pk,28.9,30.1,29.5,O3,386
+Summer 2015,UHF34,104,3,Pelham - Throgs Neck,30.1,33.4,31.4,O3,386
+Summer 2015,UHF34,201,3,Greenpoint,29.6,32.4,31,O3,386
+Summer 2015,UHF34,202,3,Downtown - Heights - Slope,28.6,31.1,29.8,O3,386
+Summer 2015,UHF34,203,3,Bedford Stuyvesant - Crown Heights,30.1,32.2,31.2,O3,386
+Summer 2015,UHF34,204,3,East New York,31.7,33.6,32.6,O3,386
+Summer 2015,UHF34,205,3,Sunset Park,30.2,32.5,31.3,O3,386
+Summer 2015,UHF34,206,3,Borough Park,31.2,33.2,32.1,O3,386
+Summer 2015,UHF34,207,3,East Flatbush - Flatbush,31,33.1,32.2,O3,386
+Summer 2015,UHF34,208,3,Canarsie - Flatlands,32.9,37.7,34.7,O3,386
+Summer 2015,UHF34,209,3,Bensonhurst - Bay Ridge,30.9,34.7,32.8,O3,386
+Summer 2015,UHF34,210,3,Coney Island - Sheepshead Bay,33.7,36.7,35,O3,386
+Summer 2015,UHF34,211,3,Williamsburg - Bushwick,30.4,31.9,31.1,O3,386
+Summer 2015,UHF34,301,3,Washington Heights,28.2,29.8,29,O3,386
+Summer 2015,UHF34,302,3,Central Harlem - Morningside Heights,28.3,29.9,29,O3,386
+Summer 2015,UHF34,303,3,East Harlem,28.9,30.8,29.6,O3,386
+Summer 2015,UHF34,304,3,Upper West Side,27.7,28.6,28.1,O3,386
+Summer 2015,UHF34,401,3,Long Island City - Astoria,30.8,32.2,31.4,O3,386
+Summer 2015,UHF34,402,3,West Queens,30.9,32.4,31.6,O3,386
+Summer 2015,UHF34,403,3,Flushing - Clearview,31.2,32.8,31.9,O3,386
+Summer 2015,UHF34,405,3,Ridgewood - Forest Hills,30.9,33,31.8,O3,386
+Summer 2015,UHF34,407,3,Southwest Queens,31.5,34,32.6,O3,386
+Summer 2015,UHF34,408,3,Jamaica,31.2,32.9,32,O3,386
+Summer 2015,UHF34,409,3,Southeast Queens,31.4,33.5,32.5,O3,386
+Summer 2015,UHF34,410,3,Rockaways,35.6,39.1,37.4,O3,386
+Summer 2015,UHF34,305307,3,Upper East Side-Gramercy,24,29.4,26.7,O3,386
+Summer 2015,UHF34,306308,3,Chelsea-Village  ,24.3,28.6,26.5,O3,386
+Summer 2015,UHF34,309310,3,Union Square-Lower Manhattan,26.1,29.1,27.5,O3,386
+Summer 2015,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,30.4,32.4,31.4,O3,386
+Summer 2015,UHF34,501502,3,Northern SI,29.6,33.6,31.2,O3,386
+Summer 2015,UHF34,503504,3,Southern SI,30.5,35.2,33.2,O3,386
+Summer 2015,UHF34,105106107,3,South Bronx,29.2,32.8,30.6,O3,386
+Summer 2015,Borough,1,1,Bronx,28.9,32.2,30.4,O3,386
+Summer 2015,Borough,2,1,Brooklyn,30.2,35.3,32.5,O3,386
+Summer 2015,Borough,3,1,Manhattan,25.2,29.6,27.8,O3,386
+Summer 2015,Borough,4,1,Queens,31,33.9,32.4,O3,386
+Summer 2015,Borough,5,1,Staten Island,29.8,35,32.6,O3,386
+Summer 2015,Citywide,1,0,New York City,29.3,34.6,31.8,O3,386
+Summer 2014,CD,101,6,Financial District (CD1),25,27.4,26.1,O3,386
+Summer 2014,CD,102,6,Greenwich Village and Soho (CD2),25.3,28.2,26.5,O3,386
+Summer 2014,CD,103,6,Lower East Side and Chinatown (CD3),25.7,28.9,27.3,O3,386
+Summer 2014,CD,104,6,Clinton and Chelsea (CD4),23.6,28.9,26.1,O3,386
+Summer 2014,CD,105,6,Midtown (CD5),20,23.7,21.8,O3,386
+Summer 2014,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),21.6,26.7,24,O3,386
+Summer 2014,CD,107,6,Upper West Side (CD7),26.8,28.1,27.4,O3,386
+Summer 2014,CD,108,6,Upper East Side (CD8),23.8,29.8,26.6,O3,386
+Summer 2014,CD,109,6,Morningside Heights and Hamilton Heights (CD9),27.7,29.6,28.5,O3,386
+Summer 2014,CD,110,6,Central Harlem (CD10),27.8,29.8,28.6,O3,386
+Summer 2014,CD,111,6,East Harlem (CD11),28,30.3,29,O3,386
+Summer 2014,CD,112,6,Washington Heights and Inwood (CD12),28.7,31.1,29.7,O3,386
+Summer 2014,CD,201,6,Mott Haven and Melrose (CD1),29.8,31.6,30.5,O3,386
+Summer 2014,CD,202,6,Hunts Point and Longwood (CD2),30.2,33.3,31.6,O3,386
+Summer 2014,CD,203,6,Morrisania and Crotona (CD3),29.9,30.8,30.3,O3,386
+Summer 2014,CD,204,6,Highbridge and Concourse (CD4),29.2,30.3,29.8,O3,386
+Summer 2014,CD,205,6,Fordham and University Heights (CD5),29.1,30.2,29.7,O3,386
+Summer 2014,CD,206,6,Belmont and East Tremont (CD6),29.9,30.7,30.3,O3,386
+Summer 2014,CD,207,6,Kingsbridge Heights and Bedford (CD7),29.6,30.9,30.3,O3,386
+Summer 2014,CD,208,6,Riverdale and Fieldston (CD8),29.7,31.5,30.5,O3,386
+Summer 2014,CD,209,6,Parkchester and Soundview (CD9),30.2,33.1,31.3,O3,386
+Summer 2014,CD,210,6,Throgs Neck and Co-op City (CD10),31,34.5,32.5,O3,386
+Summer 2014,CD,211,6,Morris Park and Bronxdale (CD11),30.8,32,31.4,O3,386
+Summer 2014,CD,212,6,Williamsbridge and Baychester (CD12),30.9,32.1,31.4,O3,386
+Summer 2014,CD,301,6,Greenpoint and Williamsburg (CD1),29.2,31.9,30.5,O3,386
+Summer 2014,CD,302,6,Fort Greene and Brooklyn Heights (CD2),27.7,30.5,28.9,O3,386
+Summer 2014,CD,303,6,Bedford Stuyvesant (CD3),29.5,30.5,29.9,O3,386
+Summer 2014,CD,304,6,Bushwick (CD4),30.5,31.9,31,O3,386
+Summer 2014,CD,305,6,East New York and Starrett City (CD5),31.2,34.5,32.3,O3,386
+Summer 2014,CD,306,6,Park Slope and Carroll Gardens (CD6),28.5,31.5,29.7,O3,386
+Summer 2014,CD,307,6,Sunset Park (CD7),29.5,31.8,30.6,O3,386
+Summer 2014,CD,308,6,Crown Heights and Prospect Heights (CD8),29.2,30.7,29.8,O3,386
+Summer 2014,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),29.8,30.9,30.3,O3,386
+Summer 2014,CD,310,6,Bay Ridge and Dyker Heights (CD10),29.4,32.3,30.7,O3,386
+Summer 2014,CD,311,6,Bensonhurst (CD11),31,32.1,31.5,O3,386
+Summer 2014,CD,312,6,Borough Park (CD12),30,31.5,30.6,O3,386
+Summer 2014,CD,313,6,Coney Island (CD13),32,34.6,33.2,O3,386
+Summer 2014,CD,314,6,Flatbush and Midwood (CD14),30.1,31.3,30.7,O3,386
+Summer 2014,CD,315,6,Sheepshead Bay (CD15),31.4,34.2,32.4,O3,386
+Summer 2014,CD,316,6,Brownsville (CD16),30.8,31.6,31.2,O3,386
+Summer 2014,CD,317,6,East Flatbush (CD17),30.6,31.9,31.2,O3,386
+Summer 2014,CD,318,6,Flatlands and Canarsie (CD18),31.6,35.8,33.1,O3,386
+Summer 2014,CD,401,6,Long Island City and Astoria (CD1),30.1,33.2,31.1,O3,386
+Summer 2014,CD,402,6,Woodside and Sunnyside (CD2),30.1,32.2,31,O3,386
+Summer 2014,CD,403,6,Jackson Heights (CD3),30,31.6,30.8,O3,386
+Summer 2014,CD,404,6,Elmhurst and Corona (CD4),29.9,31.2,30.5,O3,386
+Summer 2014,CD,405,6,Ridgewood and Maspeth (CD5),30.6,32.7,31.5,O3,386
+Summer 2014,CD,406,6,Rego Park and Forest Hills (CD6),30,31.2,30.6,O3,386
+Summer 2014,CD,407,6,Flushing and Whitestone (CD7),31.1,33,32,O3,386
+Summer 2014,CD,408,6,Hillcrest and Fresh Meadows (CD8),31,32.3,31.7,O3,386
+Summer 2014,CD,409,6,Kew Gardens and Woodhaven (CD9),30.9,32.4,31.7,O3,386
+Summer 2014,CD,410,6,South Ozone Park and Howard Beach (CD10),32.1,34.4,33,O3,386
+Summer 2014,CD,411,6,Bayside and Little Neck (CD11),31.3,33.3,32.3,O3,386
+Summer 2014,CD,412,6,Jamaica and Hollis (CD12),32,33.5,32.8,O3,386
+Summer 2014,CD,413,6,Queens Village (CD13),32.9,34.5,33.7,O3,386
+Summer 2014,CD,414,6,Rockaway and Broad Channel (CD14),35.1,37.7,36.3,O3,386
+Summer 2014,CD,501,6,St. George and Stapleton (CD1),29.6,31.3,30.3,O3,386
+Summer 2014,CD,502,6,South Beach and Willowbrook (CD2),29.4,33.7,31.6,O3,386
+Summer 2014,CD,503,6,Tottenville and Great Kills (CD3),30.4,33.3,31.9,O3,386
+Summer 2014,UHF42,101,4,Kingsbridge - Riverdale,29.7,31.3,30.4,O3,386
+Summer 2014,UHF42,102,4,Northeast Bronx,30.9,32.2,31.5,O3,386
+Summer 2014,UHF42,103,4,Fordham - Bronx Pk,29.8,31.8,30.7,O3,386
+Summer 2014,UHF42,104,4,Pelham - Throgs Neck,30.5,33.8,31.9,O3,386
+Summer 2014,UHF42,105,4,Crotona -Tremont,29.4,30.7,30.1,O3,386
+Summer 2014,UHF42,106,4,High Bridge - Morrisania,29.4,30.4,29.9,O3,386
+Summer 2014,UHF42,107,4,Hunts Point - Mott Haven,30,33.3,31.4,O3,386
+Summer 2014,UHF42,201,4,Greenpoint,29.1,31.9,30.5,O3,386
+Summer 2014,UHF42,202,4,Downtown - Heights - Slope,28,30.9,29.3,O3,386
+Summer 2014,UHF42,203,4,Bedford Stuyvesant - Crown Heights,29.4,31.3,30.3,O3,386
+Summer 2014,UHF42,204,4,East New York,31,33.2,32,O3,386
+Summer 2014,UHF42,205,4,Sunset Park,29.4,31.9,30.6,O3,386
+Summer 2014,UHF42,206,4,Borough Park,30,31.4,30.7,O3,386
+Summer 2014,UHF42,207,4,East Flatbush - Flatbush,30,31.7,30.9,O3,386
+Summer 2014,UHF42,208,4,Canarsie - Flatlands,31.7,35.8,33.2,O3,386
+Summer 2014,UHF42,209,4,Bensonhurst - Bay Ridge,29.9,32.9,31.3,O3,386
+Summer 2014,UHF42,210,4,Coney Island - Sheepshead Bay,31.5,34.2,32.6,O3,386
+Summer 2014,UHF42,211,4,Williamsburg - Bushwick,29.7,31.3,30.4,O3,386
+Summer 2014,UHF42,301,4,Washington Heights,28.6,30.8,29.5,O3,386
+Summer 2014,UHF42,302,4,Central Harlem - Morningside Heights,27.8,29.8,28.6,O3,386
+Summer 2014,UHF42,303,4,East Harlem,28,30.3,28.9,O3,386
+Summer 2014,UHF42,304,4,Upper West Side,26.8,28,27.4,O3,386
+Summer 2014,UHF42,305,4,Upper East Side,24,29.9,26.7,O3,386
+Summer 2014,UHF42,306,4,Chelsea - Clinton,21,28.4,24.6,O3,386
+Summer 2014,UHF42,307,4,Gramercy Park - Murray Hill,20.5,25.6,22.9,O3,386
+Summer 2014,UHF42,308,4,Greenwich Village - SoHo,25.8,28.2,26.7,O3,386
+Summer 2014,UHF42,309,4,Union Square - Lower East Side,24.6,28.8,26.9,O3,386
+Summer 2014,UHF42,310,4,Lower Manhattan,25,27.2,26,O3,386
+Summer 2014,UHF42,401,4,Long Island City - Astoria,30,31.6,30.7,O3,386
+Summer 2014,UHF42,402,4,West Queens,30,31.8,30.9,O3,386
+Summer 2014,UHF42,403,4,Flushing - Clearview,31.2,32.9,32,O3,386
+Summer 2014,UHF42,404,4,Bayside - Little Neck,31.2,33.5,32.3,O3,386
+Summer 2014,UHF42,405,4,Ridgewood - Forest Hills,30.4,32.5,31.3,O3,386
+Summer 2014,UHF42,406,4,Fresh Meadows,31.1,32.6,31.8,O3,386
+Summer 2014,UHF42,407,4,Southwest Queens,31.4,33.8,32.5,O3,386
+Summer 2014,UHF42,408,4,Jamaica,31.6,33.5,32.6,O3,386
+Summer 2014,UHF42,409,4,Southeast Queens,32.7,34.5,33.6,O3,386
+Summer 2014,UHF42,410,4,Rockaways,35.1,37.6,36.2,O3,386
+Summer 2014,UHF42,501,4,Port Richmond,29.6,31.3,30.2,O3,386
+Summer 2014,UHF42,502,4,Stapleton - St. George,29.6,32.9,31.1,O3,386
+Summer 2014,UHF42,503,4,Willowbrook,29.1,33.2,31.1,O3,386
+Summer 2014,UHF42,504,4,South Beach - Tottenville,30.4,33.6,32,O3,386
+Summer 2014,UHF34,101,3,Kingsbridge - Riverdale,29.7,31.3,30.4,O3,386
+Summer 2014,UHF34,102,3,Northeast Bronx,30.9,32.2,31.5,O3,386
+Summer 2014,UHF34,103,3,Fordham - Bronx Pk,29.8,31.8,30.7,O3,386
+Summer 2014,UHF34,104,3,Pelham - Throgs Neck,30.5,33.8,31.9,O3,386
+Summer 2014,UHF34,201,3,Greenpoint,29.1,31.9,30.5,O3,386
+Summer 2014,UHF34,202,3,Downtown - Heights - Slope,28,30.9,29.3,O3,386
+Summer 2014,UHF34,203,3,Bedford Stuyvesant - Crown Heights,29.4,31.3,30.3,O3,386
+Summer 2014,UHF34,204,3,East New York,31,33.2,32,O3,386
+Summer 2014,UHF34,205,3,Sunset Park,29.4,31.9,30.6,O3,386
+Summer 2014,UHF34,206,3,Borough Park,30,31.4,30.7,O3,386
+Summer 2014,UHF34,207,3,East Flatbush - Flatbush,30,31.7,30.9,O3,386
+Summer 2014,UHF34,208,3,Canarsie - Flatlands,31.7,35.8,33.2,O3,386
+Summer 2014,UHF34,209,3,Bensonhurst - Bay Ridge,29.9,32.9,31.3,O3,386
+Summer 2014,UHF34,210,3,Coney Island - Sheepshead Bay,31.5,34.2,32.6,O3,386
+Summer 2014,UHF34,211,3,Williamsburg - Bushwick,29.7,31.3,30.4,O3,386
+Summer 2014,UHF34,301,3,Washington Heights,28.6,30.8,29.5,O3,386
+Summer 2014,UHF34,302,3,Central Harlem - Morningside Heights,27.8,29.8,28.6,O3,386
+Summer 2014,UHF34,303,3,East Harlem,28,30.3,28.9,O3,386
+Summer 2014,UHF34,304,3,Upper West Side,26.8,28,27.4,O3,386
+Summer 2014,UHF34,401,3,Long Island City - Astoria,30,31.6,30.7,O3,386
+Summer 2014,UHF34,402,3,West Queens,30,31.8,30.9,O3,386
+Summer 2014,UHF34,403,3,Flushing - Clearview,31.2,32.9,32,O3,386
+Summer 2014,UHF34,405,3,Ridgewood - Forest Hills,30.4,32.5,31.3,O3,386
+Summer 2014,UHF34,407,3,Southwest Queens,31.4,33.7,32.5,O3,386
+Summer 2014,UHF34,408,3,Jamaica,31.6,33.5,32.6,O3,386
+Summer 2014,UHF34,409,3,Southeast Queens,32.7,34.5,33.6,O3,386
+Summer 2014,UHF34,410,3,Rockaways,35.1,37.6,36.2,O3,386
+Summer 2014,UHF34,305307,3,Upper East Side-Gramercy,21.3,28.3,24.9,O3,386
+Summer 2014,UHF34,306308,3,Chelsea-Village  ,21.7,28.3,25.3,O3,386
+Summer 2014,UHF34,309310,3,Union Square-Lower Manhattan,24.8,28.7,26.6,O3,386
+Summer 2014,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,31.1,33.1,32.1,O3,386
+Summer 2014,UHF34,501502,3,Northern SI,29.6,32.4,30.8,O3,386
+Summer 2014,UHF34,503504,3,Southern SI,29.8,33.4,31.6,O3,386
+Summer 2014,UHF34,105106107,3,South Bronx,29.6,32.6,30.6,O3,386
+Summer 2014,Borough,1,1,Bronx,29.8,32.7,31.1,O3,386
+Summer 2014,Borough,2,1,Brooklyn,29.5,33.3,31.3,O3,386
+Summer 2014,Borough,3,1,Manhattan,23.2,29.7,27,O3,386
+Summer 2014,Borough,4,1,Queens,30.6,34.4,32.4,O3,386
+Summer 2014,Borough,5,1,Staten Island,29.7,33.3,31.4,O3,386
+Summer 2014,Citywide,1,0,New York City,29.4,33.6,31.4,O3,386
+Summer 2013,CD,101,6,Financial District (CD1),23.3,25.7,24.4,O3,386
+Summer 2013,CD,102,6,Greenwich Village and Soho (CD2),24,26.8,25.1,O3,386
+Summer 2013,CD,103,6,Lower East Side and Chinatown (CD3),24.3,27.8,26.1,O3,386
+Summer 2013,CD,104,6,Clinton and Chelsea (CD4),22.5,27.9,25.1,O3,386
+Summer 2013,CD,105,6,Midtown (CD5),18.9,22.5,20.7,O3,386
+Summer 2013,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),20.6,25.8,23.1,O3,386
+Summer 2013,CD,107,6,Upper West Side (CD7),26.3,27.6,26.9,O3,386
+Summer 2013,CD,108,6,Upper East Side (CD8),23.2,29.5,26.2,O3,386
+Summer 2013,CD,109,6,Morningside Heights and Hamilton Heights (CD9),27.4,29.3,28.3,O3,386
+Summer 2013,CD,110,6,Central Harlem (CD10),27.6,29.7,28.5,O3,386
+Summer 2013,CD,111,6,East Harlem (CD11),27.9,30.4,28.9,O3,386
+Summer 2013,CD,112,6,Washington Heights and Inwood (CD12),28.5,31,29.5,O3,386
+Summer 2013,CD,201,6,Mott Haven and Melrose (CD1),29.9,31.8,30.6,O3,386
+Summer 2013,CD,202,6,Hunts Point and Longwood (CD2),30.4,33.6,31.9,O3,386
+Summer 2013,CD,203,6,Morrisania and Crotona (CD3),30,31,30.4,O3,386
+Summer 2013,CD,204,6,Highbridge and Concourse (CD4),29.2,30.3,29.7,O3,386
+Summer 2013,CD,205,6,Fordham and University Heights (CD5),29.1,30.2,29.7,O3,386
+Summer 2013,CD,206,6,Belmont and East Tremont (CD6),30,30.9,30.5,O3,386
+Summer 2013,CD,207,6,Kingsbridge Heights and Bedford (CD7),29.6,31,30.3,O3,386
+Summer 2013,CD,208,6,Riverdale and Fieldston (CD8),29.6,31.4,30.4,O3,386
+Summer 2013,CD,209,6,Parkchester and Soundview (CD9),30.4,33.3,31.5,O3,386
+Summer 2013,CD,210,6,Throgs Neck and Co-op City (CD10),31.1,34.5,32.6,O3,386
+Summer 2013,CD,211,6,Morris Park and Bronxdale (CD11),31,32.3,31.6,O3,386
+Summer 2013,CD,212,6,Williamsbridge and Baychester (CD12),31,32.3,31.6,O3,386
+Summer 2013,CD,301,6,Greenpoint and Williamsburg (CD1),28.3,31.4,29.8,O3,386
+Summer 2013,CD,302,6,Fort Greene and Brooklyn Heights (CD2),26.3,29.2,27.6,O3,386
+Summer 2013,CD,303,6,Bedford Stuyvesant (CD3),28.5,29.8,29.1,O3,386
+Summer 2013,CD,304,6,Bushwick (CD4),29.8,31.4,30.4,O3,386
+Summer 2013,CD,305,6,East New York and Starrett City (CD5),30.8,34.3,31.9,O3,386
+Summer 2013,CD,306,6,Park Slope and Carroll Gardens (CD6),27.1,30,28.4,O3,386
+Summer 2013,CD,307,6,Sunset Park (CD7),28.5,30.8,29.6,O3,386
+Summer 2013,CD,308,6,Crown Heights and Prospect Heights (CD8),28.2,30,29,O3,386
+Summer 2013,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),29,30.4,29.6,O3,386
+Summer 2013,CD,310,6,Bay Ridge and Dyker Heights (CD10),28.8,32.4,30.3,O3,386
+Summer 2013,CD,311,6,Bensonhurst (CD11),31.1,32.8,32,O3,386
+Summer 2013,CD,312,6,Borough Park (CD12),29.5,31.8,30.4,O3,386
+Summer 2013,CD,313,6,Coney Island (CD13),33.3,36.1,34.6,O3,386
+Summer 2013,CD,314,6,Flatbush and Midwood (CD14),29.7,31.8,30.8,O3,386
+Summer 2013,CD,315,6,Sheepshead Bay (CD15),32.3,35.8,33.6,O3,386
+Summer 2013,CD,316,6,Brownsville (CD16),30.3,31.2,30.7,O3,386
+Summer 2013,CD,317,6,East Flatbush (CD17),30.2,31.8,31,O3,386
+Summer 2013,CD,318,6,Flatlands and Canarsie (CD18),31.8,37,33.6,O3,386
+Summer 2013,CD,401,6,Long Island City and Astoria (CD1),30.1,33.4,31.2,O3,386
+Summer 2013,CD,402,6,Woodside and Sunnyside (CD2),29.9,31.9,30.7,O3,386
+Summer 2013,CD,403,6,Jackson Heights (CD3),29.9,31.6,30.7,O3,386
+Summer 2013,CD,404,6,Elmhurst and Corona (CD4),29.6,30.8,30.2,O3,386
+Summer 2013,CD,405,6,Ridgewood and Maspeth (CD5),30.1,32.2,31.1,O3,386
+Summer 2013,CD,406,6,Rego Park and Forest Hills (CD6),29.4,30.5,30,O3,386
+Summer 2013,CD,407,6,Flushing and Whitestone (CD7),30.5,32.6,31.5,O3,386
+Summer 2013,CD,408,6,Hillcrest and Fresh Meadows (CD8),29.7,30.9,30.4,O3,386
+Summer 2013,CD,409,6,Kew Gardens and Woodhaven (CD9),30,31.4,30.8,O3,386
+Summer 2013,CD,410,6,South Ozone Park and Howard Beach (CD10),31.2,33.9,32.3,O3,386
+Summer 2013,CD,411,6,Bayside and Little Neck (CD11),29.8,31.9,30.8,O3,386
+Summer 2013,CD,412,6,Jamaica and Hollis (CD12),30.5,31.9,31.3,O3,386
+Summer 2013,CD,413,6,Queens Village (CD13),30.9,32.9,31.9,O3,386
+Summer 2013,CD,414,6,Rockaway and Broad Channel (CD14),34.9,38.6,36.9,O3,386
+Summer 2013,CD,501,6,St. George and Stapleton (CD1),28.3,30.5,29.2,O3,386
+Summer 2013,CD,502,6,South Beach and Willowbrook (CD2),28.9,33.7,31.3,O3,386
+Summer 2013,CD,503,6,Tottenville and Great Kills (CD3),31.1,34,32.6,O3,386
+Summer 2013,UHF42,101,4,Kingsbridge - Riverdale,29.6,31.2,30.4,O3,386
+Summer 2013,UHF42,102,4,Northeast Bronx,31.1,32.4,31.7,O3,386
+Summer 2013,UHF42,103,4,Fordham - Bronx Pk,29.8,31.8,30.8,O3,386
+Summer 2013,UHF42,104,4,Pelham - Throgs Neck,30.7,33.9,32.1,O3,386
+Summer 2013,UHF42,105,4,Crotona -Tremont,29.4,30.9,30.1,O3,386
+Summer 2013,UHF42,106,4,High Bridge - Morrisania,29.4,30.4,29.9,O3,386
+Summer 2013,UHF42,107,4,Hunts Point - Mott Haven,30.1,33.6,31.6,O3,386
+Summer 2013,UHF42,201,4,Greenpoint,28.1,31.4,29.8,O3,386
+Summer 2013,UHF42,202,4,Downtown - Heights - Slope,26.6,29.6,28,O3,386
+Summer 2013,UHF42,203,4,Bedford Stuyvesant - Crown Heights,28.4,30.9,29.7,O3,386
+Summer 2013,UHF42,204,4,East New York,30.6,32.7,31.5,O3,386
+Summer 2013,UHF42,205,4,Sunset Park,28.5,31,29.7,O3,386
+Summer 2013,UHF42,206,4,Borough Park,29.6,31.8,30.6,O3,386
+Summer 2013,UHF42,207,4,East Flatbush - Flatbush,29.4,31.8,30.7,O3,386
+Summer 2013,UHF42,208,4,Canarsie - Flatlands,31.8,36.9,33.7,O3,386
+Summer 2013,UHF42,209,4,Bensonhurst - Bay Ridge,29.3,33.5,31.4,O3,386
+Summer 2013,UHF42,210,4,Coney Island - Sheepshead Bay,32.4,35.8,33.9,O3,386
+Summer 2013,UHF42,211,4,Williamsburg - Bushwick,28.9,30.6,29.7,O3,386
+Summer 2013,UHF42,301,4,Washington Heights,28.4,30.7,29.3,O3,386
+Summer 2013,UHF42,302,4,Central Harlem - Morningside Heights,27.5,29.7,28.4,O3,386
+Summer 2013,UHF42,303,4,East Harlem,27.9,30.3,28.9,O3,386
+Summer 2013,UHF42,304,4,Upper West Side,26.3,27.6,26.9,O3,386
+Summer 2013,UHF42,305,4,Upper East Side,23.4,29.6,26.3,O3,386
+Summer 2013,UHF42,306,4,Chelsea - Clinton,19.9,27.4,23.5,O3,386
+Summer 2013,UHF42,307,4,Gramercy Park - Murray Hill,19.4,24.8,21.9,O3,386
+Summer 2013,UHF42,308,4,Greenwich Village - SoHo,24.3,26.8,25.2,O3,386
+Summer 2013,UHF42,309,4,Union Square - Lower East Side,23.4,27.8,25.7,O3,386
+Summer 2013,UHF42,310,4,Lower Manhattan,23.2,25.5,24.3,O3,386
+Summer 2013,UHF42,401,4,Long Island City - Astoria,29.9,31.6,30.6,O3,386
+Summer 2013,UHF42,402,4,West Queens,29.9,31.6,30.7,O3,386
+Summer 2013,UHF42,403,4,Flushing - Clearview,30.6,32.6,31.4,O3,386
+Summer 2013,UHF42,404,4,Bayside - Little Neck,29.6,32,30.8,O3,386
+Summer 2013,UHF42,405,4,Ridgewood - Forest Hills,29.8,32,30.8,O3,386
+Summer 2013,UHF42,406,4,Fresh Meadows,30,31.6,30.7,O3,386
+Summer 2013,UHF42,407,4,Southwest Queens,30.5,33.2,31.7,O3,386
+Summer 2013,UHF42,408,4,Jamaica,30.2,32.1,31.1,O3,386
+Summer 2013,UHF42,409,4,Southeast Queens,30.8,32.8,31.8,O3,386
+Summer 2013,UHF42,410,4,Rockaways,34.9,38.5,36.8,O3,386
+Summer 2013,UHF42,501,4,Port Richmond,28.3,29.7,28.8,O3,386
+Summer 2013,UHF42,502,4,Stapleton - St. George,28.5,33,30.6,O3,386
+Summer 2013,UHF42,503,4,Willowbrook,28.5,32.6,30.5,O3,386
+Summer 2013,UHF42,504,4,South Beach - Tottenville,31.1,34.3,32.7,O3,386
+Summer 2013,UHF34,101,3,Kingsbridge - Riverdale,29.6,31.2,30.4,O3,386
+Summer 2013,UHF34,102,3,Northeast Bronx,31.1,32.4,31.7,O3,386
+Summer 2013,UHF34,103,3,Fordham - Bronx Pk,29.8,31.8,30.8,O3,386
+Summer 2013,UHF34,104,3,Pelham - Throgs Neck,30.7,33.9,32.1,O3,386
+Summer 2013,UHF34,201,3,Greenpoint,28.1,31.4,29.8,O3,386
+Summer 2013,UHF34,202,3,Downtown - Heights - Slope,26.6,29.6,28,O3,386
+Summer 2013,UHF34,203,3,Bedford Stuyvesant - Crown Heights,28.4,30.9,29.7,O3,386
+Summer 2013,UHF34,204,3,East New York,30.6,32.7,31.5,O3,386
+Summer 2013,UHF34,205,3,Sunset Park,28.5,31,29.7,O3,386
+Summer 2013,UHF34,206,3,Borough Park,29.6,31.8,30.6,O3,386
+Summer 2013,UHF34,207,3,East Flatbush - Flatbush,29.4,31.8,30.7,O3,386
+Summer 2013,UHF34,208,3,Canarsie - Flatlands,31.8,36.9,33.7,O3,386
+Summer 2013,UHF34,209,3,Bensonhurst - Bay Ridge,29.3,33.5,31.4,O3,386
+Summer 2013,UHF34,210,3,Coney Island - Sheepshead Bay,32.4,35.8,33.9,O3,386
+Summer 2013,UHF34,211,3,Williamsburg - Bushwick,28.9,30.6,29.7,O3,386
+Summer 2013,UHF34,301,3,Washington Heights,28.4,30.7,29.3,O3,386
+Summer 2013,UHF34,302,3,Central Harlem - Morningside Heights,27.5,29.7,28.4,O3,386
+Summer 2013,UHF34,303,3,East Harlem,27.9,30.3,28.9,O3,386
+Summer 2013,UHF34,304,3,Upper West Side,26.3,27.6,26.9,O3,386
+Summer 2013,UHF34,401,3,Long Island City - Astoria,29.9,31.6,30.6,O3,386
+Summer 2013,UHF34,402,3,West Queens,29.9,31.6,30.7,O3,386
+Summer 2013,UHF34,403,3,Flushing - Clearview,30.6,32.6,31.4,O3,386
+Summer 2013,UHF34,405,3,Ridgewood - Forest Hills,29.8,32,30.8,O3,386
+Summer 2013,UHF34,407,3,Southwest Queens,30.5,33.2,31.7,O3,386
+Summer 2013,UHF34,408,3,Jamaica,30.2,32,31.1,O3,386
+Summer 2013,UHF34,409,3,Southeast Queens,30.8,32.8,31.8,O3,386
+Summer 2013,UHF34,410,3,Rockaways,34.9,38.5,36.8,O3,386
+Summer 2013,UHF34,305307,3,Upper East Side-Gramercy,20.3,28,24.3,O3,386
+Summer 2013,UHF34,306308,3,Chelsea-Village  ,20.6,27.2,24.1,O3,386
+Summer 2013,UHF34,309310,3,Union Square-Lower Manhattan,23.3,27.6,25.3,O3,386
+Summer 2013,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,29.7,31.8,30.7,O3,386
+Summer 2013,UHF34,501502,3,Northern SI,28.4,32.4,30,O3,386
+Summer 2013,UHF34,503504,3,Southern SI,29.3,33.8,31.8,O3,386
+Summer 2013,UHF34,105106107,3,South Bronx,29.5,32.9,30.7,O3,386
+Summer 2013,Borough,1,1,Bronx,29.8,32.8,31.2,O3,386
+Summer 2013,Borough,2,1,Brooklyn,28.6,34.3,31.1,O3,386
+Summer 2013,Borough,3,1,Manhattan,22.2,29.5,26.3,O3,386
+Summer 2013,Borough,4,1,Queens,30.1,33.5,31.6,O3,386
+Summer 2013,Borough,5,1,Staten Island,28.6,33.6,31.3,O3,386
+Summer 2013,Citywide,1,0,New York City,28.6,33.5,31,O3,386
+Summer 2012,CD,101,6,Financial District (CD1),25.4,28.1,26.6,O3,386
+Summer 2012,CD,102,6,Greenwich Village and Soho (CD2),26.5,29.8,27.7,O3,386
+Summer 2012,CD,103,6,Lower East Side and Chinatown (CD3),26.8,30.7,28.8,O3,386
+Summer 2012,CD,104,6,Clinton and Chelsea (CD4),24.8,31.1,27.9,O3,386
+Summer 2012,CD,105,6,Midtown (CD5),20.4,24.7,22.5,O3,386
+Summer 2012,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),22.5,28.6,25.5,O3,386
+Summer 2012,CD,107,6,Upper West Side (CD7),29.4,30.9,30.2,O3,386
+Summer 2012,CD,108,6,Upper East Side (CD8),25.7,32.8,29.2,O3,386
+Summer 2012,CD,109,6,Morningside Heights and Hamilton Heights (CD9),30.7,32.8,31.6,O3,386
+Summer 2012,CD,110,6,Central Harlem (CD10),30.8,33.1,31.8,O3,386
+Summer 2012,CD,111,6,East Harlem (CD11),31.2,33.8,32.3,O3,386
+Summer 2012,CD,112,6,Washington Heights and Inwood (CD12),31.8,34.3,32.8,O3,386
+Summer 2012,CD,201,6,Mott Haven and Melrose (CD1),33.2,35.3,34,O3,386
+Summer 2012,CD,202,6,Hunts Point and Longwood (CD2),33.7,37,35.2,O3,386
+Summer 2012,CD,203,6,Morrisania and Crotona (CD3),33.3,34.3,33.7,O3,386
+Summer 2012,CD,204,6,Highbridge and Concourse (CD4),32.4,33.7,33,O3,386
+Summer 2012,CD,205,6,Fordham and University Heights (CD5),32.4,33.4,32.9,O3,386
+Summer 2012,CD,206,6,Belmont and East Tremont (CD6),33.3,34.2,33.8,O3,386
+Summer 2012,CD,207,6,Kingsbridge Heights and Bedford (CD7),32.8,34.3,33.5,O3,386
+Summer 2012,CD,208,6,Riverdale and Fieldston (CD8),33,34.8,33.8,O3,386
+Summer 2012,CD,209,6,Parkchester and Soundview (CD9),33.7,36.6,34.9,O3,386
+Summer 2012,CD,210,6,Throgs Neck and Co-op City (CD10),34.5,37.9,36,O3,386
+Summer 2012,CD,211,6,Morris Park and Bronxdale (CD11),34.3,35.6,35,O3,386
+Summer 2012,CD,212,6,Williamsbridge and Baychester (CD12),34.4,35.8,35,O3,386
+Summer 2012,CD,301,6,Greenpoint and Williamsburg (CD1),31,34.4,32.7,O3,386
+Summer 2012,CD,302,6,Fort Greene and Brooklyn Heights (CD2),28.8,32,30.2,O3,386
+Summer 2012,CD,303,6,Bedford Stuyvesant (CD3),31.1,32.2,31.6,O3,386
+Summer 2012,CD,304,6,Bushwick (CD4),32.3,33.9,32.9,O3,386
+Summer 2012,CD,305,6,East New York and Starrett City (CD5),33.3,36.8,34.4,O3,386
+Summer 2012,CD,306,6,Park Slope and Carroll Gardens (CD6),29.7,32.8,31,O3,386
+Summer 2012,CD,307,6,Sunset Park (CD7),31,33.5,32.2,O3,386
+Summer 2012,CD,308,6,Crown Heights and Prospect Heights (CD8),30.7,32.5,31.5,O3,386
+Summer 2012,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),31.6,32.9,32.1,O3,386
+Summer 2012,CD,310,6,Bay Ridge and Dyker Heights (CD10),31.4,35.2,33,O3,386
+Summer 2012,CD,311,6,Bensonhurst (CD11),33.9,35.9,34.9,O3,386
+Summer 2012,CD,312,6,Borough Park (CD12),32.1,34.7,33.1,O3,386
+Summer 2012,CD,313,6,Coney Island (CD13),36.5,39.4,37.9,O3,386
+Summer 2012,CD,314,6,Flatbush and Midwood (CD14),32.3,34.7,33.5,O3,386
+Summer 2012,CD,315,6,Sheepshead Bay (CD15),35.3,39.2,36.8,O3,386
+Summer 2012,CD,316,6,Brownsville (CD16),32.7,33.7,33.2,O3,386
+Summer 2012,CD,317,6,East Flatbush (CD17),32.7,34.5,33.6,O3,386
+Summer 2012,CD,318,6,Flatlands and Canarsie (CD18),34.5,40.3,36.6,O3,386
+Summer 2012,CD,401,6,Long Island City and Astoria (CD1),33.3,36.8,34.5,O3,386
+Summer 2012,CD,402,6,Woodside and Sunnyside (CD2),33,35,33.8,O3,386
+Summer 2012,CD,403,6,Jackson Heights (CD3),32.7,34.7,33.7,O3,386
+Summer 2012,CD,404,6,Elmhurst and Corona (CD4),32.2,33.6,32.9,O3,386
+Summer 2012,CD,405,6,Ridgewood and Maspeth (CD5),32.7,34.8,33.7,O3,386
+Summer 2012,CD,406,6,Rego Park and Forest Hills (CD6),31.9,33,32.4,O3,386
+Summer 2012,CD,407,6,Flushing and Whitestone (CD7),33.4,35.8,34.5,O3,386
+Summer 2012,CD,408,6,Hillcrest and Fresh Meadows (CD8),32.4,33.6,33,O3,386
+Summer 2012,CD,409,6,Kew Gardens and Woodhaven (CD9),32.4,33.8,33.2,O3,386
+Summer 2012,CD,410,6,South Ozone Park and Howard Beach (CD10),33.7,36.6,34.8,O3,386
+Summer 2012,CD,411,6,Bayside and Little Neck (CD11),32.8,35,33.9,O3,386
+Summer 2012,CD,412,6,Jamaica and Hollis (CD12),33.1,34.6,33.9,O3,386
+Summer 2012,CD,413,6,Queens Village (CD13),33.9,35.9,35,O3,386
+Summer 2012,CD,414,6,Rockaway and Broad Channel (CD14),38.3,42.2,40.4,O3,386
+Summer 2012,CD,501,6,St. George and Stapleton (CD1),30.6,32.9,31.5,O3,386
+Summer 2012,CD,502,6,South Beach and Willowbrook (CD2),31.2,36.2,33.7,O3,386
+Summer 2012,CD,503,6,Tottenville and Great Kills (CD3),33.7,36.8,35.3,O3,386
+Summer 2012,UHF42,101,4,Kingsbridge - Riverdale,33,34.6,33.7,O3,386
+Summer 2012,UHF42,102,4,Northeast Bronx,34.5,35.9,35.1,O3,386
+Summer 2012,UHF42,103,4,Fordham - Bronx Pk,33,35.2,34.1,O3,386
+Summer 2012,UHF42,104,4,Pelham - Throgs Neck,34,37.3,35.4,O3,386
+Summer 2012,UHF42,105,4,Crotona -Tremont,32.6,34.2,33.4,O3,386
+Summer 2012,UHF42,106,4,High Bridge - Morrisania,32.6,33.8,33.2,O3,386
+Summer 2012,UHF42,107,4,Hunts Point - Mott Haven,33.5,37,35,O3,386
+Summer 2012,UHF42,201,4,Greenpoint,30.8,34.5,32.7,O3,386
+Summer 2012,UHF42,202,4,Downtown - Heights - Slope,29.1,32.3,30.7,O3,386
+Summer 2012,UHF42,203,4,Bedford Stuyvesant - Crown Heights,31,33.3,32.1,O3,386
+Summer 2012,UHF42,204,4,East New York,33,35.2,34,O3,386
+Summer 2012,UHF42,205,4,Sunset Park,31,33.6,32.3,O3,386
+Summer 2012,UHF42,206,4,Borough Park,32.2,34.7,33.4,O3,386
+Summer 2012,UHF42,207,4,East Flatbush - Flatbush,31.9,34.7,33.4,O3,386
+Summer 2012,UHF42,208,4,Canarsie - Flatlands,34.5,40.2,36.6,O3,386
+Summer 2012,UHF42,209,4,Bensonhurst - Bay Ridge,31.9,36.6,34.3,O3,386
+Summer 2012,UHF42,210,4,Coney Island - Sheepshead Bay,35.4,39.1,37.1,O3,386
+Summer 2012,UHF42,211,4,Williamsburg - Bushwick,31.4,33.3,32.3,O3,386
+Summer 2012,UHF42,301,4,Washington Heights,31.6,34,32.7,O3,386
+Summer 2012,UHF42,302,4,Central Harlem - Morningside Heights,30.7,33.1,31.7,O3,386
+Summer 2012,UHF42,303,4,East Harlem,31.1,33.8,32.2,O3,386
+Summer 2012,UHF42,304,4,Upper West Side,29.4,30.9,30.2,O3,386
+Summer 2012,UHF42,305,4,Upper East Side,26,32.8,29.2,O3,386
+Summer 2012,UHF42,306,4,Chelsea - Clinton,21.6,30.5,26,O3,386
+Summer 2012,UHF42,307,4,Gramercy Park - Murray Hill,21.1,27.4,24,O3,386
+Summer 2012,UHF42,308,4,Greenwich Village - SoHo,26.7,29.8,27.8,O3,386
+Summer 2012,UHF42,309,4,Union Square - Lower East Side,25.8,30.7,28.4,O3,386
+Summer 2012,UHF42,310,4,Lower Manhattan,25.3,27.8,26.4,O3,386
+Summer 2012,UHF42,401,4,Long Island City - Astoria,33.2,35,33.9,O3,386
+Summer 2012,UHF42,402,4,West Queens,32.7,34.7,33.6,O3,386
+Summer 2012,UHF42,403,4,Flushing - Clearview,33.4,35.8,34.5,O3,386
+Summer 2012,UHF42,404,4,Bayside - Little Neck,32.6,35.2,33.8,O3,386
+Summer 2012,UHF42,405,4,Ridgewood - Forest Hills,32.2,34.6,33.3,O3,386
+Summer 2012,UHF42,406,4,Fresh Meadows,32.6,34.4,33.4,O3,386
+Summer 2012,UHF42,407,4,Southwest Queens,32.9,35.8,34.1,O3,386
+Summer 2012,UHF42,408,4,Jamaica,32.8,34.8,33.8,O3,386
+Summer 2012,UHF42,409,4,Southeast Queens,33.8,35.9,34.8,O3,386
+Summer 2012,UHF42,410,4,Rockaways,38.3,42.1,40.3,O3,386
+Summer 2012,UHF42,501,4,Port Richmond,30.5,31.9,31.1,O3,386
+Summer 2012,UHF42,502,4,Stapleton - St. George,30.9,35.7,33.1,O3,386
+Summer 2012,UHF42,503,4,Willowbrook,30.8,34.9,32.8,O3,386
+Summer 2012,UHF42,504,4,South Beach - Tottenville,33.6,37,35.3,O3,386
+Summer 2012,UHF34,101,3,Kingsbridge - Riverdale,33,34.6,33.7,O3,386
+Summer 2012,UHF34,102,3,Northeast Bronx,34.5,35.9,35.1,O3,386
+Summer 2012,UHF34,103,3,Fordham - Bronx Pk,33,35.2,34.1,O3,386
+Summer 2012,UHF34,104,3,Pelham - Throgs Neck,34,37.3,35.4,O3,386
+Summer 2012,UHF34,201,3,Greenpoint,30.8,34.5,32.7,O3,386
+Summer 2012,UHF34,202,3,Downtown - Heights - Slope,29.1,32.3,30.7,O3,386
+Summer 2012,UHF34,203,3,Bedford Stuyvesant - Crown Heights,31,33.3,32.1,O3,386
+Summer 2012,UHF34,204,3,East New York,33,35.2,34,O3,386
+Summer 2012,UHF34,205,3,Sunset Park,31,33.6,32.3,O3,386
+Summer 2012,UHF34,206,3,Borough Park,32.2,34.7,33.4,O3,386
+Summer 2012,UHF34,207,3,East Flatbush - Flatbush,31.9,34.7,33.4,O3,386
+Summer 2012,UHF34,208,3,Canarsie - Flatlands,34.5,40.2,36.6,O3,386
+Summer 2012,UHF34,209,3,Bensonhurst - Bay Ridge,31.9,36.6,34.3,O3,386
+Summer 2012,UHF34,210,3,Coney Island - Sheepshead Bay,35.4,39.1,37.1,O3,386
+Summer 2012,UHF34,211,3,Williamsburg - Bushwick,31.4,33.3,32.3,O3,386
+Summer 2012,UHF34,301,3,Washington Heights,31.6,34,32.7,O3,386
+Summer 2012,UHF34,302,3,Central Harlem - Morningside Heights,30.7,33.1,31.7,O3,386
+Summer 2012,UHF34,303,3,East Harlem,31.1,33.8,32.2,O3,386
+Summer 2012,UHF34,304,3,Upper West Side,29.4,30.9,30.2,O3,386
+Summer 2012,UHF34,401,3,Long Island City - Astoria,33.2,35,33.9,O3,386
+Summer 2012,UHF34,402,3,West Queens,32.7,34.7,33.6,O3,386
+Summer 2012,UHF34,403,3,Flushing - Clearview,33.4,35.8,34.5,O3,386
+Summer 2012,UHF34,405,3,Ridgewood - Forest Hills,32.2,34.6,33.3,O3,386
+Summer 2012,UHF34,407,3,Southwest Queens,32.9,35.7,34.1,O3,386
+Summer 2012,UHF34,408,3,Jamaica,32.8,34.8,33.8,O3,386
+Summer 2012,UHF34,409,3,Southeast Queens,33.8,35.8,34.8,O3,386
+Summer 2012,UHF34,410,3,Rockaways,38.3,42.1,40.3,O3,386
+Summer 2012,UHF34,305307,3,Upper East Side-Gramercy,22.1,31.1,26.8,O3,386
+Summer 2012,UHF34,306308,3,Chelsea-Village  ,22.4,30.3,26.6,O3,386
+Summer 2012,UHF34,309310,3,Union Square-Lower Manhattan,25.5,30.5,27.8,O3,386
+Summer 2012,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,32.6,34.9,33.7,O3,386
+Summer 2012,UHF34,501502,3,Northern SI,30.6,35.1,32.4,O3,386
+Summer 2012,UHF34,503504,3,Southern SI,31.6,36.4,34.3,O3,386
+Summer 2012,UHF34,105106107,3,South Bronx,32.8,36.3,34,O3,386
+Summer 2012,Borough,1,1,Bronx,33.1,36.2,34.6,O3,386
+Summer 2012,Borough,2,1,Brooklyn,31.1,37.4,33.9,O3,386
+Summer 2012,Borough,3,1,Manhattan,24.4,32.9,29.2,O3,386
+Summer 2012,Borough,4,1,Queens,32.8,36.7,34.5,O3,386
+Summer 2012,Borough,5,1,Staten Island,30.9,36.2,33.8,O3,386
+Summer 2012,Citywide,1,0,New York City,31.1,36.5,33.8,O3,386
+Summer 2011,CD,101,6,Financial District (CD1),24,26.6,25.2,O3,386
+Summer 2011,CD,102,6,Greenwich Village and Soho (CD2),24.9,28,26.1,O3,386
+Summer 2011,CD,103,6,Lower East Side and Chinatown (CD3),25.4,29.3,27.4,O3,386
+Summer 2011,CD,104,6,Clinton and Chelsea (CD4),23,29,26,O3,386
+Summer 2011,CD,105,6,Midtown (CD5),19,23.1,21,O3,386
+Summer 2011,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),21.1,27,24,O3,386
+Summer 2011,CD,107,6,Upper West Side (CD7),27.3,28.6,27.9,O3,386
+Summer 2011,CD,108,6,Upper East Side (CD8),24.1,31.2,27.4,O3,386
+Summer 2011,CD,109,6,Morningside Heights and Hamilton Heights (CD9),28.3,30.2,29.2,O3,386
+Summer 2011,CD,110,6,Central Harlem (CD10),28.5,30.8,29.5,O3,386
+Summer 2011,CD,111,6,East Harlem (CD11),29.2,31.8,30.3,O3,386
+Summer 2011,CD,112,6,Washington Heights and Inwood (CD12),29.2,31.8,30.3,O3,386
+Summer 2011,CD,201,6,Mott Haven and Melrose (CD1),31.3,33.5,32.1,O3,386
+Summer 2011,CD,202,6,Hunts Point and Longwood (CD2),32,35.7,33.8,O3,386
+Summer 2011,CD,203,6,Morrisania and Crotona (CD3),31.3,32.5,31.9,O3,386
+Summer 2011,CD,204,6,Highbridge and Concourse (CD4),30.3,31.5,30.8,O3,386
+Summer 2011,CD,205,6,Fordham and University Heights (CD5),30.1,31.2,30.7,O3,386
+Summer 2011,CD,206,6,Belmont and East Tremont (CD6),31.4,32.3,31.9,O3,386
+Summer 2011,CD,207,6,Kingsbridge Heights and Bedford (CD7),30.6,32.1,31.4,O3,386
+Summer 2011,CD,208,6,Riverdale and Fieldston (CD8),30.5,32.3,31.3,O3,386
+Summer 2011,CD,209,6,Parkchester and Soundview (CD9),32.4,35.5,33.6,O3,386
+Summer 2011,CD,210,6,Throgs Neck and Co-op City (CD10),33.3,37,34.9,O3,386
+Summer 2011,CD,211,6,Morris Park and Bronxdale (CD11),32.7,34.3,33.4,O3,386
+Summer 2011,CD,212,6,Williamsbridge and Baychester (CD12),32.6,33.9,33.2,O3,386
+Summer 2011,CD,301,6,Greenpoint and Williamsburg (CD1),30,33.4,31.6,O3,386
+Summer 2011,CD,302,6,Fort Greene and Brooklyn Heights (CD2),27.6,30.7,29.1,O3,386
+Summer 2011,CD,303,6,Bedford Stuyvesant (CD3),30.2,31.6,30.8,O3,386
+Summer 2011,CD,304,6,Bushwick (CD4),31.6,33.4,32.3,O3,386
+Summer 2011,CD,305,6,East New York and Starrett City (CD5),32.8,36.3,33.9,O3,386
+Summer 2011,CD,306,6,Park Slope and Carroll Gardens (CD6),28.6,31.6,29.9,O3,386
+Summer 2011,CD,307,6,Sunset Park (CD7),30.2,32.7,31.4,O3,386
+Summer 2011,CD,308,6,Crown Heights and Prospect Heights (CD8),29.7,31.9,30.7,O3,386
+Summer 2011,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),30.8,32.2,31.4,O3,386
+Summer 2011,CD,310,6,Bay Ridge and Dyker Heights (CD10),30.9,34.9,32.5,O3,386
+Summer 2011,CD,311,6,Bensonhurst (CD11),33.4,35.5,34.4,O3,386
+Summer 2011,CD,312,6,Borough Park (CD12),31.4,34.1,32.4,O3,386
+Summer 2011,CD,313,6,Coney Island (CD13),36.1,39.1,37.5,O3,386
+Summer 2011,CD,314,6,Flatbush and Midwood (CD14),31.6,34.1,32.8,O3,386
+Summer 2011,CD,315,6,Sheepshead Bay (CD15),34.7,38.5,36.2,O3,386
+Summer 2011,CD,316,6,Brownsville (CD16),32.2,33.1,32.6,O3,386
+Summer 2011,CD,317,6,East Flatbush (CD17),32,33.9,33,O3,386
+Summer 2011,CD,318,6,Flatlands and Canarsie (CD18),33.9,39.5,35.9,O3,386
+Summer 2011,CD,401,6,Long Island City and Astoria (CD1),32.1,35.6,33.3,O3,386
+Summer 2011,CD,402,6,Woodside and Sunnyside (CD2),32,34.1,32.8,O3,386
+Summer 2011,CD,403,6,Jackson Heights (CD3),32.2,34,33.1,O3,386
+Summer 2011,CD,404,6,Elmhurst and Corona (CD4),31.9,33.3,32.6,O3,386
+Summer 2011,CD,405,6,Ridgewood and Maspeth (CD5),32.3,34.3,33.3,O3,386
+Summer 2011,CD,406,6,Rego Park and Forest Hills (CD6),31.6,32.7,32.2,O3,386
+Summer 2011,CD,407,6,Flushing and Whitestone (CD7),33,35.2,34,O3,386
+Summer 2011,CD,408,6,Hillcrest and Fresh Meadows (CD8),31.9,33.1,32.5,O3,386
+Summer 2011,CD,409,6,Kew Gardens and Woodhaven (CD9),32.1,33.4,32.8,O3,386
+Summer 2011,CD,410,6,South Ozone Park and Howard Beach (CD10),33.1,35.9,34.2,O3,386
+Summer 2011,CD,411,6,Bayside and Little Neck (CD11),32,34.2,33.1,O3,386
+Summer 2011,CD,412,6,Jamaica and Hollis (CD12),32.4,33.6,33,O3,386
+Summer 2011,CD,413,6,Queens Village (CD13),32.8,34.6,33.7,O3,386
+Summer 2011,CD,414,6,Rockaway and Broad Channel (CD14),36.8,41.4,39.1,O3,386
+Summer 2011,CD,501,6,St. George and Stapleton (CD1),30.5,32.9,31.5,O3,386
+Summer 2011,CD,502,6,South Beach and Willowbrook (CD2),31.6,36.7,34.1,O3,386
+Summer 2011,CD,503,6,Tottenville and Great Kills (CD3),34.4,37.5,35.9,O3,386
+Summer 2011,UHF42,101,4,Kingsbridge - Riverdale,30.5,32.1,31.2,O3,386
+Summer 2011,UHF42,102,4,Northeast Bronx,32.8,34.2,33.4,O3,386
+Summer 2011,UHF42,103,4,Fordham - Bronx Pk,30.9,33.2,32.1,O3,386
+Summer 2011,UHF42,104,4,Pelham - Throgs Neck,32.7,36.3,34.2,O3,386
+Summer 2011,UHF42,105,4,Crotona -Tremont,30.4,32.4,31.5,O3,386
+Summer 2011,UHF42,106,4,High Bridge - Morrisania,30.5,31.8,31.1,O3,386
+Summer 2011,UHF42,107,4,Hunts Point - Mott Haven,31.7,35.8,33.4,O3,386
+Summer 2011,UHF42,201,4,Greenpoint,29.8,33.4,31.6,O3,386
+Summer 2011,UHF42,202,4,Downtown - Heights - Slope,28,31.2,29.5,O3,386
+Summer 2011,UHF42,203,4,Bedford Stuyvesant - Crown Heights,30,32.8,31.4,O3,386
+Summer 2011,UHF42,204,4,East New York,32.5,34.7,33.5,O3,386
+Summer 2011,UHF42,205,4,Sunset Park,30.3,32.9,31.5,O3,386
+Summer 2011,UHF42,206,4,Borough Park,31.5,34.1,32.7,O3,386
+Summer 2011,UHF42,207,4,East Flatbush - Flatbush,31.1,34,32.7,O3,386
+Summer 2011,UHF42,208,4,Canarsie - Flatlands,33.9,39.4,35.9,O3,386
+Summer 2011,UHF42,209,4,Bensonhurst - Bay Ridge,31.4,36.2,33.8,O3,386
+Summer 2011,UHF42,210,4,Coney Island - Sheepshead Bay,34.8,38.6,36.6,O3,386
+Summer 2011,UHF42,211,4,Williamsburg - Bushwick,30.6,32.6,31.5,O3,386
+Summer 2011,UHF42,301,4,Washington Heights,29.1,31.5,30.1,O3,386
+Summer 2011,UHF42,302,4,Central Harlem - Morningside Heights,28.4,30.8,29.4,O3,386
+Summer 2011,UHF42,303,4,East Harlem,29.2,31.8,30.2,O3,386
+Summer 2011,UHF42,304,4,Upper West Side,27.3,28.6,27.9,O3,386
+Summer 2011,UHF42,305,4,Upper East Side,24.3,31.2,27.5,O3,386
+Summer 2011,UHF42,306,4,Chelsea - Clinton,20.1,28.4,24.2,O3,386
+Summer 2011,UHF42,307,4,Gramercy Park - Murray Hill,19.7,25.9,22.6,O3,386
+Summer 2011,UHF42,308,4,Greenwich Village - SoHo,25.2,27.9,26.2,O3,386
+Summer 2011,UHF42,309,4,Union Square - Lower East Side,24.3,29.2,26.9,O3,386
+Summer 2011,UHF42,310,4,Lower Manhattan,23.9,26.4,25.1,O3,386
+Summer 2011,UHF42,401,4,Long Island City - Astoria,31.9,33.6,32.7,O3,386
+Summer 2011,UHF42,402,4,West Queens,32.2,34,33,O3,386
+Summer 2011,UHF42,403,4,Flushing - Clearview,33,35.1,33.9,O3,386
+Summer 2011,UHF42,404,4,Bayside - Little Neck,31.7,34.3,33,O3,386
+Summer 2011,UHF42,405,4,Ridgewood - Forest Hills,32,34.2,33,O3,386
+Summer 2011,UHF42,406,4,Fresh Meadows,32.2,34,32.9,O3,386
+Summer 2011,UHF42,407,4,Southwest Queens,32.5,35.1,33.6,O3,386
+Summer 2011,UHF42,408,4,Jamaica,32.2,33.8,33,O3,386
+Summer 2011,UHF42,409,4,Southeast Queens,32.7,34.5,33.6,O3,386
+Summer 2011,UHF42,410,4,Rockaways,36.7,41.2,39,O3,386
+Summer 2011,UHF42,501,4,Port Richmond,30.5,31.9,31,O3,386
+Summer 2011,UHF42,502,4,Stapleton - St. George,30.6,36,33.2,O3,386
+Summer 2011,UHF42,503,4,Willowbrook,31.1,35.4,33.1,O3,386
+Summer 2011,UHF42,504,4,South Beach - Tottenville,34.3,37.6,35.9,O3,386
+Summer 2011,UHF34,101,3,Kingsbridge - Riverdale,30.5,32.1,31.2,O3,386
+Summer 2011,UHF34,102,3,Northeast Bronx,32.8,34.2,33.4,O3,386
+Summer 2011,UHF34,103,3,Fordham - Bronx Pk,30.9,33.2,32.1,O3,386
+Summer 2011,UHF34,104,3,Pelham - Throgs Neck,32.7,36.3,34.2,O3,386
+Summer 2011,UHF34,201,3,Greenpoint,29.8,33.4,31.6,O3,386
+Summer 2011,UHF34,202,3,Downtown - Heights - Slope,28,31.2,29.5,O3,386
+Summer 2011,UHF34,203,3,Bedford Stuyvesant - Crown Heights,30,32.8,31.4,O3,386
+Summer 2011,UHF34,204,3,East New York,32.5,34.7,33.5,O3,386
+Summer 2011,UHF34,205,3,Sunset Park,30.3,32.9,31.5,O3,386
+Summer 2011,UHF34,206,3,Borough Park,31.5,34.1,32.7,O3,386
+Summer 2011,UHF34,207,3,East Flatbush - Flatbush,31.1,34,32.7,O3,386
+Summer 2011,UHF34,208,3,Canarsie - Flatlands,33.9,39.4,35.9,O3,386
+Summer 2011,UHF34,209,3,Bensonhurst - Bay Ridge,31.4,36.2,33.8,O3,386
+Summer 2011,UHF34,210,3,Coney Island - Sheepshead Bay,34.8,38.6,36.6,O3,386
+Summer 2011,UHF34,211,3,Williamsburg - Bushwick,30.6,32.6,31.5,O3,386
+Summer 2011,UHF34,301,3,Washington Heights,29.1,31.5,30.1,O3,386
+Summer 2011,UHF34,302,3,Central Harlem - Morningside Heights,28.4,30.8,29.4,O3,386
+Summer 2011,UHF34,303,3,East Harlem,29.2,31.8,30.2,O3,386
+Summer 2011,UHF34,304,3,Upper West Side,27.3,28.6,27.9,O3,386
+Summer 2011,UHF34,401,3,Long Island City - Astoria,31.9,33.6,32.7,O3,386
+Summer 2011,UHF34,402,3,West Queens,32.2,34,33,O3,386
+Summer 2011,UHF34,403,3,Flushing - Clearview,33,35.1,33.9,O3,386
+Summer 2011,UHF34,405,3,Ridgewood - Forest Hills,32,34.2,33,O3,386
+Summer 2011,UHF34,407,3,Southwest Queens,32.5,35.1,33.6,O3,386
+Summer 2011,UHF34,408,3,Jamaica,32.2,33.8,33,O3,386
+Summer 2011,UHF34,409,3,Southeast Queens,32.7,34.5,33.6,O3,386
+Summer 2011,UHF34,410,3,Rockaways,36.7,41.2,39,O3,386
+Summer 2011,UHF34,305307,3,Upper East Side-Gramercy,20.7,29.4,25.2,O3,386
+Summer 2011,UHF34,306308,3,Chelsea-Village  ,20.8,28.2,24.9,O3,386
+Summer 2011,UHF34,309310,3,Union Square-Lower Manhattan,24.1,29,26.4,O3,386
+Summer 2011,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,32,34.2,33,O3,386
+Summer 2011,UHF34,501502,3,Northern SI,30.5,35.3,32.4,O3,386
+Summer 2011,UHF34,503504,3,Southern SI,31.9,37.1,34.9,O3,386
+Summer 2011,UHF34,105106107,3,South Bronx,30.6,34.9,32.2,O3,386
+Summer 2011,Borough,1,1,Bronx,30.9,35,32.9,O3,386
+Summer 2011,Borough,2,1,Brooklyn,30.2,36.8,33.2,O3,386
+Summer 2011,Borough,3,1,Manhattan,22.8,30.5,27.3,O3,386
+Summer 2011,Borough,4,1,Queens,32.2,35.7,33.7,O3,386
+Summer 2011,Borough,5,1,Staten Island,30.9,36.9,34.2,O3,386
+Summer 2011,Citywide,1,0,New York City,30.4,36.4,33.1,O3,386
+Summer 2010,CD,101,6,Financial District (CD1),25.9,28.4,27,O3,386
+Summer 2010,CD,102,6,Greenwich Village and Soho (CD2),26.5,29.6,27.7,O3,386
+Summer 2010,CD,103,6,Lower East Side and Chinatown (CD3),26.9,30.6,28.8,O3,386
+Summer 2010,CD,104,6,Clinton and Chelsea (CD4),24.5,30.4,27.3,O3,386
+Summer 2010,CD,105,6,Midtown (CD5),20.4,24.6,22.5,O3,386
+Summer 2010,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),22.4,28.2,25.3,O3,386
+Summer 2010,CD,107,6,Upper West Side (CD7),28.2,29.4,28.7,O3,386
+Summer 2010,CD,108,6,Upper East Side (CD8),25,31.8,28.1,O3,386
+Summer 2010,CD,109,6,Morningside Heights and Hamilton Heights (CD9),28.8,30.6,29.6,O3,386
+Summer 2010,CD,110,6,Central Harlem (CD10),28.9,31,29.8,O3,386
+Summer 2010,CD,111,6,East Harlem (CD11),29.6,32,30.6,O3,386
+Summer 2010,CD,112,6,Washington Heights and Inwood (CD12),29.6,32.3,30.7,O3,386
+Summer 2010,CD,201,6,Mott Haven and Melrose (CD1),31.3,33.5,32.1,O3,386
+Summer 2010,CD,202,6,Hunts Point and Longwood (CD2),32,35.6,33.6,O3,386
+Summer 2010,CD,203,6,Morrisania and Crotona (CD3),31.4,32.6,31.9,O3,386
+Summer 2010,CD,204,6,Highbridge and Concourse (CD4),30.5,31.6,31,O3,386
+Summer 2010,CD,205,6,Fordham and University Heights (CD5),30.4,31.5,31,O3,386
+Summer 2010,CD,206,6,Belmont and East Tremont (CD6),31.6,32.5,32.1,O3,386
+Summer 2010,CD,207,6,Kingsbridge Heights and Bedford (CD7),31,32.6,31.9,O3,386
+Summer 2010,CD,208,6,Riverdale and Fieldston (CD8),31.1,33,32,O3,386
+Summer 2010,CD,209,6,Parkchester and Soundview (CD9),32.4,35.4,33.5,O3,386
+Summer 2010,CD,210,6,Throgs Neck and Co-op City (CD10),33.5,37,35,O3,386
+Summer 2010,CD,211,6,Morris Park and Bronxdale (CD11),32.9,34.5,33.7,O3,386
+Summer 2010,CD,212,6,Williamsbridge and Baychester (CD12),33.2,34.6,33.8,O3,386
+Summer 2010,CD,301,6,Greenpoint and Williamsburg (CD1),31.1,34.1,32.5,O3,386
+Summer 2010,CD,302,6,Fort Greene and Brooklyn Heights (CD2),29.1,32.1,30.5,O3,386
+Summer 2010,CD,303,6,Bedford Stuyvesant (CD3),31.3,32.4,31.8,O3,386
+Summer 2010,CD,304,6,Bushwick (CD4),32.4,34,33,O3,386
+Summer 2010,CD,305,6,East New York and Starrett City (CD5),33.2,36.6,34.3,O3,386
+Summer 2010,CD,306,6,Park Slope and Carroll Gardens (CD6),30,33.1,31.3,O3,386
+Summer 2010,CD,307,6,Sunset Park (CD7),31.5,33.8,32.6,O3,386
+Summer 2010,CD,308,6,Crown Heights and Prospect Heights (CD8),30.9,32.6,31.7,O3,386
+Summer 2010,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),31.7,33,32.2,O3,386
+Summer 2010,CD,310,6,Bay Ridge and Dyker Heights (CD10),31.9,35.5,33.4,O3,386
+Summer 2010,CD,311,6,Bensonhurst (CD11),34,35.7,34.9,O3,386
+Summer 2010,CD,312,6,Borough Park (CD12),32.4,34.6,33.2,O3,386
+Summer 2010,CD,313,6,Coney Island (CD13),36,39,37.4,O3,386
+Summer 2010,CD,314,6,Flatbush and Midwood (CD14),32.4,34.4,33.4,O3,386
+Summer 2010,CD,315,6,Sheepshead Bay (CD15),34.9,38.3,36.2,O3,386
+Summer 2010,CD,316,6,Brownsville (CD16),32.8,33.7,33.2,O3,386
+Summer 2010,CD,317,6,East Flatbush (CD17),32.7,34.4,33.6,O3,386
+Summer 2010,CD,318,6,Flatlands and Canarsie (CD18),34.3,39.4,36.1,O3,386
+Summer 2010,CD,401,6,Long Island City and Astoria (CD1),32.3,35.5,33.4,O3,386
+Summer 2010,CD,402,6,Woodside and Sunnyside (CD2),32.4,34.6,33.3,O3,386
+Summer 2010,CD,403,6,Jackson Heights (CD3),32.2,34,33.1,O3,386
+Summer 2010,CD,404,6,Elmhurst and Corona (CD4),32,33.3,32.7,O3,386
+Summer 2010,CD,405,6,Ridgewood and Maspeth (CD5),32.7,34.8,33.7,O3,386
+Summer 2010,CD,406,6,Rego Park and Forest Hills (CD6),31.9,33,32.5,O3,386
+Summer 2010,CD,407,6,Flushing and Whitestone (CD7),33,35.1,34,O3,386
+Summer 2010,CD,408,6,Hillcrest and Fresh Meadows (CD8),32.3,33.5,32.9,O3,386
+Summer 2010,CD,409,6,Kew Gardens and Woodhaven (CD9),32.5,33.8,33.2,O3,386
+Summer 2010,CD,410,6,South Ozone Park and Howard Beach (CD10),33.5,36.2,34.6,O3,386
+Summer 2010,CD,411,6,Bayside and Little Neck (CD11),32.5,34.7,33.6,O3,386
+Summer 2010,CD,412,6,Jamaica and Hollis (CD12),33,34.2,33.6,O3,386
+Summer 2010,CD,413,6,Queens Village (CD13),33.6,35.3,34.4,O3,386
+Summer 2010,CD,414,6,Rockaway and Broad Channel (CD14),37,40.9,39.1,O3,386
+Summer 2010,CD,501,6,St. George and Stapleton (CD1),32.1,34.2,33,O3,386
+Summer 2010,CD,502,6,South Beach and Willowbrook (CD2),32.8,37.6,35.2,O3,386
+Summer 2010,CD,503,6,Tottenville and Great Kills (CD3),35,37.9,36.5,O3,386
+Summer 2010,UHF42,101,4,Kingsbridge - Riverdale,31.1,32.8,31.9,O3,386
+Summer 2010,UHF42,102,4,Northeast Bronx,33.3,34.8,34,O3,386
+Summer 2010,UHF42,103,4,Fordham - Bronx Pk,31.2,33.8,32.5,O3,386
+Summer 2010,UHF42,104,4,Pelham - Throgs Neck,32.7,36.4,34.3,O3,386
+Summer 2010,UHF42,105,4,Crotona -Tremont,30.6,32.5,31.6,O3,386
+Summer 2010,UHF42,106,4,High Bridge - Morrisania,30.6,31.8,31.2,O3,386
+Summer 2010,UHF42,107,4,Hunts Point - Mott Haven,31.7,35.6,33.3,O3,386
+Summer 2010,UHF42,201,4,Greenpoint,30.9,34.2,32.5,O3,386
+Summer 2010,UHF42,202,4,Downtown - Heights - Slope,29.5,32.6,30.9,O3,386
+Summer 2010,UHF42,203,4,Bedford Stuyvesant - Crown Heights,31.2,33.4,32.3,O3,386
+Summer 2010,UHF42,204,4,East New York,33,35.1,34,O3,386
+Summer 2010,UHF42,205,4,Sunset Park,31.5,34.1,32.7,O3,386
+Summer 2010,UHF42,206,4,Borough Park,32.4,34.5,33.4,O3,386
+Summer 2010,UHF42,207,4,East Flatbush - Flatbush,32,34.4,33.3,O3,386
+Summer 2010,UHF42,208,4,Canarsie - Flatlands,34.3,39.4,36.1,O3,386
+Summer 2010,UHF42,209,4,Bensonhurst - Bay Ridge,32.4,36.6,34.5,O3,386
+Summer 2010,UHF42,210,4,Coney Island - Sheepshead Bay,35,38.4,36.5,O3,386
+Summer 2010,UHF42,211,4,Williamsburg - Bushwick,31.6,33.4,32.4,O3,386
+Summer 2010,UHF42,301,4,Washington Heights,29.5,32,30.5,O3,386
+Summer 2010,UHF42,302,4,Central Harlem - Morningside Heights,28.8,31,29.8,O3,386
+Summer 2010,UHF42,303,4,East Harlem,29.6,32,30.5,O3,386
+Summer 2010,UHF42,304,4,Upper West Side,28.2,29.3,28.7,O3,386
+Summer 2010,UHF42,305,4,Upper East Side,25.3,31.9,28.2,O3,386
+Summer 2010,UHF42,306,4,Chelsea - Clinton,21.6,29.8,25.6,O3,386
+Summer 2010,UHF42,307,4,Gramercy Park - Murray Hill,21.1,27.1,23.9,O3,386
+Summer 2010,UHF42,308,4,Greenwich Village - SoHo,26.8,29.5,27.9,O3,386
+Summer 2010,UHF42,309,4,Union Square - Lower East Side,25.8,30.6,28.4,O3,386
+Summer 2010,UHF42,310,4,Lower Manhattan,25.8,28.2,26.9,O3,386
+Summer 2010,UHF42,401,4,Long Island City - Astoria,32.3,33.9,33,O3,386
+Summer 2010,UHF42,402,4,West Queens,32.3,34.2,33.2,O3,386
+Summer 2010,UHF42,403,4,Flushing - Clearview,33.1,35.1,34,O3,386
+Summer 2010,UHF42,404,4,Bayside - Little Neck,32.3,34.8,33.5,O3,386
+Summer 2010,UHF42,405,4,Ridgewood - Forest Hills,32.2,34.6,33.3,O3,386
+Summer 2010,UHF42,406,4,Fresh Meadows,32.5,34.2,33.2,O3,386
+Summer 2010,UHF42,407,4,Southwest Queens,32.9,35.5,34,O3,386
+Summer 2010,UHF42,408,4,Jamaica,32.7,34.4,33.5,O3,386
+Summer 2010,UHF42,409,4,Southeast Queens,33.4,35.2,34.3,O3,386
+Summer 2010,UHF42,410,4,Rockaways,37,40.8,39,O3,386
+Summer 2010,UHF42,501,4,Port Richmond,32.2,33.7,32.7,O3,386
+Summer 2010,UHF42,502,4,Stapleton - St. George,32.2,36.7,34.3,O3,386
+Summer 2010,UHF42,503,4,Willowbrook,32.4,36.6,34.4,O3,386
+Summer 2010,UHF42,504,4,South Beach - Tottenville,35,38.1,36.5,O3,386
+Summer 2010,UHF34,101,3,Kingsbridge - Riverdale,31.1,32.8,31.9,O3,386
+Summer 2010,UHF34,102,3,Northeast Bronx,33.3,34.8,34,O3,386
+Summer 2010,UHF34,103,3,Fordham - Bronx Pk,31.2,33.8,32.5,O3,386
+Summer 2010,UHF34,104,3,Pelham - Throgs Neck,32.7,36.4,34.3,O3,386
+Summer 2010,UHF34,201,3,Greenpoint,30.9,34.2,32.5,O3,386
+Summer 2010,UHF34,202,3,Downtown - Heights - Slope,29.5,32.6,30.9,O3,386
+Summer 2010,UHF34,203,3,Bedford Stuyvesant - Crown Heights,31.2,33.4,32.3,O3,386
+Summer 2010,UHF34,204,3,East New York,33,35.1,34,O3,386
+Summer 2010,UHF34,205,3,Sunset Park,31.5,34.1,32.7,O3,386
+Summer 2010,UHF34,206,3,Borough Park,32.4,34.5,33.4,O3,386
+Summer 2010,UHF34,207,3,East Flatbush - Flatbush,32,34.4,33.3,O3,386
+Summer 2010,UHF34,208,3,Canarsie - Flatlands,34.3,39.4,36.1,O3,386
+Summer 2010,UHF34,209,3,Bensonhurst - Bay Ridge,32.4,36.6,34.5,O3,386
+Summer 2010,UHF34,210,3,Coney Island - Sheepshead Bay,35,38.4,36.5,O3,386
+Summer 2010,UHF34,211,3,Williamsburg - Bushwick,31.6,33.4,32.4,O3,386
+Summer 2010,UHF34,301,3,Washington Heights,29.5,32,30.5,O3,386
+Summer 2010,UHF34,302,3,Central Harlem - Morningside Heights,28.8,31,29.8,O3,386
+Summer 2010,UHF34,303,3,East Harlem,29.6,32,30.5,O3,386
+Summer 2010,UHF34,304,3,Upper West Side,28.2,29.3,28.7,O3,386
+Summer 2010,UHF34,401,3,Long Island City - Astoria,32.3,33.9,33,O3,386
+Summer 2010,UHF34,402,3,West Queens,32.3,34.2,33.2,O3,386
+Summer 2010,UHF34,403,3,Flushing - Clearview,33.1,35.1,34,O3,386
+Summer 2010,UHF34,405,3,Ridgewood - Forest Hills,32.2,34.6,33.3,O3,386
+Summer 2010,UHF34,407,3,Southwest Queens,32.9,35.5,34,O3,386
+Summer 2010,UHF34,408,3,Jamaica,32.7,34.4,33.5,O3,386
+Summer 2010,UHF34,409,3,Southeast Queens,33.4,35.2,34.3,O3,386
+Summer 2010,UHF34,410,3,Rockaways,37,40.8,39,O3,386
+Summer 2010,UHF34,305307,3,Upper East Side-Gramercy,22,29.9,26.2,O3,386
+Summer 2010,UHF34,306308,3,Chelsea-Village  ,22.3,29.7,26.4,O3,386
+Summer 2010,UHF34,309310,3,Union Square-Lower Manhattan,25.8,30.4,27.9,O3,386
+Summer 2010,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,32.4,34.5,33.4,O3,386
+Summer 2010,UHF34,501502,3,Northern SI,32.2,36.2,33.8,O3,386
+Summer 2010,UHF34,503504,3,Southern SI,33.2,37.7,35.8,O3,386
+Summer 2010,UHF34,105106107,3,South Bronx,30.8,34.8,32.2,O3,386
+Summer 2010,Borough,1,1,Bronx,31.2,35.1,33.2,O3,386
+Summer 2010,Borough,2,1,Brooklyn,31.4,36.8,33.8,O3,386
+Summer 2010,Borough,3,1,Manhattan,24.2,31,28.2,O3,386
+Summer 2010,Borough,4,1,Queens,32.6,35.8,34.1,O3,386
+Summer 2010,Borough,5,1,Staten Island,32.5,37.5,35.2,O3,386
+Summer 2010,Citywide,1,0,New York City,31.2,36.8,33.7,O3,386
+Summer 2009,CD,101,6,Financial District (CD1),17.8,20.7,19.1,O3,386
+Summer 2009,CD,102,6,Greenwich Village and Soho (CD2),19.1,22.7,20.5,O3,386
+Summer 2009,CD,103,6,Lower East Side and Chinatown (CD3),19.5,23.6,21.6,O3,386
+Summer 2009,CD,104,6,Clinton and Chelsea (CD4),16.9,23.7,20.3,O3,386
+Summer 2009,CD,105,6,Midtown (CD5),12,16.9,14.4,O3,386
+Summer 2009,CD,106,6,Stuyvesant Town and Turtle Bay (CD6),14.4,21.2,17.8,O3,386
+Summer 2009,CD,107,6,Upper West Side (CD7),20.7,22.2,21.4,O3,386
+Summer 2009,CD,108,6,Upper East Side (CD8),17.5,25.2,20.8,O3,386
+Summer 2009,CD,109,6,Morningside Heights and Hamilton Heights (CD9),20.7,22.3,21.3,O3,386
+Summer 2009,CD,110,6,Central Harlem (CD10),20.8,22.6,21.6,O3,386
+Summer 2009,CD,111,6,East Harlem (CD11),21.9,24.3,22.8,O3,386
+Summer 2009,CD,112,6,Washington Heights and Inwood (CD12),20.8,23.7,21.9,O3,386
+Summer 2009,CD,201,6,Mott Haven and Melrose (CD1),22.9,25.6,24,O3,386
+Summer 2009,CD,202,6,Hunts Point and Longwood (CD2),23.6,27.6,25.5,O3,386
+Summer 2009,CD,203,6,Morrisania and Crotona (CD3),22.8,24.2,23.4,O3,386
+Summer 2009,CD,204,6,Highbridge and Concourse (CD4),21.7,23.1,22.3,O3,386
+Summer 2009,CD,205,6,Fordham and University Heights (CD5),21.6,22.8,22.2,O3,386
+Summer 2009,CD,206,6,Belmont and East Tremont (CD6),23,24.2,23.7,O3,386
+Summer 2009,CD,207,6,Kingsbridge Heights and Bedford (CD7),22.4,24.6,23.6,O3,386
+Summer 2009,CD,208,6,Riverdale and Fieldston (CD8),22.8,24.8,23.7,O3,386
+Summer 2009,CD,209,6,Parkchester and Soundview (CD9),24.3,27.6,25.6,O3,386
+Summer 2009,CD,210,6,Throgs Neck and Co-op City (CD10),26.2,30,27.8,O3,386
+Summer 2009,CD,211,6,Morris Park and Bronxdale (CD11),25,27.2,26.1,O3,386
+Summer 2009,CD,212,6,Williamsbridge and Baychester (CD12),25.6,27.8,26.6,O3,386
+Summer 2009,CD,301,6,Greenpoint and Williamsburg (CD1),23.7,27.2,25.4,O3,386
+Summer 2009,CD,302,6,Fort Greene and Brooklyn Heights (CD2),21.2,24.7,22.7,O3,386
+Summer 2009,CD,303,6,Bedford Stuyvesant (CD3),23.4,24.5,23.9,O3,386
+Summer 2009,CD,304,6,Bushwick (CD4),24.7,26.3,25.3,O3,386
+Summer 2009,CD,305,6,East New York and Starrett City (CD5),25.5,29.2,26.7,O3,386
+Summer 2009,CD,306,6,Park Slope and Carroll Gardens (CD6),22,25.3,23.4,O3,386
+Summer 2009,CD,307,6,Sunset Park (CD7),23.3,25.8,24.5,O3,386
+Summer 2009,CD,308,6,Crown Heights and Prospect Heights (CD8),22.9,24.7,23.6,O3,386
+Summer 2009,CD,309,6,South Crown Heights and Lefferts Gardens (CD9),23.7,25,24.2,O3,386
+Summer 2009,CD,310,6,Bay Ridge and Dyker Heights (CD10),23.9,27.9,25.6,O3,386
+Summer 2009,CD,311,6,Bensonhurst (CD11),26.3,28.4,27.4,O3,386
+Summer 2009,CD,312,6,Borough Park (CD12),24.3,27,25.3,O3,386
+Summer 2009,CD,313,6,Coney Island (CD13),29.1,32.2,30.6,O3,386
+Summer 2009,CD,314,6,Flatbush and Midwood (CD14),24.3,26.9,25.6,O3,386
+Summer 2009,CD,315,6,Sheepshead Bay (CD15),27.6,31.8,29.3,O3,386
+Summer 2009,CD,316,6,Brownsville (CD16),24.9,25.9,25.4,O3,386
+Summer 2009,CD,317,6,East Flatbush (CD17),24.8,26.7,25.7,O3,386
+Summer 2009,CD,318,6,Flatlands and Canarsie (CD18),26.8,32.9,29,O3,386
+Summer 2009,CD,401,6,Long Island City and Astoria (CD1),25.3,27.8,26.3,O3,386
+Summer 2009,CD,402,6,Woodside and Sunnyside (CD2),25.3,27.7,26.4,O3,386
+Summer 2009,CD,403,6,Jackson Heights (CD3),24.6,26.4,25.5,O3,386
+Summer 2009,CD,404,6,Elmhurst and Corona (CD4),24.2,25.6,24.9,O3,386
+Summer 2009,CD,405,6,Ridgewood and Maspeth (CD5),25.1,27.2,26.1,O3,386
+Summer 2009,CD,406,6,Rego Park and Forest Hills (CD6),23.9,25.1,24.5,O3,386
+Summer 2009,CD,407,6,Flushing and Whitestone (CD7),25.1,27.5,26.3,O3,386
+Summer 2009,CD,408,6,Hillcrest and Fresh Meadows (CD8),24.5,25.8,25.2,O3,386
+Summer 2009,CD,409,6,Kew Gardens and Woodhaven (CD9),24.6,26,25.4,O3,386
+Summer 2009,CD,410,6,South Ozone Park and Howard Beach (CD10),26,29.1,27.2,O3,386
+Summer 2009,CD,411,6,Bayside and Little Neck (CD11),25.1,27.6,26.3,O3,386
+Summer 2009,CD,412,6,Jamaica and Hollis (CD12),25.3,27.2,26.4,O3,386
+Summer 2009,CD,413,6,Queens Village (CD13),26.5,28.9,27.8,O3,386
+Summer 2009,CD,414,6,Rockaway and Broad Channel (CD14),31.7,35.3,33.7,O3,386
+Summer 2009,CD,501,6,St. George and Stapleton (CD1),23.9,26.2,24.9,O3,386
+Summer 2009,CD,502,6,South Beach and Willowbrook (CD2),24.6,29.4,27,O3,386
+Summer 2009,CD,503,6,Tottenville and Great Kills (CD3),25.8,29.4,27.6,O3,386
+Summer 2009,UHF42,101,4,Kingsbridge - Riverdale,22.8,24.7,23.7,O3,386
+Summer 2009,UHF42,102,4,Northeast Bronx,26,28,26.8,O3,386
+Summer 2009,UHF42,103,4,Fordham - Bronx Pk,22.6,26.3,24.5,O3,386
+Summer 2009,UHF42,104,4,Pelham - Throgs Neck,24.7,29.2,26.7,O3,386
+Summer 2009,UHF42,105,4,Crotona -Tremont,21.8,24.2,23.1,O3,386
+Summer 2009,UHF42,106,4,High Bridge - Morrisania,21.8,23.4,22.6,O3,386
+Summer 2009,UHF42,107,4,Hunts Point - Mott Haven,23.4,27.8,25.2,O3,386
+Summer 2009,UHF42,201,4,Greenpoint,23.5,27.4,25.6,O3,386
+Summer 2009,UHF42,202,4,Downtown - Heights - Slope,21.6,24.9,23.1,O3,386
+Summer 2009,UHF42,203,4,Bedford Stuyvesant - Crown Heights,23.2,25.5,24.3,O3,386
+Summer 2009,UHF42,204,4,East New York,25.3,27.5,26.3,O3,386
+Summer 2009,UHF42,205,4,Sunset Park,23.4,26.1,24.6,O3,386
+Summer 2009,UHF42,206,4,Borough Park,24.3,27,25.5,O3,386
+Summer 2009,UHF42,207,4,East Flatbush - Flatbush,23.9,26.8,25.5,O3,386
+Summer 2009,UHF42,208,4,Canarsie - Flatlands,26.8,32.8,29,O3,386
+Summer 2009,UHF42,209,4,Bensonhurst - Bay Ridge,24.5,29.2,26.9,O3,386
+Summer 2009,UHF42,210,4,Coney Island - Sheepshead Bay,27.8,31.9,29.6,O3,386
+Summer 2009,UHF42,211,4,Williamsburg - Bushwick,23.8,25.9,24.8,O3,386
+Summer 2009,UHF42,301,4,Washington Heights,20.8,23.4,21.8,O3,386
+Summer 2009,UHF42,302,4,Central Harlem - Morningside Heights,20.7,22.7,21.5,O3,386
+Summer 2009,UHF42,303,4,East Harlem,21.9,24.4,22.8,O3,386
+Summer 2009,UHF42,304,4,Upper West Side,20.6,22.2,21.3,O3,386
+Summer 2009,UHF42,305,4,Upper East Side,17.7,25.2,20.9,O3,386
+Summer 2009,UHF42,306,4,Chelsea - Clinton,13.3,23.1,18.2,O3,386
+Summer 2009,UHF42,307,4,Gramercy Park - Murray Hill,12.7,19.8,16.1,O3,386
+Summer 2009,UHF42,308,4,Greenwich Village - SoHo,19.3,22.7,20.6,O3,386
+Summer 2009,UHF42,309,4,Union Square - Lower East Side,18.4,23.6,21.2,O3,386
+Summer 2009,UHF42,310,4,Lower Manhattan,17.6,20.3,18.9,O3,386
+Summer 2009,UHF42,401,4,Long Island City - Astoria,25.3,27.1,26.1,O3,386
+Summer 2009,UHF42,402,4,West Queens,24.7,26.8,25.7,O3,386
+Summer 2009,UHF42,403,4,Flushing - Clearview,25.2,27.5,26.3,O3,386
+Summer 2009,UHF42,404,4,Bayside - Little Neck,24.9,27.8,26.3,O3,386
+Summer 2009,UHF42,405,4,Ridgewood - Forest Hills,24.2,27,25.6,O3,386
+Summer 2009,UHF42,406,4,Fresh Meadows,24.7,26.4,25.4,O3,386
+Summer 2009,UHF42,407,4,Southwest Queens,25.1,28.2,26.5,O3,386
+Summer 2009,UHF42,408,4,Jamaica,24.9,27.3,26.1,O3,386
+Summer 2009,UHF42,409,4,Southeast Queens,26.3,28.9,27.6,O3,386
+Summer 2009,UHF42,410,4,Rockaways,31.7,35.2,33.6,O3,386
+Summer 2009,UHF42,501,4,Port Richmond,23.9,25.2,24.4,O3,386
+Summer 2009,UHF42,502,4,Stapleton - St. George,24.2,29.1,26.5,O3,386
+Summer 2009,UHF42,503,4,Willowbrook,24.2,28,26,O3,386
+Summer 2009,UHF42,504,4,South Beach - Tottenville,25.9,29.7,27.8,O3,386
+Summer 2009,UHF34,101,3,Kingsbridge - Riverdale,22.8,24.7,23.7,O3,386
+Summer 2009,UHF34,102,3,Northeast Bronx,26,28,26.8,O3,386
+Summer 2009,UHF34,103,3,Fordham - Bronx Pk,22.6,26.3,24.5,O3,386
+Summer 2009,UHF34,104,3,Pelham - Throgs Neck,24.7,29.2,26.7,O3,386
+Summer 2009,UHF34,201,3,Greenpoint,23.5,27.4,25.6,O3,386
+Summer 2009,UHF34,202,3,Downtown - Heights - Slope,21.6,24.9,23.1,O3,386
+Summer 2009,UHF34,203,3,Bedford Stuyvesant - Crown Heights,23.2,25.5,24.3,O3,386
+Summer 2009,UHF34,204,3,East New York,25.3,27.5,26.3,O3,386
+Summer 2009,UHF34,205,3,Sunset Park,23.4,26.1,24.6,O3,386
+Summer 2009,UHF34,206,3,Borough Park,24.3,27,25.5,O3,386
+Summer 2009,UHF34,207,3,East Flatbush - Flatbush,23.9,26.8,25.5,O3,386
+Summer 2009,UHF34,208,3,Canarsie - Flatlands,26.8,32.8,29,O3,386
+Summer 2009,UHF34,209,3,Bensonhurst - Bay Ridge,24.5,29.2,26.9,O3,386
+Summer 2009,UHF34,210,3,Coney Island - Sheepshead Bay,27.8,31.9,29.6,O3,386
+Summer 2009,UHF34,211,3,Williamsburg - Bushwick,23.8,25.9,24.8,O3,386
+Summer 2009,UHF34,301,3,Washington Heights,20.8,23.4,21.8,O3,386
+Summer 2009,UHF34,302,3,Central Harlem - Morningside Heights,20.7,22.7,21.5,O3,386
+Summer 2009,UHF34,303,3,East Harlem,21.9,24.4,22.8,O3,386
+Summer 2009,UHF34,304,3,Upper West Side,20.6,22.2,21.3,O3,386
+Summer 2009,UHF34,401,3,Long Island City - Astoria,25.3,27.1,26.1,O3,386
+Summer 2009,UHF34,402,3,West Queens,24.7,26.8,25.7,O3,386
+Summer 2009,UHF34,403,3,Flushing - Clearview,25.2,27.5,26.3,O3,386
+Summer 2009,UHF34,405,3,Ridgewood - Forest Hills,24.2,27,25.6,O3,386
+Summer 2009,UHF34,407,3,Southwest Queens,25.1,28.2,26.5,O3,386
+Summer 2009,UHF34,408,3,Jamaica,24.9,27.3,26.1,O3,386
+Summer 2009,UHF34,409,3,Southeast Queens,26.3,28.9,27.6,O3,386
+Summer 2009,UHF34,410,3,Rockaways,31.7,35.2,33.6,O3,386
+Summer 2009,UHF34,305307,3,Upper East Side-Gramercy,13.9,22.7,18.6,O3,386
+Summer 2009,UHF34,306308,3,Chelsea-Village  ,14.2,22.9,19,O3,386
+Summer 2009,UHF34,309310,3,Union Square-Lower Manhattan,17.9,23.4,20.4,O3,386
+Summer 2009,UHF34,404406,3,Bayside Little Neck-Fresh Meadows,24.8,27.4,25.9,O3,386
+Summer 2009,UHF34,501502,3,Northern SI,24,28.4,25.8,O3,386
+Summer 2009,UHF34,503504,3,Southern SI,24.8,29.2,27.1,O3,386
+Summer 2009,UHF34,105106107,3,South Bronx,22,26.8,23.9,O3,386
+Summer 2009,Borough,1,1,Bronx,22.7,27.9,25.3,O3,386
+Summer 2009,Borough,2,1,Brooklyn,23.4,29.9,26.3,O3,386
+Summer 2009,Borough,3,1,Manhattan,16.5,23.2,20.4,O3,386
+Summer 2009,Borough,4,1,Queens,24.9,28.8,26.8,O3,386
+Summer 2009,Borough,5,1,Staten Island,24.2,29.1,26.7,O3,386
+Summer 2009,Citywide,1,0,New York City,23,28.9,26,O3,386
