@@ -13,15 +13,15 @@ from scipy.stats import randint as sp_randint
 from scipy.stats import uniform as sp_uniform
 
 
-ozone_data = pd.read_csv(r'C:\Users\Jo\Desktop\Big Data\Ozone (O3).csv')
-pm_data = pd.read_csv(r'C:\Users\Jo\Desktop\Big Data\Fine Particles (PM 2.5).csv')
-nitrogen_data = pd.read_csv(r'C:\Users\Jo\Desktop\Big Data\Nitrogen dioxide (NO2).csv')
+ozone_data = pd.read_csv('Ozone (O3).csv')
+pm_data = pd.read_csv('Fine Particles (PM 2.5).csv')
+nitrogen_data = pd.read_csv('Nitrogen dioxide (NO2).csv')
 
 combined_air_quality_data = pd.concat([ozone_data, pm_data, nitrogen_data])
 
 combined_air_quality_data['Year'] = pd.to_datetime(combined_air_quality_data['TimePeriod'].str.extract('(\d{4})')[0]).dt.year
 combined_air_quality_data = combined_air_quality_data.sort_values('Year')
-combined_air_quality_data.to_csv(r'C:\Users\Jo\Desktop\Big Data\combined_air_quality_data.csv', index=False)
+combined_air_quality_data.to_csv('combined_air_quality_data.csv', index=False)
 
 
 X = combined_air_quality_data[['GeoID', 'IndicatorID', 'Year']]  # Varijable koje utiču na predikciju
@@ -58,7 +58,7 @@ predictions_2023 = random_search.predict(predictions_df_2023[['GeoID', 'Indicato
 
 predictions_df_2023['PredictedMean'] = predictions_2023
 
-predictions_df_2023.to_csv(r'C:\Users\Jo\Desktop\Big Data\predictions_df_2023.csv', index=False)
+predictions_df_2023.to_csv('predictions_df_2023.csv', index=False)
 max_indices = predictions_df_2023.groupby('IndicatorID')['PredictedMean'].idxmax()
 min_indices = predictions_df_2023.groupby('IndicatorID')['PredictedMean'].idxmin()
 
@@ -83,7 +83,7 @@ for year in range(2023, 2027):
     predictions_df_2023 = pd.concat([predictions_df_2023, predictions_df_yearly], ignore_index=True)
 
 grouped_predictions = predictions_df_2023.groupby(['Year', 'IndicatorID'])['PredictedMean'].mean().reset_index()
-predictions_df_2023.to_csv(r'C:\Users\Jo\Desktop\Big Data\predictions_df_2023.csv', index=False)
+predictions_df_2023.to_csv('predictions_df_2023.csv', index=False)
 
 ###########################################################################
 #predictions_df_2023 = predictions_df_2023.rename(columns={'PredictedMean': 'Mean'})
@@ -92,9 +92,9 @@ predictions_df_2023.to_csv(r'C:\Users\Jo\Desktop\Big Data\predictions_df_2023.cs
 
 indicator_names = {385: 'O3', 375: 'NO2', 365: 'PM2.5'}
 
-combined_air_quality_data = combined_air_quality_data.groupby(['IndicatorID', 'Year'])['Mean'].mean().reset_index()
+combined_air_quality_data_graph = combined_air_quality_data.groupby(['IndicatorID', 'Year'])['Mean'].mean().reset_index()
 
-pivot_data = combined_air_quality_data.pivot(index='Year', columns='IndicatorID', values='Mean')
+pivot_data = combined_air_quality_data_graph.pivot(index='Year', columns='IndicatorID', values='Mean')
 
 diff_data = pivot_data.sub(pivot_data.loc[2009], axis=1).mul(100).div(pivot_data.loc[2009])
 
